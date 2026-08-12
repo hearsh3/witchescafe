@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Maqhaa al-Saahirat · the Witches' Cafe</title>
+<meta name="description" content="The Witches' Cafe of the Banat al-Rih, where the past, current and future tales of Solaris-3 are kept. Pull up a chair.">
+<meta name="theme-color" content="#150c26">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Maqhaa">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- the cafe, doing what it does ------------------------------------------ -->
+<div class="bg" aria-hidden="true"></div>
+<video class="bg-vid" id="bgvid" aria-hidden="true" muted loop playsinline
+       preload="none" poster="assets/cafebright-poster.jpg"></video>
+<div class="bg-grade" aria-hidden="true"></div>
+<canvas id="dust" class="dust" aria-hidden="true"></canvas>
+<div class="scanlines" aria-hidden="true"></div>
+<div class="vignette" aria-hidden="true"></div>
+
+<!-- ======================================================================= -->
+<!-- THE DOOR                                                                -->
+<!-- ======================================================================= -->
+<div id="door" class="door">
+  <div class="door-card">
+    <p class="door-kicker">BANAT AL-RIH · بنات الريح · DAUGHTERS OF THE WIND</p>
+    <h1 class="door-logo">MAQHAA<br>AL-SAAHIRAT</h1>
+    <p class="door-arabic" lang="ar" dir="rtl">مقهى الساحرات</p>
+    <p class="door-motto">the witches' cafe</p>
+    <div class="door-plate">
+      <p>THE LIBRARY — <span id="door-count">…</span></p>
+      <p>HOURS — <span>whoever is nearest takes the counter</span></p>
+      <p>MEMBERSHIP — <span class="blank">[this field intentionally left blank]</span></p>
+    </div>
+    <button id="btn-enter" class="btn-enter" type="button">
+      <span class="key">☕</span> COME IN OUT OF THE RAIN
+    </button>
+    <p class="door-warn">The lamps are lit. The kettle is on.<br>The coming-back is built in.</p>
+  </div>
+</div>
+
+<!-- ======================================================================= -->
+<main id="cafe" class="cafe" hidden>
+
+  <header class="topbar panel">
+    <button class="brand" id="brand" type="button" title="Back to the menu">
+      <span class="brand-mark" aria-hidden="true">☕</span>
+      <span class="brand-txt">
+        <span class="brand-name">MAQHAA AL-SAAHIRAT</span>
+        <span class="brand-sub" id="board">the lamps are lit</span>
+      </span>
+    </button>
+
+    <div class="topbar-tools">
+      <button class="icobtn" id="btn-theme"   type="button" title="Change the room" aria-label="Change the room">◐</button>
+      <button class="icobtn" id="btn-jukebox" type="button" title="Jukebox &amp; ambience" aria-label="Jukebox and ambience">♫</button>
+      <button class="icobtn" id="btn-seats"   type="button" title="Who's sitting with you" aria-label="Choose sprites">☻</button>
+      <button class="icobtn" id="btn-prefs"   type="button" title="Settings" aria-label="Settings">⚙</button>
+    </div>
+  </header>
+
+  <!-- ---- THE MENU ------------------------------------------------------- -->
+  <section id="view-menu" class="view view-menu">
+
+    <div class="menu-head panel">
+      <div class="menu-head-l">
+        <p class="mini-label">THE MENU</p>
+        <h2 class="menu-title">Today's Pours</h2>
+        <p class="menu-note" id="menu-note">—</p>
+      </div>
+      <div class="menu-head-r">
+        <label class="search">
+          <span aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="ask for something…" aria-label="Search the menu" autocomplete="off">
+        </label>
+        <div class="sorts" id="sorts" role="group" aria-label="Sort the menu"></div>
+      </div>
+    </div>
+
+    <ol class="tracklist" id="tracklist"></ol>
+    <p class="menu-empty" id="menu-empty" hidden>Nothing on the board by that name. Herta suggests you check your spelling; Herta suggests that about everything.</p>
+  </section>
+
+  <!-- ---- THE READING ---------------------------------------------------- -->
+  <section id="view-read" class="view view-read" hidden>
+    <div class="read-bar panel">
+      <button class="icobtn" id="btn-back" type="button" title="Back to the menu" aria-label="Back to the menu">◀</button>
+      <div class="read-id">
+        <h2 class="read-title" id="read-title">—</h2>
+        <p class="read-sub" id="read-sub"></p>
+      </div>
+      <div class="read-tools">
+        <button class="icobtn" id="btn-vn" type="button" title="Visual novel mode" aria-label="Toggle visual novel mode">▤</button>
+        <button class="icobtn" id="btn-done" type="button" title="Mark as read" aria-label="Mark as read">◔</button>
+      </div>
+      <div class="read-prog"><div class="read-prog-fill" id="read-prog"></div></div>
+    </div>
+
+    <article class="page" id="page" tabindex="-1"></article>
+
+    <div class="resume-toast" id="resume" hidden>
+      <p id="resume-txt">You left off partway.</p>
+      <div class="resume-btns">
+        <button class="btn sm" id="btn-resume" type="button">RESUME</button>
+        <button class="btn sm ghost" id="btn-restart" type="button">FROM THE TOP</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ---- THE COUNTER (sprites + speech) --------------------------------- -->
+  <aside class="counter" id="counter">
+    <div class="counter-sprites" id="sprites"></div>
+    <div class="talkbox panel" id="talkbox" tabindex="0" role="button" aria-live="polite"
+         aria-label="Next line from the counter">
+      <span class="talk-name" id="talk-name">—</span>
+      <p class="talk-text" id="talk-text"></p>
+      <span class="talk-next" id="talk-next" aria-hidden="true">▼</span>
+    </div>
+  </aside>
+
+  <!-- ---- VISUAL NOVEL OVERLAY ------------------------------------------- -->
+  <div class="vn" id="vn" hidden>
+    <div class="vn-top">
+      <button class="icobtn" id="vn-exit" type="button" title="Leave VN mode" aria-label="Leave visual novel mode">✕</button>
+      <p class="vn-title" id="vn-title">—</p>
+      <p class="vn-count" id="vn-count">0 / 0</p>
+    </div>
+    <div class="vn-sprites" id="vn-sprites"></div>
+    <div class="vn-box panel" id="vn-box" tabindex="0" role="button" aria-label="Advance the text">
+      <span class="vn-chapter" id="vn-chapter" hidden></span>
+      <div class="vn-text" id="vn-text"></div>
+      <span class="vn-next" id="vn-next" aria-hidden="true">▼</span>
+    </div>
+    <div class="vn-bar"><div class="vn-bar-fill" id="vn-bar"></div></div>
+  </div>
+
+  <!-- ---- DRAWERS -------------------------------------------------------- -->
+  <div class="drawer" id="drawer" hidden>
+    <div class="drawer-scrim" id="drawer-scrim"></div>
+    <div class="drawer-panel panel" role="dialog" aria-modal="true" aria-labelledby="drawer-title">
+      <div class="drawer-head">
+        <h3 class="drawer-title" id="drawer-title">—</h3>
+        <button class="icobtn" id="drawer-close" type="button" aria-label="Close">✕</button>
+      </div>
+      <div class="drawer-body" id="drawer-body"></div>
+    </div>
+  </div>
+
+</main>
+
+<script src="fables.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
