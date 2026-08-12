@@ -66,6 +66,24 @@
      whose background is video rather than a gif, and which therefore has a
      <video> to start and stop. It stays unloaded until somebody asks for it.
      ======================================================================= */
+  /* The reading faces. The room stays pixels either way; this is only ever
+     about the page. Sizing per face lives in CSS, keyed off html[data-face]. */
+  const FACES = [
+    { id: "serif", label: "SERIF",
+      note: "Iowan Old Style, or the best old-style serif your device has. " +
+            "The default, and the one long fables were set in." },
+    { id: "anthropic", label: "ANTHROPIC",
+      note: "Anthropic Sans, if it's installed on this device — it isn't shipped " +
+            "with the app, so otherwise you get the nearest system sans." },
+    { id: "arial", label: "ARIAL",
+      note: "Arial. Plain, wide, and legible at any size, which is the whole point of it." },
+    { id: "pixel", label: "PIXEL",
+      note: "VT323 — the cafe's own terminal face, the one the counter talks in. " +
+            "Italics come through as amber rather than slanted: a bitmap face has " +
+            "no true italic and a faked one smears." },
+  ];
+  const FACE_IDS = FACES.map((f) => f.id);
+
   const THEMES = [
     { id: "nobody", name: "NOBODY",
       note: "the violet hour · rain on the glass, somebody's hill outdoors" },
@@ -1226,9 +1244,16 @@
 
   /* ---- settings ------------------------------------------------------------ */
   $("btn-prefs").addEventListener("click", () => openDrawer("THE HOUSE RULES", (body) => {
-    choices(body, "THE READING FACE", [
-      { id: "serif", label: "SERIF" }, { id: "sans", label: "SANS" },
-    ], S.prefs.font, (v) => { S.prefs.font = v; applyPrefs(); save(); });
+    choices(body, "THE READING FACE", FACES.map((f) => ({ id: f.id, label: f.label })),
+      S.prefs.font, (v) => { S.prefs.font = v; applyPrefs(); save(); faceNote(); });
+
+    const note = el("p", "field-note");
+    body.appendChild(note);
+    function faceNote() {
+      const f = FACES.find((x) => x.id === S.prefs.font) || FACES[0];
+      note.textContent = f.note;
+    }
+    faceNote();
 
     slider(body, "TYPE SIZE", (S.prefs.size - 15) / 12,
       (v) => { S.prefs.size = Math.round(15 + v * 12); applyPrefs(); save(); },
@@ -1294,8 +1319,12 @@
 
   function applyPrefs() {
     applyTheme(S.prefs.theme);
+    // "sans" was the only non-serif option once; it is ANTHROPIC now
+    if (S.prefs.font === "sans") S.prefs.font = "anthropic";
+    if (!FACE_IDS.includes(S.prefs.font)) S.prefs.font = "serif";
+    document.documentElement.setAttribute("data-face", S.prefs.font);
+
     const r = document.documentElement.style;
-    r.setProperty("--read-font", S.prefs.font === "sans" ? "var(--sans)" : "var(--serif)");
     r.setProperty("--read-size", S.prefs.size + "px");
     r.setProperty("--read-lead", String(S.prefs.lead));
     r.setProperty("--read-measure", S.prefs.measure + "em");

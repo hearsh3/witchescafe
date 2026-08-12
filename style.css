@@ -12,6 +12,16 @@
 @font-face{font-family:"PxLabel";src:url("assets/fonts/silkscreen-700.woff2") format("woff2");font-weight:700;font-display:swap}
 @font-face{font-family:"PxCrt";src:url("assets/fonts/vt323-400.woff2") format("woff2");font-display:swap}
 
+/* The ANTHROPIC reading face names "Anthropic Sans" first and falls down a
+   system stack. Nothing here ships that font, so unless it is installed on the
+   device you will get the fallback. To bundle it properly: drop the woff2 into
+   assets/fonts/, uncomment the two rules below, and add the file to
+   SHELL_FILES in sw.js so it survives offline.
+
+@font-face{font-family:"Anthropic Sans";src:url("assets/fonts/anthropic-sans-400.woff2") format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Anthropic Sans";src:url("assets/fonts/anthropic-sans-700.woff2") format("woff2");font-weight:700;font-display:swap}
+*/
+
 /* ---------------------------------------------------------------------------
    THREE ROOMS
 
@@ -34,17 +44,51 @@
   --pix:"PxTitle",monospace;
   --lab:"PxLabel",monospace;
   --crt:"PxCrt","Courier New",monospace;
+  /* Four reading faces. Each names real families first and degrades down a
+     stack, with a CJK face on the end of every one — half this corpus has
+     Chinese in it and a missing glyph is worse than a different typeface. */
   --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,
           "Songti SC","Source Han Serif SC","Noto Serif CJK SC",serif;
-  --sans:"Inter","Avenir Next","Segoe UI",system-ui,
-         "PingFang SC","Noto Sans CJK SC",sans-serif;
+  --anthropic:"Anthropic Sans","Styrene B","Styrene A",
+              ui-sans-serif,system-ui,"Inter","Segoe UI",Roboto,
+              "PingFang SC","Noto Sans CJK SC",sans-serif;
+  --arial:Arial,"Helvetica Neue",Helvetica,"Liberation Sans","Nimbus Sans",
+          "PingFang SC","Noto Sans CJK SC",sans-serif;
+  --pixelface:"PxCrt","VT323",ui-monospace,"Courier New",monospace;
+
   --read-font:var(--serif);
+  --read-scale:1;
   --read-size:19px;
   --read-lead:1.72;
   --read-measure:38em;
 
   --gap:16px;
   --safe-b:env(safe-area-inset-bottom,0px);
+}
+
+/* Which face is on, and how big it wants to be. The scales exist so switching
+   face doesn't send you back to the size slider — VT323 runs small for its
+   point size, Arial runs a touch large. */
+html[data-face="serif"]    {--read-font:var(--serif);     --read-scale:1}
+html[data-face="anthropic"]{--read-font:var(--anthropic); --read-scale:.98}
+html[data-face="arial"]    {--read-font:var(--arial);     --read-scale:.97}
+html[data-face="pixel"]    {--read-font:var(--pixelface); --read-scale:1.24}
+
+/* A pixel face antialiased is a pixel face wasted. */
+html[data-face="pixel"] .page-body,
+html[data-face="pixel"] .vn-text{
+  -webkit-font-smoothing:none;
+  letter-spacing:.015em;
+}
+/* VT323 ships no italic or bold, and synthetic obliques on a bitmap face smear.
+   Carry the emphasis on colour and spacing instead. */
+html[data-face="pixel"] .page-body em,
+html[data-face="pixel"] .vn-text em{
+  font-style:normal; color:var(--amber); letter-spacing:.05em;
+}
+html[data-face="pixel"] .page-body strong,
+html[data-face="pixel"] .vn-text strong{
+  font-weight:400; color:var(--page-ink-hi); text-shadow:0 0 6px var(--glow-soft);
 }
 
 /* ===== NOBODY — the violet hour ========================================== */
@@ -529,7 +573,8 @@ body.calm .scanlines,body.calm .dust{display:none}
 /* The page is a book, not a terminal. */
 .page-body{
   max-width:var(--read-measure); margin:0 auto;
-  font-family:var(--read-font); font-size:var(--read-size); line-height:var(--read-lead);
+  font-family:var(--read-font); font-size:calc(var(--read-size) * var(--read-scale));
+  line-height:var(--read-lead);
   color:var(--page-ink); -webkit-font-smoothing:antialiased; letter-spacing:.006em;
   font-variant-numeric:oldstyle-nums;
 }
@@ -735,7 +780,8 @@ body.vn-on .counter{display:none}
   max-width:calc(100% - 36px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
 }
 .vn-text{
-  font-family:var(--read-font); font-size:calc(var(--read-size) + 1px);
+  font-family:var(--read-font);
+  font-size:calc((var(--read-size) + 1px) * var(--read-scale));
   line-height:1.66; color:var(--vn-ink); max-width:44em; margin:0 auto;
   -webkit-font-smoothing:antialiased;
   max-height:min(42vh,420px); overflow-y:auto; overscroll-behavior:contain;

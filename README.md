@@ -89,9 +89,28 @@ for another. The room's accent colour follows whoever is on.
 **Pull up a chair.** Any three of the twenty-seven portraits can be seated
 beside the barista. They keep their seats between visits.
 
-**Reading.** Pixel type for the room, a proper book face for the page. Serif or
-sans, with size, leading and measure all adjustable in the house rules. Your
-scroll position is saved continuously; come back and you're offered your place.
+**Reading.** Pixel type for the room, and for the page whichever of four faces
+you want, with size, leading and measure all adjustable in the house rules:
+
+| | |
+|---|---|
+| **SERIF** | Iowan Old Style, falling back to the best old-style serif on the device. The default. |
+| **ANTHROPIC** | Anthropic Sans — **not shipped with the app.** Unless it's installed on the device you get the nearest system sans. See below. |
+| **ARIAL** | Arial, or a metric-compatible stand-in (Liberation Sans on Linux). |
+| **PIXEL** | VT323, the cafe's own terminal face — the one the counter talks in. |
+
+Each face carries its own size multiplier, so switching doesn't send you back
+to the size slider. PIXEL turns antialiasing off, and renders emphasis as amber
+rather than slanted: a bitmap face has no true italic and a synthesised one
+smears.
+
+To bundle Anthropic Sans properly, drop the woff2 into `assets/fonts/`,
+uncomment the two `@font-face` rules at the top of `style.css`, and add the file
+to `SHELL_FILES` in `sw.js` so it survives offline. Nothing is downloaded on
+your behalf.
+
+Your scroll position is saved continuously; come back and you're offered your
+place.
 
 **Visual novel mode.** `▤` in the reading bar, or `t`. The room clears, the cast
 stands in the cafe, and the prose comes a beat at a time in a box at the bottom
