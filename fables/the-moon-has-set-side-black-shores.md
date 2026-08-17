@@ -386,8 +386,7 @@ Mei looked up. The stranger had wine-dark hair and eyes with a garden's patience
 "Have we met?" Mei asked. Careful. Hopeful, in the way she was hopeful about her own locked rooms these days: door ajar, light on.
 
 "Mm." Camellya considered the question honestly, which took a while. "Not yet."
-
-Amy squinted at her with the full institutional suspicion of a girl who had recently been a ghost. "That's an ominous answer."
+ "That's an ominous answer."
 
 "It's a *fun* answer. Ominous is just fun that hasn't happened yet." She was already turning, already leaving, because the flower in her chest was starting its old purple ache, proximity plus memory, the price of admission — and because leaving now meant the scene ended perfectly, and Camellya had strong opinions about endings. "Careful with that. It doesn't wilt."
 
@@ -397,7 +396,7 @@ Amy squinted at her with the full institutional suspicion of a girl who had rece
 
 She went out through the crowd humming — an old melody, half of one, the kind written by someone tuning by ear with her eyes half-shut — and Mei stood holding an impossible flower with her mouth slightly open, chasing the tune down every corridor of a memory that ended at a beach.
 
-"Ma." Amy tugged her sleeve. "You okay? You've got your *loading* face."
+"Ma." Amy returned from the stall and tugged her sleeve. "You okay? You've got your *loading* face."
 
 "That song," Mei said. "I know that song."
 
