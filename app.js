@@ -214,12 +214,37 @@
      are verse, epigraph and log entry, and joining those lines would flatten
      the shape the author typed.
      ======================================================================= */
+  /* The source documents tint their dialogue with <font color=…>, one colour
+     to a speaker. Lift those tags out before the escape pass and set them back
+     afterwards as spans: the colour survives, the tag never shows. Only a bare
+     colour word or a hex triplet is honoured, and nothing else off the tag is
+     carried over. The corpus writes them unevenly — quoted, unquoted, and now
+     and then half-quoted — which is why the attribute match is a loose one. */
+  const RE_FONT = /<font\b[^>]*>|<\/font\s*>/gi;
+  const RE_FONT_COLOR = /color\s*=\s*["']?\s*(#[0-9a-fA-F]{3,8}|[a-zA-Z]+)/i;
+
   function inline(src) {
     const code = [];
     let s = src.replace(/`([^`]+)`/g, (m, c) => {
       code.push(c);
       return "\u0000" + (code.length - 1) + "\u0000";
     });
+
+    const tags = [];
+    let open = 0;
+    s = s.replace(RE_FONT, (m) => {
+      if (m[1] === "/") {
+        if (!open) return "";            // a closer with nothing left to close
+        open--;
+        tags.push("</span>");
+      } else {
+        const c = m.match(RE_FONT_COLOR);
+        open++;
+        tags.push(c ? '<span class="tint" style="--tint:' + c[1] + '">' : "<span>");
+      }
+      return "@@f" + (tags.length - 1) + "@@";
+    });
+
     s = esc(s);
     // the house's own stage-whisper, *]like this[*
     s = s.replace(/\*\]([\s\S]*?)\[\*/g, '<span class="aside">$1</span>');
@@ -231,6 +256,12 @@
     s = s.replace(/~~([^~]+)~~/g, "<del>$1</del>");
     s = s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,
       '<a href="$2" rel="noopener noreferrer" target="_blank">$1</a>');
+    if (tags.length) {
+      s = s.replace(/@@f(\d+)@@/g, (m, i) => tags[+i]);
+      // a tag the document never closed: shut it here, rather than let the
+      // colour run on into the rest of the paragraph
+      while (open-- > 0) s += "</span>";
+    }
     s = s.replace(/\u0000(\d+)\u0000/g, (m, i) => "<code>" + esc(code[+i]) + "</code>");
     return s;
   }

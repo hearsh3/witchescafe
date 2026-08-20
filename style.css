@@ -631,6 +631,17 @@ body.calm .scanlines,body.calm .dust{display:none}
   display:block; text-align:center; color:var(--teal); font-style:italic;
   letter-spacing:.03em; opacity:.86;
 }
+/* speaker tints, lifted out of the documents' own <font color=…> */
+.tint{color:var(--tint, inherit)}
+/* bold inside a tinted line keeps the speaker's colour, not the page ink */
+:is(.page-body,.vn-text) .tint :is(strong,em,del){color:inherit}
+/* The corpus tints pale — moccasin, mistyrose, aliceblue — which reads on the
+   two dark rooms and disappears on the bright one's cream page. Keep the hue,
+   take it down toward the page ink, and the speaker stays legible. */
+html[data-theme="bright"] .tint{
+  color:color-mix(in srgb, var(--tint, currentColor) 34%, var(--page-ink));
+}
+
 .page-body :is(p,li,blockquote):lang(zh),
 .page-body .cjk{letter-spacing:.02em; line-height:calc(var(--read-lead) + .12)}
 
@@ -1010,6 +1021,8 @@ body.vn-on .counter{display:none}
   .page{background:var(--page-ink-hi); border:0; outline:0; box-shadow:none; padding:0}
   .page-body{color:#111; max-width:none}
   .page-body h1,.page-body h2,.page-body h3,.page-body strong{color:var(--pixshadow)}
+  /* the speaker tints run pale; on white paper they need taking down */
+  .page-body .tint{color:color-mix(in srgb, var(--tint, currentColor) 34%, #111)}
 }
 
 @media (prefers-reduced-motion:reduce){

@@ -18,7 +18,7 @@
    them. They cache themselves the first time they're played.
    =========================================================================== */
 
-const VERSION = "maqhaa-v3";
+const VERSION = "maqhaa-v4";
 const SHELL = VERSION + "-shell";
 const LIBRARY = VERSION + "-library";
 const MEDIA = VERSION + "-media";
