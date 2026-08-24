@@ -54,6 +54,30 @@ skips the folders that are software rather than stories, and pulls in
 extension. Both drafts of a twice-written piece are kept and the menu labels
 which file each row came from.
 
+### Keeping things off the menu
+
+Not everything in the corpus is for readers. Put a folder name in
+`.buildignore` — one per line, `#` for comments — and the build walks past it:
+
+```
+Working Dossiers
+Jsons
+```
+
+A bare name matches at any depth, a name with a `/` is anchored to the corpus
+root (`Huanglong Fables/Drafts`), `*` and `?` work in either, and matching is
+case-insensitive. It hides files as well as folders (`*.bak`, `MEMORY.md`).
+
+For a one-off build, pass names instead of editing the file:
+
+```sh
+python3 "Maqhaa Alsaahirat/build.py" --ignore "Working Dossiers" --list-ignored
+```
+
+`--list-ignored` prints what was left out, `--no-ignore-file` skips
+`.buildignore` entirely, and `--ignore-file PATH` reads a different one. The
+software folders in `SKIP_DIRS` are always skipped regardless.
+
 ---
 
 ## The room
@@ -144,6 +168,7 @@ No account, no server, no one keeping a file on you.
 | `data.js` | the six (plus Agrat): voices, rota, dialogue banks, sprite roster |
 | `fables.js` | generated menu — **do not edit, edit the stories** |
 | `build.py` | rescans the corpus and rewrites `fables.js` |
+| `.buildignore` | folder/file names the build walks past |
 | `sprites.py` | cuts the character art into square portraits |
 | `sw.js` | offline shelf |
 | `fables/` | generated copies of the stories |

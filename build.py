@@ -11,8 +11,16 @@ edit a story:
 The copy is deliberate. The service worker can only cache things inside its own
 scope, so a reader that fetched '../Some Story.md' would work online and go
 blank on a train.
+
+To keep a folder off the menu, put its name in .buildignore next to this file
+(one per line, '#' comments, '*' wildcards allowed), or pass it on the command
+line:
+
+    python3 "Maqhaa Alsaahirat/build.py" --ignore "Working Dossiers" -i "*.bak"
 """
 
+import argparse
+import fnmatch
 import json
 import os
 import re
@@ -26,11 +34,16 @@ CORPUS = os.path.abspath(os.path.join(HERE, os.pardir))
 OUT = os.path.join(HERE, "fables")
 
 # Subfolders that are software, not stories. Their READMEs are documentation.
+# These are the built-ins; .buildignore adds to them, it doesn't replace them.
 SKIP_DIRS = {
     "Maqhaa Alsaahirat", "Radio Nobody", "Waver", "WavesLine",
     "Seven Grounds VN", "Black Swan Tarot", ".claude", ".git",
     "__pycache__", "node_modules",
 }
+
+# The hand-editable blacklist. Lives next to this script so it travels with the
+# app rather than with the corpus.
+IGNORE_FILE = os.path.join(HERE, ".buildignore")
 
 # Prose kept as .txt. The corpus doesn't distinguish; the extension is an
 # accident of which editor was open that week.
@@ -114,28 +127,102 @@ def cup(minutes):
     return "carafe"
 
 
-def gather():
+def load_ignore_file(path):
+    """Read a blacklist file: one name per line, '#' starts a comment line.
+
+    A missing file is not an error - most corpora don't need one.
+    """
+    if not path or not os.path.isfile(path):
+        return []
+    pats = []
+    with open(path, encoding="utf-8") as fh:
+        for raw in fh:
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            pats.append(line.replace("\\", "/").rstrip("/"))
+    return pats
+
+
+def ignored(name, rel_path, patterns):
+    """Match a folder (or file) against the blacklist.
+
+    A bare name matches at any depth - 'Drafts' hides every Drafts folder in the
+    corpus. A pattern containing '/' is anchored to the corpus root, so
+    'Huanglong Fables/Drafts' hides only that one. '*' and '?' work in both.
+    Matching is case-insensitive, because the folders live on Windows.
+    """
+    n = name.lower()
+    p = rel_path.replace(os.sep, "/").lower()
+    for pat in patterns:
+        q = pat.lower()
+        if "/" in q:
+            if fnmatch.fnmatch(p, q) or p.startswith(q + "/"):
+                return True
+        elif fnmatch.fnmatch(n, q):
+            return True
+    return False
+
+
+def gather(patterns, skipped=None):
     found = []
     for root, dirs, files in os.walk(CORPUS):
-        dirs[:] = [d for d in dirs if d not in SKIP_DIRS and not d.startswith(".")]
         rel_dir = os.path.relpath(root, CORPUS)
         rel_dir = "" if rel_dir == "." else rel_dir
+
+        keep = []
+        for d in dirs:
+            rel = os.path.join(rel_dir, d) if rel_dir else d
+            if d in SKIP_DIRS or d.startswith("."):
+                continue
+            if ignored(d, rel, patterns):
+                if skipped is not None:
+                    skipped.append(rel.replace(os.sep, "/") + "/")
+                continue
+            keep.append(d)
+        dirs[:] = keep
+
         for f in sorted(files):
             if f.startswith("."):
                 continue
-            if f.endswith(".md") or f in EXTRA_TXT:
-                found.append((os.path.join(root, f), rel_dir, f))
+            if not (f.endswith(".md") or f in EXTRA_TXT):
+                continue
+            rel = os.path.join(rel_dir, f) if rel_dir else f
+            if ignored(f, rel, patterns):
+                if skipped is not None:
+                    skipped.append(rel.replace(os.sep, "/"))
+                continue
+            found.append((os.path.join(root, f), rel_dir, f))
     return found
 
 
-def main():
+def parse_args(argv=None):
+    ap = argparse.ArgumentParser(description="Stock the library.")
+    ap.add_argument("-i", "--ignore", action="append", default=[], metavar="NAME",
+                    help="folder (or file) name to leave off the menu; repeatable, "
+                         "wildcards allowed. Adds to .buildignore.")
+    ap.add_argument("--ignore-file", default=IGNORE_FILE, metavar="PATH",
+                    help="blacklist file to read (default: .buildignore beside this script)")
+    ap.add_argument("--no-ignore-file", action="store_true",
+                    help="skip .buildignore; use only --ignore and the built-ins")
+    ap.add_argument("--list-ignored", action="store_true",
+                    help="print every path the blacklist kept out")
+    return ap.parse_args(argv)
+
+
+def main(argv=None):
+    args = parse_args(argv)
+    patterns = [] if args.no_ignore_file else load_ignore_file(args.ignore_file)
+    patterns += [p.replace("\\", "/").rstrip("/") for p in args.ignore]
+    skipped = []
+
     if os.path.isdir(OUT):
         shutil.rmtree(OUT)
     os.makedirs(OUT)
 
     entries, slugs, titles = [], {}, {}
 
-    for path, rel_dir, name in gather():
+    for path, rel_dir, name in gather(patterns, skipped):
         try:
             text = open(path, encoding="utf-8").read()
         except (UnicodeDecodeError, OSError) as e:
@@ -195,6 +282,12 @@ def main():
     total_min = sum(e["minutes"] for e in entries)
     print(f"shelved {len(entries)} fables · {sum(e['words'] for e in entries):,} words "
           f"· {total_min // 60}h {total_min % 60}m of reading")
+    if skipped:
+        print(f"left out {len(skipped)} path(s) on the blacklist"
+              + (":" if args.list_ignored else " (--list-ignored to see them)"))
+        if args.list_ignored:
+            for rel in sorted(skipped):
+                print("  " + rel)
 
 
 if __name__ == "__main__":

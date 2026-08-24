@@ -1,0 +1,19 @@
+# Folders (and files) build.py should leave off the menu.
+#
+#   one name per line          Drafts
+#   '#' starts a comment       # like this
+#   wildcards work             *.bak
+#   a bare name matches at any depth in the corpus
+#   a name with a '/' is anchored to the corpus root:
+#                              Huanglong Fables/Drafts
+#
+# Matching is case-insensitive. The app's own folders (Maqhaa Alsaahirat,
+# Radio Nobody, Seven Grounds VN, .git, __pycache__, ...) are already skipped
+# by SKIP_DIRS in build.py — this file is for everything else.
+#
+# Uncomment or add lines, then re-run:
+#     python "Maqhaa Alsaahirat/build.py"
+
+Working Dossiers
+Jsons
+Pngs
