@@ -420,6 +420,44 @@ Cartethyia thought about this.
 
 ---
 
+Lupa had been standing at the north end of the shelf for eleven minutes with her head up.
+
+Anybody who has hunted with her can read that back off her at forty paces: ears forward, weight on the front foot, and the tail doing nothing whatsoever, which is the tail's loudest setting.
+
+<font color="#ff9742">"Swordsman."</font>
+
+<font color="#c46f68">"Gladiator."</font>
+
+<font color="#ff9742">"You just told the Grand Marshal the big one stopped asking."</font>
+
+<font color="#c46f68">"I did."</font> Qiuyuan turned his head a few degrees north, which for him amounts to standing up. <font color="#c46f68">"You have something else."</font>
+
+<font color="#ff9742">"There's a small one in the north cut. It has been sitting still since about the time the bell went, and it smells like the big one, and it also smells like about four hundred other things, and I cannot put those two halves of a sentence together, which is why I have been standing here for eleven minutes looking like an idiot in front of an army."</font>
+
+<font color="#b0c4de">"My sweep went over the north cut twice,"</font> Jiyan said, from the command board. <font color="#b0c4de">"Both passes clean."</font>
+
+<font color="#ff9742">"Your sweep teams have noses like bricks."</font>
+
+<font color="#b0c4de">"They do."</font> He went on writing. <font color="#b0c4de">"Take somebody with you."</font>
+
+<font color="#ff9742">"Everybody's got a job."</font> She had the spear up already. <font color="#ff9742">"Four hours. If it's five, it's still four. Nobody comes up after me, and I would like that heard specifically by the four people standing in this half of the shelf who are already working out who's coming up after me."</font>
+
+The four people standing in that half of the shelf looked at the middle distance.
+
+<font color="#ff9742">"Chisa."</font>
+
+<font color="#ff8a8a">"Four hours."</font>
+
+<font color="#ff9742">"Thank you."</font>
+
+She went up the eastern cut on her own with her raw palms wrapped in a strip torn off a tarpaulin, in the rain, in a direction the doctrine specifically discourages, having announced it in front of a general, a physician and a woman with scissors, which is her entire method for getting away with things.
+
+Chisa listened to her go for about a kilometre and then went back to her bowl.
+
+<font color="#ff8a8a">"She took the spear and left her flask on the crate,"</font> she said, to nobody in particular. <font color="#ff8a8a">"So she thinks it is small."</font>
+
+---
+
 ## IV. THE FOURTH RELIEF SECTION
 
 The column formed by sections, because it had always been a column and sections were what it knew.
@@ -834,19 +872,11 @@ Nobody said the date out loud, and nobody said what had been filed at the ward o
 
 ---
 
-Lupa was standing at the end of the medical line with her arms folded and her palms up, because the rope had taken the skin off both of them and she was declining, on principle, to let anyone put a dressing on the inside of a hand she intended to use.
+Nobody saw her do it.
 
-She had watched the whole thing from eleven metres. The straightening of the coat. The hand in the pocket. The hand out.
+She had chosen, out of four hours of standing about in a valley full of people who watch her for a living, the eleven minutes in which a physician had both hands in somebody's shoulder, a magistrate was arguing about grain, a bard was fighting a peg, a knight was counting leaves, a wolf was four kilometres up a scree slope on business of her own, and a girl of nineteen was reading a stores figure to eight wards.
 
-Her tail did one slow sweep and stopped.
-
-She said nothing at all, which for Lupa is an entire speech, and then she came down the line and put a wrapped bundle into Mei's lap from about a foot up without breaking stride.
-
-<font color="#ff9742">"Eat that."</font>
-
-<font color="#ffdead">"What is it?"</font>
-
-<font color="#ff9742">"It's the crispy thing. The kitchen sergeant has a fryer and I have a personality."</font> She was already past. <font color="#ff9742">"Don't make a speech about it."</font>
+It is the most competent thing she did all day and she will go to her grave without mentioning it.
 
 ---
 
@@ -1002,7 +1032,543 @@ She put her hand up into the air where the pressure was.
 
 ---
 
-## IX. THE SOUTH SHELF
+## IX. LEFTOVERS
+
+They heard him before they saw him.
+
+That is worth putting down accurately, because it went out live on an open channel and eight wards of a city twelve kilometres south heard it too, and the harbour ward has been arguing about the exact wording ever since.
+
+What came down the eastern cut at half past the second hour, ahead of Lupa, ahead of her spear, ahead of any warning whatsoever, was a small clear voice at a considerable volume saying:
+
+<font color="#ffe3f1">"— and I want it *noted* that I said the ford was too deep, I said it at the ford, I said it *in* the ford, and did anybody listen? No. Absolutely no. And now we are both wet and one of us is *magnificent* and still wet, which is worse — is that a *kitchen?* Is that a kitchen. That is a kitchen. WOLF LADY. There is a kitchen."</font>
+
+<font color="#ff9742">"There's a kitchen."</font>
+
+<font color="#ffe3f1">"I *said* that. I said it first."</font>
+
+Lupa came out of the rain with mud to the hip, her palms through the tarpaulin strip, her spear on her shoulder and her ears very slightly back, in the specific posture of a woman who has been losing an argument for three kilometres and has stopped expecting to win it.
+
+Four metres above and behind her, flying, and complaining, was Abby.
+
+---
+
+The Bureau of Rites' hazard tables have four hundred years of entries, and every single one of them describes something you should back away from.
+
+This one was the size of a well-fed cat.
+
+White — properly white, a dense fur that the rain was landing on and running off, which is the first thing that ruled out half of Baizhi's shortlist, because the things the Retroact makes do not shed water; they *are* water. Long ears, held out sideways like a pair of narrow wings and doing a fair amount of the work of flying. Golden jewelry at the ears and the throat, in linked pieces, floating a finger's width clear of him and turning slowly on its own schedule, indifferent to wind, indifferent to the fact that its owner was upside down at the time.
+
+And in the middle of the forehead, small and clean and unmistakable to every Resonator on that shelf: a Tacet Mark.
+
+He came down in a long slow spiral over the medical line, made an unhurried inspection of forty-one wounded people, a magistrate, a fox, two hundred soldiers and a field kitchen, selected the highest available crate, landed on it, folded his ears, and sat.
+
+<font color="#ffe3f1">"Right,"</font> he said. <font color="#ffe3f1">"Introductions. You may all sit down."</font>
+
+Everybody was already sitting down.
+
+<font color="#ffe3f1">"*Excellent* start."</font>
+
+---
+
+<font color="#ff8ff4">"Ward Two, hold — hold, hold, the field is fine, nobody is hurt."</font> Amy had one hand over her ear and the other flat on the crate and the register she runs cities in already engaged. <font color="#ff8ff4">"Our gladiator has come back off a sweep of the north cut and she has brought something with her, and I am going to describe it accurately and slowly, because if I describe it inaccurately Baizhi will take the microphone off me."</font>
+
+<font color="#a171d1">"I will."</font>
+
+<font color="#ff8ff4">"She will. It is about the size of a large cat. It flies. It is white, it has gold on it that does not touch it, it has a Tacet Mark on its forehead, and it has been talking without stopping since before it came round the corner."</font>
+
+<font color="#ffe3f1">"I have *not* — "</font>
+
+<font color="#ff8ff4">"It is talking now."</font>
+
+<font color="#ffe3f1">"That was a *correction*. Corrections are a separate category. And I am a *he*, small pink one, kindly amend the record, and you are on the wrong side of that microphone."</font>
+
+Amy looked at her mother.
+
+<font color="#ffdead">"Don't,"</font> Mei said.
+
+<font color="#ff8ff4">"I wasn't going to — "</font>
+
+<font color="#ffdead">"You had your professional face on."</font>
+
+---
+
+The debrief took four minutes and was, in the professional opinion of every officer present, the worst debrief delivered on Huanglong soil that year, chiefly because there were two people giving it.
+
+<font color="#ff9742">"North cut. Culvert under the old spoil road."</font>
+
+<font color="#b0c4de">"Doing what."</font>
+
+<font color="#ff9742">"Eating a boot."</font>
+
+<font color="#ffe3f1">"I was *tasting* a boot."</font>
+
+<font color="#b0c4de">"Whose boot."</font>
+
+A pause.
+
+<font color="#ff9742">"Mine."</font>
+
+<font color="#ff5757">"HOW,"</font> Chixia said, from a cradle eleven metres away, with her leg up and her voice at a volume Baizhi had ruled on twice already that afternoon.
+
+<font color="#ff9742">"I took them off. There was a ford."</font> Lupa's ears went flat. <font color="#ff9742">"I put them on a rock. It came out of the culvert, took one, went back in with it, and I sat on that rock for a while thinking about my life, and then it brought the boot back."</font>
+
+<font color="#ffe3f1">"With a *stone in it*,"</font> said Abby, with enormous satisfaction. <font color="#ffe3f1">"A very good stone. A better stone than the boot, frankly, and I am *not* going to apologise for an upgrade."</font>
+
+<font color="#77f8c0">"Why a stone?"</font>
+
+<font color="#ffe3f1">"Because you cannot give somebody an *empty* boot, small green one, what were you *raised* by — "</font>
+
+<font color="#ff8a8a">"From the ford to the third marker,"</font> Chisa said, in the flat voice, to her bowl, <font color="#ff8a8a">"there was one set of footsteps."</font>
+
+The crate went quiet.
+
+<font color="#ffe3f1">"…I was flying escort."</font>
+
+<font color="#ff8a8a">"You were asleep."</font>
+
+<font color="#ffe3f1">"ABSOLUTELY NO."</font>
+
+<font color="#ff8a8a">"You were asleep inside her coat for two kilometres of scree and she put you down at the third marker so you could come in on your own, and you have been flying four metres behind her ever since because that is where she put you."</font> Chisa ate. <font color="#ff8a8a">"I do not have an opinion about this. I am reporting."</font>
+
+<font color="#ffe3f1">"That is *slander*, that is — WOLF LADY. Tell them."</font>
+
+Lupa looked at the middle distance for four full seconds.
+
+<font color="#ff9742">"It followed me,"</font> she said.
+
+And that is the version that went into three separate written accounts by three separate hands over the following week, and it is the version Jinzhou tells to this day, and the only two people alive who know better have never contradicted it once, for entirely different reasons.
+
+---
+
+He ate for the next forty minutes.
+
+He ate the way weather happens. He took a bowl off the trestle without asking, emptied it, put it down upside down on his own head for reasons he declined to explain, went along the queue at shoulder height accepting tribute from soldiers who had been under artillery nine hours earlier and were now feeding a flying cat by hand, and gave a running commentary throughout on the quality of the salt.
+
+Somewhere in the middle of it he did the thing.
+
+He came off the crate, hovered in front of Orderly Han, held out both front paws, and offered him one of two small wet paper wads.
+
+Han looked at it.
+
+<font color="#a171d1">"Take it."</font>
+
+<font color="#9fc6b0">"Doctor — "</font>
+
+<font color="#a171d1">"Take it, Orderly. He is holding two, he is offering you one, and he has been hanging there for six seconds, which for him is a geological age."</font>
+
+Han took it.
+
+Over the following half-hour Abby did it eleven times, and Iuno counted, because Iuno counts.
+
+Two bootlace ends: one to Bao, who put it in her pocket without comment and has it still.
+
+Two spent lamp-wicks: one to a Ranger from the second section who had spent the morning carrying his friend.
+
+Two pebbles: one to Fang Qiu, who said *thank you* out loud in Xuanfang dialect and then looked round to see who had heard.
+
+Two offcuts from Cartethyia's paper figures: one to Cartethyia, who burst into tears immediately and was told by Lupa to eat something.
+
+Two spoons, from a source nobody has ever established: one to the kitchen sergeant, who accepted it as his due.
+
+Always two. Always one given away. Always to whoever was nearest.
+
+<font color="#5881fe">"Why do you do that?"</font>
+
+<font color="#ffe3f1">"Do *what*, tall one."</font>
+
+<font color="#5881fe">"You have picked up eleven pairs of things in half an hour and given away exactly one of each. You did it to a physician's orderly, a gun captain, a Ranger, an engineer, a knight and a cook, and you have done it without once looking at what you were holding."</font> Iuno turned the pad round so he could see the tally, which was a courtesy and also a trap. <font color="#5881fe">"Why two?"</font>
+
+Abby opened his mouth.
+
+Then he shut it, and his ears did something complicated, and the floating gold at his throat turned four degrees and stopped.
+
+<font color="#ffe3f1">"…Because one is for the person behind,"</font> he said.
+
+<font color="#5881fe">"Behind whom?"</font>
+
+<font color="#ffe3f1">"Behind — "</font> He stopped again. <font color="#ffe3f1">"That is a *ridiculous* question and I am hungry."</font>
+
+Amy had gone very still with her headset half off.
+
+<font color="#ff8ff4">"Tao Jingrui."</font>
+
+<font color="#ffe3f1">"Who?"</font>
+
+<font color="#ff8ff4">"Second gun crew. She carried two canteens, because one was for the person behind her who forgot."</font> Amy's hand was flat on the crate. <font color="#ff8ff4">"Ward Eight. Her father said it at four o'clock this morning on my channel. *She got that from me. I forget mine every damn time.*"</font>
+
+<font color="#ffe3f1">"I have no *idea* who that is."</font>
+
+<font color="#ff8ff4">"I know."</font>
+
+<font color="#ffe3f1">"Absolutely no idea whatsoever, I have never met the woman, I object to the *implication* — "</font>
+
+<font color="#ff8ff4">"I know,"</font> Amy said. <font color="#ff8ff4">"Eat your fish."</font>
+
+---
+
+Ciaccona had a theory about four seconds later, because she reads places the way other people read faces and she had spent all night listening to a war try to digest a register.
+
+<font color="#77f8c0">"He's the leavings."</font>
+
+<font color="#a171d1">"Specify."</font>
+
+<font color="#77f8c0">"Ovathrax ate three years of official remembrance and it kept all of it down, because a commendation that fits on one line is the exact shape of thing a war is built to hold."</font> She turned the lute over on her knees. <font color="#77f8c0">"Then we fed it nineteen hundred and seven people's actual habits. The chopstick. The pears in the other pot. The moth in the washbasin. The stickers on a spear. It could not use a single one of them, because a war can hold a *category* and it cannot hold a chopstick — and then the road opened and the people walked off south, and the thing brought the rest back up. He condensed out of that. On a Tacet seam. In eleven hours of Retroact Rain."</font>
+
+<font color="#c86596">"Which is a condensation chamber,"</font> Hsin agreed, from San Jie's foot, with enormous interest. <font color="#c86596">"Doctor?"</font>
+
+<font color="#a171d1">"It is a good theory, it is consistent with the frequency, and it is wrong."</font>
+
+<font color="#77f8c0">"…Thank you for the ordering of that sentence."</font>
+
+<font color="#a171d1">"You are welcome."</font> Baizhi had her lens out and had, at some point in the previous two minutes, got down onto the duckboards in the same good coat for the second time that day. <font color="#a171d1">"He sheds water. He casts a shadow with an edge on it. He has a Tacet Mark, which is a structure, and structures take time. And he remembers things that happened before yesterday."</font>
+
+<font color="#ffe3f1">"I remember *loads* of things."</font>
+
+<font color="#a171d1">"Name one."</font>
+
+<font color="#ffe3f1">"Snow,"</font> said Abby, instantly, and then looked as surprised as everybody else. <font color="#ffe3f1">"…Snow, and a very long staircase, and somebody being *extremely* rude about my ears, and I would like it recorded that I won that argument."</font>
+
+<font color="#a171d1">"There was no snow in this valley this year."</font>
+
+<font color="#ffe3f1">"Then it was a *different* valley, doctor, keep up."</font>
+
+Baizhi wrote *snow* in her book and underlined it, which is what she does when she has been handed a variable.
+
+<font color="#a171d1">"He is an Echo by every measurement I own,"</font> she said. <font color="#a171d1">"And Echoes are imprints. Echoes hold a shape and a Forte and a habit, and they do not hold opinions about salt."</font>
+
+<font color="#ffe3f1">"The salt is *underdone.*"</font>
+
+<font color="#a171d1">"That is the problem, yes."</font>
+
+---
+
+Cartethyia had been quiet for eleven minutes, which for her is a medical event.
+
+She was sitting on the duckboards with her scissors in her lap and her thumb still bandaged, and she was looking at the gold turning slowly a finger's width off a small white throat, and at the small clean mark in the middle of a small white forehead.
+
+Then she glanced up, briefly, at nothing, at the crystal laurel that stands above her own head and floats clear of it and turns on a schedule of its own.
+
+Then she put two fingers against the middle of her own forehead, and took them away again, and looked at the mud.
+
+<font color="#b8ffff">"Hm,"</font> she said.
+
+<font color="#77f8c0">"What."</font>
+
+<font color="#b8ffff">"Nothing. It's a nothing."</font>
+
+<font color="#77f8c0">"Thyia."</font>
+
+<font color="#b8ffff">"It's a *nothing*, Cia, and if I say the other thing out loud it stops being a nothing and starts being a *conversation*, and I have had three conversations this month that I did not want and one of them was inside a god."</font> She picked her scissors up and put them down again. <font color="#b8ffff">"I'll say it in Jinzhou. With the door shut. To you."</font>
+
+<font color="#77f8c0">"…All right."</font>
+
+<font color="#b8ffff">"All right?"</font>
+
+<font color="#77f8c0">"You'll say it on Thursday and it'll still be true on Thursday."</font> Ciaccona put her hand flat on the soundboard of a lute with two strings on it and left it there, which is her entire filing system. <font color="#77f8c0">"I heard you the first time."</font>
+
+Nobody else on that shelf put those two sets of facts side by side out loud, and four people did it privately inside the same minute, and Iuno wrote three words in the margin of her pad and drew a box round them and moved on.
+
+---
+
+He crashed at twenty past.
+
+That was the other thing about him, and it arrived without warning: he had been at full volume for fifty minutes and then he was on his side on a crate with his ears flat and his gold still turning and his eyes shut, in the middle of a sentence about pepper.
+
+Lupa was across the shelf before anybody else had put a bowl down.
+
+<font color="#a171d1">"Leave him."</font>
+
+<font color="#ff9742">"He's — "</font>
+
+<font color="#a171d1">"He is asleep. He did it twice on the road, according to a witness who has denied being on the road."</font> Baizhi had two fingers a hand's width off the white fur and her watch in the other hand. <font color="#a171d1">"He runs at one speed and then he stops. I have seen the same curve in eleven-year-olds and in a certain kind of surgeon."</font>
+
+<font color="#ff9742">"And the other thing?"</font>
+
+Baizhi took her measurements at the second hour and again at twenty past, because a rate from two samples is a guess with arithmetic on it and she had already been embarrassed about that once today, and then she went and found Iuno, and the two of them stood under the tarpaulin with a slide and a pad, and neither of them had to say the sentence, because Iuno had done the division while Baizhi was still writing the second number down.
+
+<font color="#5881fe">"Same curve."</font>
+
+<font color="#a171d1">"To within the error on my slide, which I have written down beside it."</font>
+
+<font color="#5881fe">"Eight hours."</font>
+
+<font color="#a171d1">"Eight hours to the value at which the column stops being able to stand up. He is smaller than they are and denser than they are and I have no idea what those two facts do to each other."</font> Baizhi closed the slide sleeve. <font color="#a171d1">"He goes when the rain goes."</font>
+
+<font color="#ffe3f1">"Who does?"</font>
+
+He had woken up. He had woken up all at once, the way he did everything, and he was sitting upright on the crate with his ears coming forward and the whole shelf watching him and every adult present arriving at the same problem in the same half-second, which was that somebody was going to have to say it to his face.
+
+Jinhsi got there first, because that is her office.
+
+<font color="#c8e4d7">"You do,"</font> she said. <font color="#c8e4d7">"The rain that is holding you up is thinning at a measured rate and the physician has it at eight hours. I am telling you plainly and at once because I have spent six years watching what happens to people who are told these things late, and I would rather you were angry with me now than uninformed at seven o'clock this evening."</font>
+
+Abby sat on the crate.
+
+The gold went on turning. The rain came down. Two hundred soldiers and a fox and a household looked very hard at their own bowls, which is the kindest thing an audience can do.
+
+<font color="#ffe3f1">"…Well,"</font> he said. <font color="#ffe3f1">"That is *extremely* inconvenient."</font>
+
+<font color="#c8e4d7">"Yes."</font>
+
+<font color="#ffe3f1">"I have plans."</font>
+
+<font color="#c8e4d7">"Tell me one."</font>
+
+<font color="#ffe3f1">"Dinner,"</font> said Abby.
+
+<font color="#c8e4d7">"Then I am going to try very hard to get you to dinner,"</font> Jinhsi said, <font color="#c8e4d7">"and I would like you to understand that I mean the whole sentence and that I have no idea yet how to do it."</font>
+
+---
+
+It was Hsin who said the thing everybody had been circling, and she said it the way a sovereign says a thing she intends to charge nothing for, which in her case is rarer than the other kind.
+
+<font color="#c86596">"There is one container within four hundred kilometres rated for a resonance of that class, and it is standing over there with four stitches in it, pretending to look at the road."</font>
+
+Everybody looked at Mei.
+
+Mei had been on the far side of the crates for eleven minutes doing exactly that.
+
+<font color="#ffdead">"Yeah,"</font> she said. <font color="#ffdead">"I know. I worked that out at about the second spoon."</font>
+
+She came over and sat down on the duckboards, which put her at his height, which everybody noticed and nobody mentioned.
+
+<font color="#ffdead">"So here's my problem, and I want it said out loud in front of all of you, and I want somebody to write it down."</font> She put her marked hand palm-up on her own knee, where it could be seen. <font color="#ffdead">"This hand has been reaching for things since yesterday morning. It reached for a dragon. It reached for a sword on a stage. It reached for nineteen hundred deaths and it would have taken every single one of them and carried them off on its own if anybody had let it. It has been wrong about what it wants all day, twice with witnesses."</font>
+
+<font color="#5881fe">"Three times."</font>
+
+<font color="#ffdead">"Three times, thank you, my partner keeps a ledger."</font> Mei turned the hand over and back. <font color="#ffdead">"So I don't trust the reach. I trust all of you. Somebody tell me the difference between taking him in and putting him in a jar, because from in here they feel identical, and I have been wrong about that for four hundred years."</font>
+
+Lupa got there first, and she got there hard, and she came at it from the one direction nobody expected, which was against herself.
+
+<font color="#ff9742">"I carried him four kilometres inside my coat."</font>
+
+<font color="#ff8a8a">"You said he followed you."</font>
+
+<font color="#ff9742">"He followed me *and* I carried him, both of those are — "</font> The tail cut once. <font color="#ff9742">"Shut up, Chisa, I'm making a point."</font> She crouched, which put her spear across her knees and her raw palms on top of it. <font color="#ff9742">"I picked him up because he was small and he was going to die and I wanted him not to. That is exactly the reason a person puts a thing in a jar. I brought him down here, and I have got no business being the one who decides where he sleeps."</font>
+
+<font color="#ffdead">"Lupa — "</font>
+
+<font color="#ff9742">"There's a clause."</font>
+
+Iuno's pencil stopped.
+
+<font color="#ff9742">"There is a clause in a foreign country's permanent day-book with my name on it, and I paid for it with the only number that belongs to your body, and it says that nobody in household four-one-one gets committed without being told to her face, in a room, in advance, by a person who is actually present."</font> Lupa looked at the small white creature on the crate. <font color="#ff9742">"I wrote it for you. I want it to cover him."</font>
+
+Jinhsi had her pad out before the sentence finished.
+
+<font color="#c8e4d7">"It covers residents of the household."</font>
+
+<font color="#ff9742">"Then make him one."</font>
+
+<font color="#c8e4d7">"That is the entire difficulty, and I would like eleven seconds to enjoy it."</font> Jinhsi crouched at the end of the crate with the seal case across her knees. <font color="#c8e4d7">"I have no column. He is a hazard by classification, a person by behaviour and a foreign body by law, and all three of those offices will decline him. The Bureau of Rites will want him destroyed on a form. The Academy will want him in a box in Huaxu. I can hold both off for about a week on my own authority and after that I am governing by temper."</font>
+
+<font color="#ffe3f1">"I would like to say something about the *box* — "</font>
+
+<font color="#ff5757">"THE GOOSE."</font>
+
+Everybody turned round.
+
+Chixia was sitting bolt upright on a cradle with her wrapped leg out in front of her and both hands in the air and an expression that Baizhi later described, in writing, as *contraindicated.*
+
+<font color="#ff5757">"The *goose*, Magistrate! Column twelve! Assessor Lü did it six years ago — an animal, resident, no owner, holds a door at a government office, and Lü put her in the census under column twelve with a remarks field, and it has stood for six years and *nobody has ever appealed it*, and I have argued that exact point at the ward office four separate times and lost four separate times, and I want it minuted that I am *winning it in a field hospital* — "</font>
+
+<font color="#a171d1">"Lie down."</font>
+
+<font color="#ff5757">"I am *winning*, Baizhi — "</font>
+
+<font color="#ff8a8a">"Column twelve. Remarks."</font> Chisa said it in exactly the same voice she uses for everything, which is why it landed. <font color="#ff8a8a">"*Right eye clouded. Approach from the blind side. Feeds at the fourth hour. No owner of record; ward four accepts the charge.* Assessor Lü, sixth year, entry two hundred and eleven."</font>
+
+Chixia stopped with her mouth open.
+
+<font color="#ff5757">"You've *read* it."</font>
+
+<font color="#ff8a8a">"You have not."</font>
+
+<font color="#ff5757">"I have been *fighting* that goose for six years — "</font>
+
+<font color="#ff8a8a">"Mm."</font>
+
+Jinhsi wrote for about ninety seconds without saying anything, which in her is the sound of a woman going down a corridor she has just discovered.
+
+<font color="#c8e4d7">"Column twelve takes him,"</font> she said. <font color="#c8e4d7">"Resident, no owner of record, ward four accepts the charge. It is a stretch and it is the *correct* stretch, because the precedent already covers a creature that lives at a government office and holds strong views about a door, and the Decree Council will have to argue with a six-year-old entry made by an assessor with a spotless record, and they will lose, and Lü will enjoy it more than any of us."</font>
+
+<font color="#5881fe">"NAME OF PARTY,"</font> said Iuno, pencil up.
+
+---
+
+This is the part the harbour ward tells.
+
+<font color="#5881fe">"Name of party."</font>
+
+<font color="#ffe3f1">"Obviously."</font>
+
+<font color="#5881fe">"…Yes. What is it."</font>
+
+<font color="#ffe3f1">"It is a *name*, tall one, it is the thing people call you, honestly, do they let you write down official — "</font>
+
+<font color="#5881fe">"What is *your* name."</font>
+
+Silence, for the first time in an hour.
+
+<font color="#ffe3f1">"Ah,"</font> said Abby.
+
+They tried for four minutes. Amy proposed a callsign structure with a field call and two return calls, and was informed by four people at once, in four registers, that this would be happening over somebody's dead body. Ciaccona proposed a word in old Ragunnan that Cartethyia refused to translate, and Cartethyia's refusal went out live on the relay. Cartethyia proposed *Fleurdelys the Second* and defended it on the grounds of continuity of office. Yangyang proposed the entry number. Hsin, watching from the foot of a two-hundred-tonne war machine with her chin on her hand, observed that in four hundred years she had never once seen a naming go well and had no intention of spoiling her record.
+
+Every single one of them got the same answer, at increasing volume.
+
+<font color="#ffe3f1">"Uh… haha, sure, if you say so…"</font> He had his ears back and his gold turning fast. <font color="#ffe3f1">"Anyway, they all sound like anything *but* my name. ABSOLUTELY NO!"</font>
+
+<font color="#ff9742">"Absolutely no this, absolutely no that."</font> Lupa was standing with her arms folded and her raw palms turned up. <font color="#ff9742">"What do you *want?*"</font>
+
+<font color="#ffe3f1">"I want it to be *mine.*"</font>
+
+And Mei, sitting on the duckboards in the mud with her marked hand palm-up on her knee, said, in the middle of somebody else's sentence, sideways, the way she does everything:
+
+<font color="#ffdead">"Why don't you just call yourself Abby?"</font>
+
+<font color="#ffe3f1">"…"</font>
+
+<font color="#b8ffff">"Ooh — cause he's been saying *Absolutely no* a lot…?"</font>
+
+<font color="#ffe3f1">"…"</font>
+
+The gold stopped turning.
+
+<font color="#ffe3f1">"Hmm… Abby… Abra… *Abraxas?*"</font>
+
+<font color="#ff5757">"What's wrong? What are you muttering about?"</font> Chixia had her head off the cradle and her hand cupped round her ear. <font color="#ff5757">"Abra — *what?* Sounds like you're reading a spell."</font>
+
+<font color="#ffe3f1">"…Erm, I don't know…"</font>
+
+Nobody said anything for a moment.
+
+Then Iuno wrote *Abraxas* on the pad in her own script, and drew a box round it, and wrote the hour beside it, and looked up.
+
+<font color="#5881fe">"Magistrate. Do you know that word?"</font>
+
+<font color="#c8e4d7">"No."</font>
+
+<font color="#5881fe">"Bard?"</font>
+
+<font color="#77f8c0">"It scans like a name and it does not sound like anywhere I've been."</font>
+
+<font color="#5881fe">"Sentinel?"</font>
+
+Hsin ate a hawthorn she did not have.
+
+It took her four seconds, and she did it with her chin still on her hand and her tails perfectly still, and then she said, pleasantly, <font color="#c86596">"I have no comment to make at this table,"</font> and asked the kitchen sergeant whether there was any more of the fish.
+
+Iuno wrote, in the margin, beside the box: *Sentinel of Mengzhou declines. Four seconds.*
+
+Yangyang put her hand up into the air beside her own cheek, where the cold was, and left it there for a moment, and took it down again, and wrote nothing at all in either ink.
+
+<font color="#ffdead">"Abby's a good name,"</font> Mei said, into the quiet, to him and to nobody. <font color="#ffdead">"It fits in a bowl. You can keep the other one for later."</font>
+
+<font color="#ffe3f1">"…I *am* keeping it,"</font> said Abby, with the whole of his dignity reassembled in about a second and a half. <font color="#ffe3f1">"Obviously I am keeping it. It is *mine*, I have simply *filed* it. Now. There was talk of dinner."</font>
+
+---
+
+The terms took eleven minutes, and Iuno read every one of them aloud twice, once for the shelf and once for the relay, in the flat voice, with the corrections in.
+
+*Party: Abby. Column twelve, resident, no owner of record. Ward four accepts the charge.*
+
+*Residence: within the Tacet Mark of the party's co-resident, by the party's own election, on the following terms.*
+
+*One. He goes in because he goes in. Nobody carries him and nobody reaches.*
+
+*Two. He comes out on request. The request may be made by him, and it may also be made by any of the following, with no explanation owed and no need of the co-resident's agreement: the household physician; the head of household; the gladiator who brought him down off the north cut.*
+
+*Three. Review at seven days by the physician, and every seventh day after, in a room, out loud, with the party present.*
+
+*Four. If he wants out and the co-resident is the only person who can hear him, that is a jar. Entered at the request of the gladiator, in her own words, with her name against it.*
+
+*Five. The co-resident may decline at any point, and declining costs her nothing, and this clause is entered because she asked for it.*
+
+*Six. Meals. Entered at the party's own request, in the party's own words, and read back to him twice at his insistence: "Three. Minimum. And I am to be woken for all of them."*
+
+At the foot of it, in one stroke, drawn by a woman who invented it before sunrise on a Tuesday two days earlier and had it improved by a guesthouse keeper so that a tired clerk could get it down in one motion: the mark for **consent with a stated limit.**
+
+The ninety-fourth time it had been used in two days.
+
+Jinhsi countersigned. Baizhi countersigned as physician. Lupa put her name against clause four with her raw hand, badly, and wiped the pencil on her trousers and handed it back.
+
+<font color="#c8e4d7">"Read it to him."</font>
+
+<font color="#5881fe">"He has been shouting corrections at me through the entire drafting, Magistrate."</font>
+
+<font color="#c8e4d7">"Every party to an entry has the terms read to them before it is executed. I have read terms aloud to a man who was unconscious, a woman who spoke no Huanglong, and a goose."</font> Jinhsi did not look up. <font color="#c8e4d7">"Read it to him."</font>
+
+Iuno read it to him.
+
+It took two minutes. He interrupted four times, twice usefully. At clause four he went quiet and stayed quiet, which Chisa noticed and reported to nobody, and at the end of it he said, in a completely different register, at a volume nobody on that shelf had heard out of him yet:
+
+<font color="#ffe3f1">"Nobody has ever read me anything."</font>
+
+<font color="#5881fe">"Then that is the first,"</font> Iuno said, <font color="#5881fe">"and there will be one every seventh day, out loud, in a room, with you in it. Clause three. I wrote it."</font>
+
+---
+
+Then Mei put her hand down on the duckboard, palm up, mark showing, and left it there.
+
+<font color="#ffdead">"That's it,"</font> she said. <font color="#ffdead">"That's the whole offer. It's warm and it's crowded and there's about nine of you in there already and two of them argue. You can come and you can go. I'm going to sit here, and I'm not going to reach."</font>
+
+She did not reach.
+
+That was the part. Everybody on that shelf who had watched her all night — watched a woman with a mark that pulls stand in a road she had lit and let a dead man walk past her without catching him — watched her put her hand flat on a wet board and keep it there while something small on a crate nine feet away made up its own mind.
+
+It took forty seconds, which he spent talking.
+
+<font color="#ffe3f1">"Right. Terms are terms. I have signed — I have *verbally* signed, my paws are the wrong shape and I want that in the remarks — and a being of my standing does not go back on a — is that fish? Is that the fish from the cart? Because I want it *stated* that clause six begins *immediately* and — "</font>
+
+He came off the crate.
+
+He crossed nine feet of rain in a slow spiral, at the unhurried pace of something that has already decided and is simply bringing it over, and he came down on Mei's open palm and folded his ears and stood there, weighing about as much as a wet coat, still talking.
+
+<font color="#ffe3f1">"— and I have a great many *notes* on the salt, which I will be raising formally, and — "</font>
+
+He put his forehead against her hand.
+
+The two marks touched.
+
+It happened at the size of a lamp being lit in a room. The gold came up warm along the branching lines to the wrist and held for about three seconds at the temperature of a hand on a scar, and Mei's whole arm went the colour of paper with a candle behind it, and then it settled back to its ordinary low pulse, and the duckboard was empty and wet and had one pebble on it, left there carefully, for whoever came next.
+
+Mei sat very still.
+
+<font color="#ff8ff4">"Ma."</font>
+
+<font color="#ffdead">"Hang on."</font>
+
+<font color="#ff8ff4">"*Ma.*"</font>
+
+<font color="#ffdead">"Hang *on*, Amy, I'm — "</font> Mei's face did four things in a row. <font color="#ffdead">"He's *rummaging.*"</font>
+
+<font color="#a171d1">"Describe it."</font>
+
+<font color="#ffdead">"He's going through the Echoes. He's going along them like somebody in a shop with their hands behind their back, and he is *narrating*."</font> Mei looked at her own arm with an expression that had no precedent in four hundred years of her life. <font color="#ffdead">"He's picked something up. He's put it down. He has *moved something*, Baizhi, he has moved something that has been in the same place since Rinascita — "</font>
+
+<font color="#a171d1">"Is it painful."</font>
+
+<font color="#ffdead">"It's *rude.*"</font>
+
+Lupa laughed. It came out of her before she could get in front of it, a real one, and she turned it into a cough, and the cough fooled nobody; and Chixia announced from her cradle that she had *heard that* and wanted it *minuted*; and Cartethyia sat down hard in the mud and folded a paper person flat and put it away for another day; and Yangyang wrote the entry number in the second ink without being asked; and eight wards of a city twelve kilometres south found out, on a live relay, at nine minutes to the third hour, that the household had picked up one more.
+
+Iuno completed the entry with the hour.
+
+*Executed at the roadside, in weather, by his own election, before the following witnesses:* — and then eleven names, because eleven people were standing there, and Iuno takes every name that is offered.
+
+Then she put the pad down and reached over with her living hand and turned Mei's coat collar back where it belonged, which is what she does instead of saying things.
+
+<font color="#5881fe">"How is he?"</font>
+
+<font color="#ffdead">"Warm."</font> Mei closed her fingers over the pebble. <font color="#ffdead">"Loud. Extremely interested in whether we're having lunch."</font>
+
+<font color="#ff9742">"We're having lunch,"</font> Lupa said, and threw her the crispy thing from about a foot up, without breaking stride, on her way past to get her palms looked at.
+
+<font color="#ff9742">"Don't make a speech about it."</font>
+
+---
+
+## X. THE SOUTH SHELF
 
 They ate at the third hour, on the south shelf, in the rain, off the ground.
 
@@ -1037,6 +1603,40 @@ Cartethyia ate it. She eats everything slowly, including field rations, includin
 <font color="#b8ffff">"She's alive *eleven times.*"</font>
 
 <font color="#77f8c0">"Eat your fish."</font>
+
+---
+
+Abby came out at four minutes past the third hour.
+
+That was the first test of clause two, and it passed on its own. Mei put her hand flat on a crate and waited, and out he came, at volume, mid-sentence, having apparently been mid-sentence for the whole thirteen minutes; and Baizhi wrote the time in the margin of the entry and underlined it, because a clause that works on the first day is worth an underline.
+
+<font color="#ffe3f1">"— which is *precisely* why I raised it in the drafting, and nobody listened, and now look: FISH."</font>
+
+He went down the queue at head height, and the queue rearranged itself around him the way a queue does, and the kitchen sergeant — who had that morning issued a hundred and forty measures of grain against no requisition, to feed one thousand nine hundred and seven people who could not lift a bowl — leaned over his own trestle, looked at a small white flying creature holding a spoon in each front paw and announcing a clause number at him, and experienced a professional emotion he was unable to describe to his wife for some weeks afterwards.
+
+<font color="#a8b8c8">"Right,"</font> he said. <font color="#a8b8c8">"*Right.*"</font>
+
+He fed him four times.
+
+The fourth time produced a formal discussion between a physician, a foreigner with a pad, and a gladiator who was standing eleven feet away pretending to be somewhere else, on the subject of whether a thing of that class can be said to have a stomach; and the discussion was concluded by observation.
+
+The observation was that he went quiet — which by then everybody had learned to notice the way you notice a stopped clock — and drifted down onto the wheel arch of a medical wagon beside Sergeant Du, and looked at the small neat pile of pepper Du had picked out of his own bowl, and looked at Du, and asked nothing at all.
+
+Then he reached over with both paws and added two pieces to it.
+
+Du did not say anything.
+
+He put his hand down flat on the wheel arch beside him, in the rain, and left it there, and finished his soup out of a bowl with a hole in the rim with the other one.
+
+After about a minute Abby said, in a much smaller voice than his usual one, <font color="#ffe3f1">"Who is it for?"</font>
+
+<font color="#a9d6d0">"Bloke called Rui."</font>
+
+<font color="#ffe3f1">"Is he coming?"</font>
+
+<font color="#a9d6d0">"No."</font>
+
+<font color="#ffe3f1">"…Then he gets the pile,"</font> said Abby, as though settling a point of law, and put two more on it, and went back to shouting about the salt.
 
 ---
 
@@ -1160,6 +1760,18 @@ Amy picked the paper person up very carefully, the way you pick up something tha
 
 ---
 
+Somebody carried Chixia her bowl at the cradle line, and Abby went with it, on the principle that food moves and he goes where it moves. He held forth at her for six minutes about the boot, and about the ford, and about a valley with snow in it that he could not place, and Chixia — flat on her back under orders with her leg up — argued back at full volume about all three, and the two of them got on immediately and catastrophically.
+
+Then he stopped in the middle of a word, the way he does, and was asleep.
+
+Chixia's red patrol cap was on the rail above her head. It stayed on the rail. By the time anybody looked again there was a small white weight asleep inside it, warm, with the gold still turning slowly a finger's width off the fur; and on the other side of the same rail the air was four degrees under; and the warm line and the frost line met somewhere in the middle of a cap that was chosen at a Bureau exam by a girl who put a resolute checkmark in the least wanted box on the form.
+
+Nobody joined those three facts up out loud.
+
+Chisa heard the whole arrangement from eleven feet away and reported none of it.
+
+---
+
 Hsin ate on a rice sack, at the end, with her tails arranged behind her and a bowl in both hands, and she took the last hawthorn out of her sleeve halfway through and looked at it and put it back, which nobody except Mei noticed.
 
 <font color="#c86596">"Your knight told me my sword-carrying colleague ought to put her sword away."</font>
@@ -1248,7 +1860,7 @@ And the wind sat down.
 
 ---
 
-## X. THE SEASON
+## XI. THE SEASON
 
 The last of the column went past the third marker at four minutes past the fourth hour.
 
@@ -1368,6 +1980,20 @@ Clerk Wen, in ward four, at eleven at night, finished entering one thousand nine
 
 *The register remains open.*
 
+Underneath that, on the next clean page, because a field pad had come down the eastern road in a foreigner's handwriting with a magistrate's countersignature on it and a one-stroke mark at the foot, he opened the census and copied out an entry in column twelve.
+
+*Abby. Resident. No owner of record. Ward four accepts the charge.*
+
+*Remarks: carries two of things and gives one away. Loud. Resides within the Tacet Mark of a co-resident of household four-one-one, by his own election, on terms attached, reviewable at seven days. See field pad, entry ninety-four, which is not to be summarised.*
+
+Assessor Lü came in at half past eleven at night in his own time, in his own coat, having heard about it from a patroller on the wall, and asked to see the field pad, and read all five clauses standing up, and asked for a copy for his own drawer.
+
+<font color="silver">"Six years,"</font> he said. <font color="silver">"Six years that entry has sat there and nobody has ever built anything on top of it."</font>
+
+<font color="gainsboro">"Captain Chixia says she has argued the point at this office four times."</font>
+
+<font color="silver">"She has."</font> Lü folded his copy. <font color="silver">"She has never once cited the goose. Tell her I said so, and tell her slowly, because I would like her to sit with it."</font>
+
 ---
 
 Grand Marshal Li Zhaoying stayed outside the wall.
@@ -1472,6 +2098,8 @@ The season was over, which is a different sentence from the weather being gone, 
 
 The household went home on the twenty-ninth, on a lower cradle road, at three kilometres an hour, which is the speed at which the world has detail in it.
 
+Abby flew the first two kilometres, gave a commentary on the surface of the road for one more, and rode the remaining eight inside a wolf's coat, which was categorically denied at the time, is categorically denied now, and is attested by four separate witnesses and one physician's log.
+
 Mei walked with a stitched hand and her coat over her arm because Iuno's coat was on her shoulders and Iuno's coat has one sleeve and does not fit her at all. In its pocket, in the corner where a small object settles, there was a ring, and beside it a folded paper with four characters on it and a chop pressed into the fibre at the mill by somebody who had that sheet made before they wrote on it and left the seal space empty anyway.
 
 Iuno's hand went into that pocket the following evening, twenty-nine hours later, which is a long delay for a woman who empties her coat out of habit.
@@ -1484,4 +2112,4 @@ Then they found the ring.
 
 ---
 
-*[COLORS:Mei=#ffdead,Amy=#ff8ff4,Iuno=#5881fe,Lupa=#ff9742,Chisa=#ff8a8a,Cartethyia=#b8ffff,Ciaccona=#77f8c0,Yangyang=#667cf9,Chixia=#ff5757,Baizhi=#a171d1,Jinhsi=#c8e4d7,Changli=#cfdb29,Jiyan=#b0c4de,Hsin=#c86596,Qiuyuan=#c46f68,Cristoforo=#fafadb,Nivora=#fdb4fe,Scar=#e9c2ff,Du=#a9d6d0,Bao=#609e47,Geshu Lin=#d4b896,Li Zhaoying=#cbd369,Zhou Lian=#b9a882,Fang Qiu=#88d891,Gao Shun=#e0c9a6,Kitchen Sergeant=#a8b8c8,Wen=gainsboro,The Wind=#b0e0e6]*
+*[COLORS:Mei=#ffdead,Amy=#ff8ff4,Iuno=#5881fe,Lupa=#ff9742,Chisa=#ff8a8a,Cartethyia=#b8ffff,Ciaccona=#77f8c0,Yangyang=#667cf9,Chixia=#ff5757,Baizhi=#a171d1,Jinhsi=#c8e4d7,Changli=#cfdb29,Jiyan=#b0c4de,Hsin=#c86596,Qiuyuan=#c46f68,Cristoforo=#fafadb,Nivora=#fdb4fe,Scar=#e9c2ff,Du=#a9d6d0,Bao=#609e47,Geshu Lin=#d4b896,Li Zhaoying=#cbd369,Zhou Lian=#b9a882,Fang Qiu=#88d891,Gao Shun=#e0c9a6,Kitchen Sergeant=#a8b8c8,Orderly Han=#9fc6b0,Wen=gainsboro,Assessor Lu=silver,Abby=#ffe3f1,The Wind=#b0e0e6]*
