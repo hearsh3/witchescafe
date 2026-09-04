@@ -2112,4 +2112,106 @@ Then they found the ring.
 
 ---
 
+## XII. TUESDAY
+
+She sat down on the edge of the bed to look at them, which was the mistake.
+
+The paper first, because the paper was on top: four characters, a seal space, and a chop pressed into the fibre at the mill by somebody who had that sheet made before they wrote on it. Two days in a wolf-smelling coat had done it no harm at all. She held it up to the lamp out of habit and got the same answer she has been getting for three weeks, and put it down on the quilt.
+
+Then the ring.
+
+One facet, taken off her own shoulder with a jeweller's file in a room she has declined to name, and polished since by a pocket. Iuno turned it over once with her thumb and did the arithmetic she had been declining to do since half past nine that morning, which went like this.
+
+It left her coat on a stage, in the rain, because a Sphere had put her in the wings and taken her voice, and throwing it was the only sentence she had left. It struck a woman's knuckles and stopped a sword.
+
+And then that woman had carried it for nine hours — through a war, a dispersal, a deposition, a meal and a road — in a fist with a hole in the palm.
+
+And then put it back.
+
+Without saying anything. Without waiting to be seen doing it. In eleven minutes chosen out of an entire day for the fact that every single person on that shelf had a job.
+
+Which meant that it was still —
+
+*…Is this a Moment?*
+
+*It is, darling.* The High Priestess, from the small warm room behind her sternum, with her feet up and no intention whatsoever of helping. *Another Tuesday.*
+
+Mei hit her from the side.
+
+That is the accurate verb. It came too fast, at the pace of a woman who has crossed a room in three steps and did not plan the last two, and the arms went round from behind and the hands closed at the front and the whole thing was about a quarter tighter than a person needs to hold another person.
+
+Iuno got the ring closed in her palm on the way down and said, into the quilt, <font color="#5881fe">"You have a rib."</font>
+
+<font color="#ffdead">"Yep."</font>
+
+<font color="#5881fe">"You have four stitches through the web of your hand and a physician who has written *do not grip* on a card and given the card to me."</font>
+
+<font color="#ffdead">"Mm-hm."</font>
+
+Mei put her nose into her hair, at the join behind the ear, and breathed out, and did not let go.
+
+Iuno stopped doing arithmetic.
+
+She has held that grip on nine separate occasions and she can read it now the way Chisa reads a footstep. This one was the bill for a whole day of standing still: for four metres of mud not crossed, for a road lit and a dead man let past, for a hand kept flat on a wet board for forty seconds while something small made up its own mind. Mei had kept her hands to herself since yesterday morning, on purpose, in front of witnesses, and had been extremely good about it, and was now collecting.
+
+<font color="#5881fe">"All right,"</font> Iuno said, and put her living hand over the arm across her chest, and let it be that for a while.
+
+---
+
+Rain on the roof. The dam wind coming up the lane. The window that will not latch, with the half-inch gap in it and Mrs Ren's man still coming about it.
+
+<font color="#5881fe">"I have a concern."</font>
+
+<font color="#ffdead">"Course you do."</font>
+
+<font color="#5881fe">"It is a scheduling concern and I would like it heard in full before you make a face."</font> Iuno set the four-character paper on the box beside the lamp, squared it, and left it. <font color="#5881fe">"Your daughter sleeps through that wall. That wall is one board and a coat of size. The fourth step from the top announces anybody who uses it, which is a security asset and a domestic catastrophe. There is a wolf on the stairhead who can hear a cork come out of a bottle from the market. The window has a gap in it, and the gap has an aunt in it, and the aunt reads my correspondence."</font>
+
+The curtain moved, once, in a way that had nothing to do with the dam wind.
+
+<font color="#5881fe">"Yes, you,"</font> Iuno said, to the window. <font color="#5881fe">"Sunday. You turned a page back. I saw you do it and I let it go, and I am mentioning it now for the first time and for entirely tactical reasons."</font>
+
+The curtain settled with what could reasonably be described as dignity.
+
+*She cannot answer you, you know.*
+
+*I know.*
+
+*You have out-argued a woman who spent her last word on a dinner table this afternoon.* The High Priestess examined a nail. *We used to be better people, darling.*
+
+*We were exactly these people. We were quieter about it.*
+
+Iuno turned round inside the arms, which took some doing, and got her back against the headboard and Mei against her front, and looked at her partner's face for a moment in the lamp: a bitten tongue, a scraped rib, a stitched hand, a mark going at its ordinary low pulse like a lamp on a road.
+
+<font color="#5881fe">"…So. Now we have a daughter,"</font> she said, <font color="#5881fe">"and a talking cat in our bed."</font>
+
+<font color="#ffdead">"He's not in the bed."</font>
+
+<font color="#5881fe">"He is in you, and you are in the bed. I have done the syllogism twice and it comes out the same both times."</font> Iuno's eye did the thing it does. <font color="#5881fe">"He interrupted supper eleven times. He gave Panhua a review. He told Cartethyia her fifth stroke was *rushed*, which she has been repeating to herself in the stairwell for an hour and a half. And at some point this evening it occurred to me, in the middle of a perfectly ordinary conversation about lamp oil, that from now on he is going to be *present*."</font>
+
+Mei considered this with the whole of her attention, which she gives to about one thing in nine.
+
+<font color="#ffdead">"My body is soundproof."</font>
+
+A pause of some length.
+
+<font color="#5881fe">"Really."</font>
+
+<font color="#ffdead">"We can test it out tonight,"</font> said Mei.
+
+*Oh, she is **good**,* said the High Priestess, with the unfeigned admiration of one professional for another. *Four hundred years and she still delivers it like a weather report.*
+
+Iuno laughed.
+
+It went on for some time, and it was the ugly one, the one that comes up out of a person who has been holding a shelf full of people together on a raw throat since three in the morning, and it hurt her ribs, and Mei lay on her with her nose against her collarbone taking full and shameless credit for it.
+
+Down the lane a gate banged. Upstairs somebody moved on the boards and stopped. Through the wall, in the back room, a girl of nineteen with a rig and a bruise the colour of a bad sunset heard her mother laugh through one board and a coat of size, and put her headset down, and lay there in the dark grinning at a ceiling.
+
+Iuno put the ring back in the coat pocket herself, later, with the paper on top of it, and hung the coat on the hook by the door where it lives.
+
+It was Tuesday. There would be another one.
+
+The wind came in through the half-inch gap and read the four-character paper twice, from the wrong side, the way it had been reading things all month, and it made no comment whatsoever, on account of being entirely out of words; and the lamp went down; and the plum rains went on over Jinzhou, the way they do, for the rest of the season.
+
+---
+
 *[COLORS:Mei=#ffdead,Amy=#ff8ff4,Iuno=#5881fe,Lupa=#ff9742,Chisa=#ff8a8a,Cartethyia=#b8ffff,Ciaccona=#77f8c0,Yangyang=#667cf9,Chixia=#ff5757,Baizhi=#a171d1,Jinhsi=#c8e4d7,Changli=#cfdb29,Jiyan=#b0c4de,Hsin=#c86596,Qiuyuan=#c46f68,Cristoforo=#fafadb,Nivora=#fdb4fe,Scar=#e9c2ff,Du=#a9d6d0,Bao=#609e47,Geshu Lin=#d4b896,Li Zhaoying=#cbd369,Zhou Lian=#b9a882,Fang Qiu=#88d891,Gao Shun=#e0c9a6,Kitchen Sergeant=#a8b8c8,Orderly Han=#9fc6b0,Wen=gainsboro,Assessor Lu=silver,Abby=#ffe3f1,The Wind=#b0e0e6]*
