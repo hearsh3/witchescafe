@@ -442,17 +442,17 @@ She tried to put the first thing first.
 
 Her sword tip touched the ground.
 
-The Warden’s gaze dropped to her feet. He came forward faster.
+The Warden’s gaze dropped to her feet. She came forward faster.
 
 Yangyang felt herself tilt toward the gorge. Her left hand reached for the air in the old familiar way, asking it to take her weight.
 
-Then she saw his open hand.
+Then she saw the Warden’s open hand.
 
 She reached for that instead.
 
 Cloth caught between her fingers. The sleeve pulled tight over an arm; the arm strained against her weight. Someone else seized the back of her coat, painfully, and the cliff moved away beneath her.
 
-“I’ve got you,” the Warden said. His breath was harsh beside her ear. “Let us bring you through. You don’t have to hold yourself up.”
+“I’ve got you,” the Warden said. Her breath was harsh beside Yangyang’s ear. “Let us bring you through. You don’t have to hold yourself up.”
 
 She tried to help. Her legs folded.
 
@@ -494,17 +494,17 @@ She listened to him finish the explanation.
 
 Footsteps crossed the room outside. They passed her door, returned, and stopped. The latch lifted.
 
-The Warden with the bandaged forearm came in carrying a cup. Without his weapon he looked younger. Dust lay in the crease beside his nose, where washing had missed it.
+The Warden with the bandaged forearm came in carrying a cup. Without her weapon she looked younger. Dust lay in the crease beside her nose, where washing had missed it.
 
-“You’re awake. I thought I heard the bed move.” He put the cup within her reach and drew a stool closer. “I’m Liangyu. We brought you down from the outpost. You’re in a house in the village.”
+“You’re awake. I thought I heard the bed move.” She put the cup within Yangyang’s reach and drew a stool closer. “I’m Liangyu. We brought you down from the outpost. You’re in a house in the village.”
 
-She watched his mouth through the whole sentence.
+Yangyang watched her mouth through the whole sentence.
 
 “How long have I been here?”
 
 “Only a few hours. Try the water slowly. You were having trouble swallowing when we first brought you in.”
 
-Her hand would not close firmly around the cup. He helped her lift it without remarking on the tremor.
+Her hand would not close firmly around the cup. Liangyu helped her lift it without remarking on the tremor.
 
 The water tasted of the pot in which it had been boiled.
 
@@ -522,7 +522,7 @@ She had known the distance was still there. Hearing it from someone else made he
 
 Liangyu glanced toward the door. In the other room, a man began coughing, then tried to apologize for it.
 
-“We were at the outer posts when the Autopuppets turned on us,” he said. “Some of us made it back here. We’ve been keeping the roads into the village covered.”
+“We were at the outer posts when the Autopuppets turned on us,” she said. “Some of us made it back here. We’ve been keeping the roads into the village covered.”
 
 Yangyang’s hand tightened around the cup.
 
@@ -532,23 +532,23 @@ The sunlight on the broken path returned, and with it the reaching arm.
 
 Liangyu went still.
 
-She saw his gaze settle on her face with a new, painful attention.
+She saw Liangyu’s gaze settle on her face with a new, painful attention.
 
 “You saw them?”
 
 Yangyang opened her mouth, then waited until she could make the answer exact.
 
-“I heard what happened. My Resonance sometimes catches voices left in the wind.” She looked at the bandage across his forearm. “I couldn’t tell how long they had been there. I’m sorry. I don’t know where they are now.”
+“I heard what happened. My Resonance sometimes catches voices left in the wind.” She looked at the bandage across Liangyu’s forearm. “I couldn’t tell how long they had been there. I’m sorry. I don’t know where they are now.”
 
-His hand moved once on his knee.
+Liangyu’s hand moved once on her knee.
 
 “When you’re stronger, will you tell me everything you heard?”
 
 “I will. If you can bring paper, I’d like to write the names before I lose them.”
 
-He nodded, keeping his eyes lowered for a moment. Then he helped her settle the cup on the stool.
+Liangyu nodded, keeping her eyes lowered for a moment. Then she helped Yangyang settle the cup on the stool.
 
-At the door he looked toward the bird.
+At the door she looked toward the bird.
 
 “That one has stayed since we brought you in. Do you know whose it is?”
 
@@ -622,9 +622,9 @@ Yangyang wiped her face with the unbandaged edge of her hand. She missed a tear 
 
 It turned toward the sound.
 
-She was listening for the tiny catch in its wing when Liangyu returned. He laid a few sheets of paper on a board across her knees and put a brush beside them. Someone had rinsed it in haste; a bead of water clung near the ferrule.
+She was listening for the tiny catch in its wing when Liangyu returned. She laid a few sheets of paper on a board across Yangyang’s knees and put a brush beside them. Someone had rinsed it in haste; a bead of water clung near the ferrule.
 
-“There’s more ink if you need it,” he said. “I’ll be in the next room.”
+“There’s more ink if you need it,” she said. “I’ll be in the next room.”
 
 Yangyang touched the edge of the board.
 
@@ -632,9 +632,9 @@ Yangyang touched the edge of the board.
 
 “Of course. Call if you need help with the cup.”
 
-He left the door wide enough for her to see his stool beyond it.
+Liangyu left the door wide enough for Yangyang to see her stool beyond it.
 
-She waited until he had sat down. The wood creaked under his weight.
+Yangyang waited until she had sat down. The wood creaked under her weight.
 
 Then she took the brush.
 
@@ -664,4 +664,4 @@ Yangyang put the brush down before the ink on her name had dried.
 
 “Liangyu,” she called through the open door, “may I have a little more water?”
 
-She heard him set his things aside. His footsteps came toward her, and she kept her hand around the cup, waiting for him to help her lift it.
+She heard Liangyu set her things aside. Her footsteps came toward the bed, and Yangyang kept her hand around the cup, waiting for her to help lift it.
