@@ -446,11 +446,11 @@ The drop let go of the leaf. Before it struck the next step, the Wind came back.
 
 Suisui followed with Yangyang’s coat over one arm and a small brightness held in both hands. Dumpling perched on her shoulder. Her face had changed in the way a room changes after somebody has wept in it, though all the furniture remains where it stood. Iuno rose too quickly. The wound in her shoulder caught; the Wind braced beneath her elbow.
 
-“Has she hurt you?” Iuno asked. “Tell me what happened before we try to go any farther.”
+“...You.” Iuno said. “Tell me what happened before we try to go any farther.”
 
 Suisui looked down at her own breast, then touched it with two fingers.
 
-“I thought she had. There is a great deal to tell you.” She drew breath and looked at Iuno’s dressing. “You’re bleeding.”
+“I saw the Sentinel. Or... a fragment of her. There is a great deal to tell you.” She drew breath and looked at Iuno’s dressing. “You’re bleeding.”
 
 “The bleeding has slowed. I was waiting for your sister.”
 
@@ -462,94 +462,8 @@ Iuno looked at the thread in her hand.
 
 “She did. I told her where I would wait.”
 
-From below the stair came a tremendous crash, then Lupa’s voice objecting to a piece of masonry in terms too particular to have belonged to the old war. The Wind lifted from the scarf. She circled once over Iuno’s light, gathering her bearings, then went down toward the sound.
+The wind lifted.
 
 Suisui and Iuno followed. At the first uncertain step, each offered the other an elbow. They looked at the awkward arrangement and nearly laughed. They managed it by going slowly.
 
 ***
-
-By the time they reached the courier house, Mei’s wound had closed. Her ruined coat lay beneath the table. Amy had wrapped her in a blanket and was sitting close enough that their knees touched. On the cracked Terminal, the counter read sixty-three minutes. It continued to count; nobody had thought to stop it. Iuno saw the blood first. She stopped inside the door.
-
-Mei turned toward her. Relief broke over her face so openly that Iuno had to look down for a moment before she could cross the room.
-
-“Tell me where you were hurt before I touch you.”
-
-Mei moved the blanket aside. The skin beneath the dressing was whole, flushed with its newness. Iuno’s living hand hovered above it and came to rest on the uninjured part of her waist.
-
-“Amy helped me,” Mei said. “I couldn’t manage it by myself.”
-
-Amy had been watching Iuno’s hand. She looked up then, and the face she had held together through the sluice and the carrying came apart. Iuno sat on the edge of the bench. She opened her living arm. Amy came into it with such force that Mei reached to steady them both.
-
-For a while Iuno could say nothing except that she was there. She said it in complete, ordinary sentences, as often as the girl against her shoulder needed to hear it.
-
-Suisui stopped beside the table. Her gaze rested on the bloodied blanket, the splints around Shen Rong’s leg, Cartethyia sitting with a little bundle of wet earth in her lap. Chisa’s sleeve had torn at the collar. Ciaccona kept flexing the hand with which she had held the room. She had taken their strength into Hsin’s chamber as though she could produce it from her bag when asked.
-
-The Prism grew warm between her fingers. Mei looked up from Amy’s hair.
-
-“Come and sit with us. You’ve lost a shoe.”
-
-Suisui sat. Only then did she realize how badly her foot hurt. She put the Prism on the table, where everyone could see it.
-
-“Hsin has given me a way to call Yangyang,” she said. “If she can answer, it may show us a passage. I need to understand what each of you can still do before I ask you to take it.”
-
-The Wind settled along the coat in her lap. Under the cloth, the shells made their small sound. Lupa brought a stool closer with her foot.
-
-“You can start by telling us what you need. We’ll answer for ourselves.”
-
-***
-
-They could hear Autopuppets moving beyond the mulberry terrace. Lupa took the doorway with Chisa beside her. They had already seen how the machines followed sounds which had outlived their makers. Ciaccona set a little refrain walking through the empty dye yard; the nearest footsteps turned after it. She stayed within the courier house, listening for the moment she would have to let it go.
-
-Cartethyia put the camellia on a high shelf and went to examine the transport’s fallen carrying cradle. Nyx’s signal had steadied as Chisa cleared the nearest folds. If they needed the armour, Amy could enter it with people beside her body now.
-
-Shen Rong watched the door from his bedding. When the metal footsteps passed beneath the yard, he told Lupa which paving stones covered an old pit. She thanked him, badly, and went to inspect it. Mei tried standing once. Her knees folded before she was fully upright. She sat down, waited for the dizziness to pass, and told Suisui she would need carrying farther if the road opened soon.
-
-Nobody mistook the healed skin for an answer to that. Iuno drew the lamp closer to the shells. One contained the sea Yangyang had carried since her youth; the other held the distance crossed by the woman now sheltering against her sister. The Prism stood between them. Its light divided and returned, pale within the curves their mother had smoothed.
-
-Suisui followed the instruction Hsin had given her. She went slowly, stopping when the warmth in the Prism sharpened. At first they heard many roads. A cart rattled across a bridge. Someone called for a gate to be opened. A woman laughed from a courtyard, and Suisui’s hands tightened before she could prevent it. Iuno put her pencil across the corner of the cloth before it slipped from the table.
-
-“Tell her where you are now,” she said.
-
-Suisui looked at the crooked table, the ruined coat beneath it, the women waiting within the lamp’s small circle.
-
-“Yangyang, I’m in an old courier house beyond the outer gates. The others are here with me. I have your coat, and shijie is beside my hand.”
-
-The roads continued to pass.
-
-“I meant to visit you in Jinzhou. I arrived rather late.” Suisui swallowed. “I would like you to know that I’m trying again.”
-
-The light faltered. Far away, a door opened and closed. Amy moved her receiver closer to the Prism, listening to the faint disturbance without trying to make it louder. Ciaccona let the refrain in the dye yard go. The room waited in its own uneven silence. Then someone coughed. The Wind rose so quickly that the lamp flattened toward the wall. The cough ended. A breath followed it, painfully drawn.
-
-“Suisui, can you hear me? I thought I heard you say you had my coat.”
-
-Suisui pressed both hands against the table.
-
-“I have it here. Baizhi told me to bring it.”
-
-Another breath. The voice was hoarse, much weaker than the one Suisui had imagined hearing when she set out from home.
-
-“Is Chixia alive?”
-
-Mei leaned toward the light.
-
-“She was alive when we left Huaxu. Baizhi was sitting beside her. The Wind stayed until she could give her into Baizhi’s hands.”
-
-At the far end, something was set down too quickly. They heard a woman tell Yangyang to lean back, that she would hold the cup. For a while there was no reply. Suisui stared into the light. The Wind pressed against her wrist, cold and shaking. Neither could cross the distance by wanting. Then Yangyang spoke again.
-
-“Please tell shijie that I heard. I’ve been thinking about the gorge.” Her breath caught. “I have so much to tell her.”
-
-The older shell turned beneath the lamp. Suisui bent over it, trying to find her voice. Across the table, Amy put a hand over the receiver so the far room would not hear the sob she could not quite swallow. Mei drew the hand away gently.
-
-“She can hear us all from there, sweetheart. Let her hear you.”
-
-Amy bowed her head. The little sound went through. Yangyang said her name, and then Mei’s. Lupa came in from the doorway when she heard them. Cartethyia stopped beneath the shelf with both hands still raised toward her plant. For a few breaths nobody attended properly to the thing she had been doing. The Prism cast a narrow line across the floor.
-
-It went under the door and ended before the far wall of the yard. Beyond it lay the fog, the broken roads, the machines still walking their ruined patrols. Yangyang had answered; reaching her remained work they had yet to do.
-
-“Can you tell me what is near the house?” she asked. “Liangyu knows the old courier roads. She’s coming to sit beside me.”
-
-Suisui looked toward the door. Rain had begun to touch the threshold. Chisa put her palm against the first lit stone and waited before placing a foot upon it.
-
-“There are mulberries above us,” Suisui said. “A dye yard below. Someone has carved a horse over the lintel, though it has had an unfortunate time.”
-
-From far away came the scrape of a second chair being brought to the table. Suisui settled the coat across her knees. She found the torn cuff with her thumb and held it, listening while her sister began to describe the road.
