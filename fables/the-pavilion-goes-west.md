@@ -1,20 +1,22 @@
 # The Pavilion Goes West
 
-By the time Suisui came downstairs, Amy had accused Mei of eating the evidence.
+By the time Suisui came out of the storehouse, Amy had accused Mei of eating the evidence.
 
-“There were crumbs in the bed,” she was explaining. “Iuno found one inside her sleeve. Ma said it might have come from breakfast, and then she ate it while we were discussing the time.”
+“There were crumbs in the bed,” she was explaining. “Iuno found one inside her sleeve. Ma said it was last night's siege cake, and then she ate it while we were discussing the time.”
 
 Mei reached for the teapot.
 
-“It tasted like last night's bread. I thought that would help.”
+“It tasted like millet. I thought that would help.”
 
 “You've made it very difficult to get a second opinion.”
 
-Iuno sat beside the window with her hair pinned up and her new earring catching the sun. She had been awake long enough to make tea, put on clean clothes, and discover that Amy had borrowed the ribbon intended to keep those clothes in place.
+The Hold had slept late, as ordered, and had not yet carried its tables in. They stood down the terraces where the festival had left them, one long board from the gate to the overlook stair, and the household was eating at its own stretch outside the storehouse door. The place facing the gate was still set at the end, a bowl and a cup turned toward the road.
 
-The ribbon was now round Amy's hair. Iuno had accepted a different one after a discussion which Lupa had heard from the courtyard.
+Iuno sat at the end nearest the kitchen window with her hair pinned up and her earring, recovered from her boot, catching the sun. She had been awake long enough to walk down to the square with two cups and come back with one, make a fresh pot, put on clean clothes, and discover that Amy had borrowed the ribbon intended to keep those clothes in place.
 
-“You could all have slept downstairs,” Lupa said. “The rest of us would have heard exactly as much.”
+The ribbon was now round Amy's hair. Iuno had accepted a different one after a discussion which Lupa had heard from the stool by the door.
+
+“You could have taken it outside,” Lupa said. “The rest of us would have heard exactly as much.”
 
 “You were laughing before the kettle boiled,” Chisa observed.
 
@@ -22,13 +24,23 @@ The ribbon was now round Amy's hair. Iuno had accepted a different one after a d
 
 “I got my hair tied,” Amy said. “It was an excellent morning.”
 
-Suisui sat beside her, as promised. Yangyang followed with the wider bowl, her hat under one arm and the Wind carrying the loose end of its ribbon clear of the floor.
+Suisui sat beside her, as promised. Yangyang followed with her hat under one arm, the cyan ribbons of her plumage trailing over the frost behind her until Suisui gathered them off the flagstones without looking round.
 
 “Have we missed much?” Suisui asked.
 
-“There was a disagreement over the blankets,” Iuno said. “Your sister arrived in time for the surviving breakfast.”
+“There was a disagreement over the blankets,” Iuno said. “You're in time for the surviving breakfast.”
 
 Mei put a cup in front of Yangyang and smiled at her. Yangyang smiled back, then took the pancakes Lupa passed along.
+
+“What day is it?” Mei asked the table.
+
+“Sunday,” said Lupa, without looking up. “It was Sunday when you asked at the stove, too.”
+
+“Just checking.”
+
+“She checks every morning,” Amy said, writing something in the notebook and shielding it with her elbow. “One of these Tuesdays it'll be the Tuesday, and we'll all have to act surprised.”
+
+Iuno became deeply interested in the pancakes.
 
 They were thick, with a sparse scattering of scallions caught in the folds. Lupa bit into hers, considered it, and reached for the pickle dish.
 
@@ -42,7 +54,7 @@ From the kitchen window, the cook looked at the three pancakes on Lupa's plate.
 
 The cook laughed and shook another cake out of the pan.
 
-“This Mrs Ren can come and show me her method when she's fed the west gate and two carrying parties. Has she got a stove as old as this one?”
+“This Mrs Ren can come and show me her method when she's fed the west gate, two carrying parties and half the intake hall. Has she got a stove as old as this one?”
 
 “She speaks to hers every morning,” Mei said. “Usually while turning something with great force.”
 
@@ -50,7 +62,7 @@ The cook laughed and shook another cake out of the pan.
 
 Ciaccona moved her cup away from Amy's elbow.
 
-“We've been here one morning and acquired an errand between cooks. This is how the long journeys begin.”
+“We've been here a week and acquired an errand between cooks. This is how the long journeys begin.”
 
 “I'd like to take Mrs Ren some of the pickles,” Cartethyia said. “She would know what the little green things are.”
 
@@ -60,7 +72,7 @@ Cartethyia regarded the one on her spoon with renewed interest.
 
 “That explains what happened to my tongue.”
 
-Amy leaned across Suisui to see. Lupa took the pickle dish out of the way of her sleeve. Mei began telling Iuno that she had thought the green things were peas, and Iuno turned toward her with such an expression that Suisui laughed before she heard the reply.
+Amy leaned across Suisui to see. Lupa took the pickle dish out of the way of her sleeve. Mei began telling Iuno that she had thought the green things were peas. Iuno, whose tongue had come back to her only that morning after Friday's noodle counter, turned toward her with such an expression that Suisui laughed before she heard the reply.
 
 Wen leaned through the window again.
 
@@ -70,7 +82,13 @@ Four people answered at once.
 
 “Put the plate in the middle,” she said. “You'll have something else to argue about.”
 
-The plate went down. Above the wider bowl, steam drifted toward the smell of toasted flour. Yangyang turned it a little so the Wind could enjoy the warmer side.
+The plate went down. Steam rose off Yangyang's bowl and leaned along the table toward the place facing the gate. She had turned the bowl a little after it before she noticed what her hand was doing.
+
+Suisui put a pancake into that hand.
+
+“Eat,” she said, in Ma's voice.
+
+Yangyang ate.
 
 Suisui watched Amy reach for a cake, discover that Mei had taken the same one, and continue pulling with the calm confidence of a daughter who expected a fair share.
 
@@ -78,13 +96,13 @@ The cake tore. Mei's half dropped into her tea.
 
 Iuno closed her eyes. Lupa's laughter carried into the kitchen.
 
-Suisui buttered her own piece and settled comfortably between the voices. Above her, Dumpling shifted along the window frame to watch Wen turn another cake.
+Suisui buttered her own piece and settled comfortably between the voices. Above her, Dumpling shifted along the storehouse eaves to watch Wen turn another cake.
 
 ***
 
 Liangyu found them finishing the tea.
 
-She brought the morning report from the Skyworks, which Amy read with a finger following each entry. The braces held. The engineering crew had begun its survey from the marked controls. Nyx remained exactly where Amy had left her.
+She had come off the wall at the change of watch with the night still on her leathers. She brought the morning report from the Skyworks, which Amy read with a finger following each entry. The braces held. The engineering crew had begun its survey from the marked controls. Nyx remained exactly where Amy had left her.
 
 “She's going to enjoy being admired by people who know what they're looking at,” Amy said, handing the sheet back. “Please tell them I'll read anything they want to send over.”
 
@@ -92,19 +110,29 @@ She brought the morning report from the Skyworks, which Amy read with a finger f
 
 “Then they are enjoying themselves as well.”
 
-The questions for Hsin had gone onward. The southern dispatch was travelling with the returning supply party. Liangyu had an appointment at the infirmary, and the healer, having examined their dressings, had suggested a quiet morning.
+Liangyu had also brought an envelope with the Ministry of War's seal on it, addressed to Yangyang. Suisui took it out of her sister's hand before Yangyang had finished reading her own name, weighed it, and put it into her sleeve.
 
-At this, everyone looked toward the breakfast table.
+“I'll read it first,” she said. “Three times.”
+
+Yangyang let her.
+
+The questions for Hsin had gone onward. Liangyu's grandmother had rung back down the freight lane at the fourth bell to ask whether she had slept, and Liangyu had told her yes, which would be true in about an hour. The healer at the east infirmary, having examined Mei's stitches and Yangyang's ribs the evening before, had recommended a quiet day and as much sitting down as the Hold could supply.
+
+At this, everyone looked at Mei and Yangyang, who were both reaching for the last pancake.
 
 Liangyu smiled.
 
-“You could try the gardens. The lifts are working along the inner terraces. Ask an attendant about the upper walkways; some are still closed for inspection.”
+“You could try the upper tiers. The lifts are running along the inner terraces again, for the first time since the battle. Ask an attendant about the high walkways; some are still closed for inspection.”
 
 Suisui collected her coat. “Where would you go if you had the morning?”
 
 Liangyu thought about it while fastening the flap of her dispatch bag.
 
-“Huizhen Plaza. I'd buy a sweet cake and sit where I could see people spending money.”
+“Bed.”
+
+Suisui waited.
+
+“After that, Huizhen Plaza. I'd buy a sweet cake and sit where I could see people spending money.”
 
 “You should have said that first,” Ciaccona told her.
 
@@ -150,31 +178,39 @@ A freight platform moved out from beneath the viaduct. It bore crates, two men, 
 
 Lupa followed it with her eyes.
 
-“I carried water up four flights last night.”
+“I carried water up from the cistern every night this week. Four flights.”
 
 Suisui put a hand over her mouth.
 
-“We should perhaps have looked out of this window earlier.”
+“The lifts were closed for inspection,” she said. “I did ask.”
 
-The Wind left her collar. She travelled along the warm stone, rose above the balustrade, and let the high current spread a little through her.
+Yangyang had gone to the rail.
 
-Below the rail was room for a whole weather system.
+The current came up the cliff beneath it, cool from under the ring and warm off the white roofs, with water breathing out of the gardens somewhere below. Her collar lifted into it all the way round. The ribbons went out behind her and pointed east. She knew this air. Four nights ago she had come down through it with most of her feathers gone, aiming for a lit parapet and a woman kneeling in the snow.
 
-She could feel the cool pull beneath the ring, the warmer air rising from white roofs, water breathing out of the gardens. She went as far as the end of the terrace, returned with a cherry petal, and set it on Yangyang's hat.
+She leaned into it a little further than a person ought to.
 
-Yangyang turned the hat in her hands.
+Suisui's hand closed on the back of her coat. Suisui herself went on watching the freight platform.
 
-“You found the gardens already.”
+Yangyang settled back onto her heels.
 
-The petal moved toward her nose.
+A cherry petal came up over the balustrade on the draught and caught on the brim of her hat. Mei, arriving beside her with one hand on the rail and the other on her stitches, picked it off.
 
-She laughed and put the hat on.
+“You know this one,” Mei said.
+
+“I came in on it.”
+
+“You landed on your face.”
+
+“I landed.”
+
+Mei tucked the petal into the band of the hat, where it stood up like a small pink feather, and went to find Iuno.
 
 Iuno stood a little apart, watching sunlight travel along the great ring. Mei came beside her and slipped a hand into hers.
 
 “She built all this,” Mei said.
 
-“I'd like to watch her draw one of those joints.” Iuno followed the freight platform until it vanished behind a roof. “And then I'd like her to sit down with yesterday's questions.”
+“And moved the moon two spires to the left to make a point.” Iuno followed the freight platform until it vanished behind a roof. “I'd like to watch her draw one of those joints.”
 
 Mei squeezed her hand.
 
@@ -186,17 +222,19 @@ Xuanfang Square opened around its resonance spire in wide circles of etched ston
 
 The patterns underfoot curved toward the obelisk, their grooves catching strips of jade light from the conduits running up its sides. At one edge, two mechanics knelt beside an opened service plate. Citizens stepped around them on the way to the colonnades. An elderly man had set his birdcage in the sun beside a bench and was using the cage's cover to shade his own eyes.
 
+At the foot of the spire, the Sentinel's board still carried the Hold's chalk from the night before. It ran down off the board and across the paving in names and thumbprints, and a sweeper was working his broom round the edge of it with great care.
+
 A mechanical hound stood by the crossing.
 
 Its face was made from three fitted plates, with a small polished crest above the eyes. Green light moved behind the joints of its forelegs. When a handcart approached, it turned its head, judged the width, and stepped neatly into a recess in the wall.
 
-Yangyang's pace shortened.
+Yangyang's pace shortened. She could hear its joints from the far side of the square, each one taking its load and passing it on, and her collar rose along her jaw and stayed there.
 
-Beside the hound, a Warden adjusted a lead connected to its shoulder housing. An inspection tag hung from the coupling. He looked up as they approached.
+Beside the hound, a Warden adjusted a lead connected to its shoulder housing. An inspection tag hung from the coupling. He looked up as they approached, saw the collar, and gave Yangyang the nod the Wardens had been giving her all week.
 
 “We're walking this one through the square before opening the next route. You can come past on my side.”
 
-Yangyang followed the space he showed her. The Wind remained beneath her collar.
+Yangyang followed the space he showed her.
 
 Lupa watched the hound's head until they reached the far paving. Then Cartethyia pointed up at a row of tiles which had begun to lift.
 
@@ -218,9 +256,11 @@ Chisa was still feeling the final movement through the stone.
 
 “I'd like to see where the weight goes.”
 
-“Yangyang, come with us,” Amy said. “You can read the labels while I look underneath everything.”
+“Yangyang, come with us,” Amy said. “Crew reads the labels while I look underneath everything.”
 
-“I'd enjoy the Academy.” Yangyang glanced toward Suisui. “There are seats along the canals. I saw them marked on Liangyu's map.”
+“I know the way.” Yangyang glanced toward Suisui. “The water goes uphill.”
+
+Mei looked round at that and smiled.
 
 Suisui had been looking at a poster beneath the colonnade.
 
@@ -240,33 +280,53 @@ Cartethyia tapped a little drawing beneath the gallery's name.
 
 “It says there's a kite terrace.”
 
-They continued together as far as Huizhen Plaza. Beneath the first wisteria-covered walkway, Mei slowed beside Yangyang while the others stopped at a stall selling folded maps.
+They continued together as far as Huizhen Plaza. Mei had taken Yangyang's arm at the bottom of the square, the way they had walked up the Academy on Thursday, one of them holding stitches and the other holding ribs, and beneath the first wisteria-covered walkway they slowed together while the others stopped at a stall selling folded maps.
 
-“I talked to Iuno last night,” she said. “About our afternoon.”
+“There are canals at the Academy,” Mei said. “Little ones. Between the ponds.”
 
-Yangyang adjusted the strap on her shoulder, then let her hand fall.
+“Channels.”
 
-“I'm glad you had time.”
+“Iuno says they don't count either.”
 
-“I told her I wanted to keep seeing you. She told me how she felt.” Mei looked at her. “For now, I've agreed to keep kissing just Iuno while we talk about what comes next. I wanted you to hear that from me before I asked for another walk.”
+Yangyang's mouth curved. “You asked her.”
+
+“I told her I was still going to walk the canal with you. In Jinzhou. She said I'd told her twice.” Mei watched the stall, where Amy had already asked the seller about three buildings. “She said something else, on Thursday night. I've been carrying it about since.”
+
+Yangyang waited.
+
+“I told her what you picked. Out of everything about her. The tea.” Mei's fingers moved on Yangyang's sleeve, where it thinned toward the wrist. “She said it took her months. Then she said sooner would have been better. Very quietly, to the rafters. And she put her thumb to her cheek, as if somebody had touched her there.”
+
+Under the brim of the hat, Yangyang's collar went up all the way round.
+
+Mei looked at it, and then at her face.
+
+“That's in the sealed part,” Yangyang said.
+
+“The rest of the morning.”
+
+“Yes.”
+
+Mei nodded. She put the question away somewhere behind her ribs, carefully, beside the stitches.
+
+“Then it can go by the stove with the plate,” she said. “Lupa's moved it twice already.”
 
 A cart passed beneath the hanging flowers. Its driver ducked a little too late and emerged with purple petals on his cap.
 
 Yangyang watched him brush them away.
 
-“I'd still like your company,” she said. “I may want to talk about how it feels after we've had some more of it.”
+“Dear Mei,” she said. “Today a man drove under the wisteria too slowly.”
 
-“You can tell me. Even halfway through an afternoon.”
+Mei got a hand over her stitches before the laugh arrived. “That's a short letter.”
 
-Yangyang's mouth curved.
+“It's a postcard. The long ones are for when it's cold.”
 
-“Today I want to go to the Academy. Amy has already asked the map seller about three buildings.”
+Mei leaned on the arm a little more than she needed to.
 
-“She'll send for me when she finds something enormous.”
+“Go to the Academy,” she said. “Amy will send for me when she finds something enormous.”
 
 “I'll encourage her to describe it first. You should get to enjoy your seat.”
 
-Mei brushed a fallen wisteria blossom from Yangyang's shoulder. The Wind caught it beneath her hand and carried it to the brim of the hat, beside the cherry petal.
+Mei brushed a fallen wisteria blossom from Yangyang's shoulder. It dropped onto the brim of the hat and lodged beside the cherry petal.
 
 Yangyang let it stay.
 
@@ -286,7 +346,7 @@ Suisui looked around at the household.
 
 ***
 
-At Xuanfang Huaxu Academy, the water went upstairs beside them.
+At Xuanfang Huaxu Academy, the water went upstairs beside them, as it had on Thursday.
 
 It rose in a narrow transparent channel, passed through the mouth of a carved fish, and spilled into the next terrace. Amy stopped to look behind the fish. Chisa continued to the pool above, where cubic lanterns drifted among circles of reflected sky.
 
@@ -296,7 +356,7 @@ It rose in a narrow transparent channel, passed through the mouth of a carved fi
 
 “We'll send her a picture of the tail as well. She deserves the whole fish.”
 
-They crossed a low bridge into a court shaded by an old tree. Pale study buildings rose around it, their teal window frames open to the sound of water. A student sat on the steps with a book balanced against her knees and a sleeping cat spread across the lower half. She turned a page by lifting the cat's paw.
+They crossed a low bridge into a court shaded by an old tree. Pale study buildings rose around it, their teal window frames open to the sound of water. The student with the cat was on the same step as on Thursday, several chapters further on, with the cat spread across the lower half of the book. She turned a page by lifting its paw, saw the collar, and lifted her chin to Yangyang. Yangyang lifted hers back.
 
 Inside the west gallery stood a model of the Hold.
 
@@ -324,7 +384,7 @@ As its front foot touched the sensing plate, the paving leapt.
 
 Two guardian shapes rose from the street. Their shoulders carried sections of the colonnade; carved roof beasts made their breastplates. One swept a broad arm across the escape path while the other brought its weapon down onto a little brass stop. The trapped wooden beast rocked on its base.
 
-Amy felt Yangyang's sleeve beside hers. She slowed the control and let the figures stand.
+Amy felt Yangyang's sleeve go still against hers. At the edge of her eye the collar had gone up. She slowed the control and let the figures stand.
 
 “Can you show us how they go back?” Chisa asked.
 
@@ -354,7 +414,7 @@ Amy followed the drawing with her finger held above the paper.
 
 The apprentice laughed and pulled out the sheet underneath.
 
-Yangyang took a seat by the open window while the two of them discussed the drawings. The Wind settled on the sunlit sill, lifting a small collection of pencil shavings into a loose ring.
+Yangyang took a seat by the open window while the two of them discussed the drawings. Through it came the sound of water, a door on the terrace below, and from the next hall a liuqin practising scales and missing the same note it had missed on Thursday. She listened for it to come round again. It came round, and missed.
 
 Chisa joined them with a visitor leaflet.
 
@@ -378,35 +438,37 @@ A child with a missing front tooth explained the more immediate rules.
 
 “You have to get yours through the middle arch. If you turn all the wheels, everything goes into the drain.”
 
-Chisa took the blue flag. Yangyang chose green.
+Yangyang chose green. Chisa's hand went past the blue flag and came to rest beside hers on the same boat.
 
-The Wind went to the yellow one.
+“The green channel has two wheels,” the child said, approving. “It goes better with two.”
 
-Yangyang held its little mast while the cold settled around it.
+He watched Yangyang's hand go to the leftmost control and moved his stool to make room.
 
-“We can take turns with the wheel. Tell me when you've chosen a gate.”
+“That one's slow,” he told her. “It sticks a bit. You'll have to start early.”
 
-The child watched a sleeve draw gently toward the leftmost control. He moved his stool to make room.
-
-“That one's slow,” he told the air. “It sticks a bit. You'll have to start early.”
+Chisa took the second wheel and laid her other palm flat on the rim of the basin, where she could feel the gates move through the tiles.
 
 They began.
 
-Chisa's boat passed smoothly into the first channel. Yangyang's turned sideways against a wall. She corrected it with a little more water, watched it circle the same corner, and laughed.
+The green boat turned sideways against a wall. Yangyang corrected it with a little more water, watched it circle the same corner, and laughed.
 
 “I thought I understood that instruction.”
 
-“You keep helping after it starts moving,” Chisa said. “Let the gate close behind it.”
+“You keep helping after it starts moving,” Chisa said. “Let the gate close behind it. I'll tell you when.”
 
-Yangyang took her hand off the wheel. The green flag travelled under the first bridge.
+Yangyang took her hand off the wheel. Her arm had gone out after the boat, as if the boat might need it. She brought the elbow in.
 
-The yellow boat followed. The Wind touched her wrist, then rested against the next wheel while Yangyang turned it. Together they sent the little cube past a carved reed bed and into an open pool.
+Chisa listened to the water.
 
-Amy arrived as Chisa's blue flag came through the middle arch.
+“Now.”
 
-“That shoulder took me fifteen minutes to understand, and you've all learned to run a canal.”
+Yangyang turned. The green flag travelled under the first bridge. Chisa opened the second gate as it arrived, and between them they sent the little cube past a carved reed bed, across an open pool, and on toward the middle arch.
 
-“You can have the red one,” the child said. “Your friend is good at this.”
+Amy arrived as the green flag came through it.
+
+“That shoulder took me fifteen minutes to understand, and you've both learned to run a canal.”
+
+“You can have the red one,” the child said. “Your friends are good at this.”
 
 Amy read the notice, examined the channels, and took her place.
 
@@ -422,21 +484,13 @@ By the fourth attempt, she was arguing with the child about a gate which he insi
 
 The attendant gave them each a little paper turbine to assemble.
 
-Chisa folded hers beneath the tree. Amy sat beside her, reading the instructions with the concentration she had earlier devoted to the ring. Yangyang drew a chair into the sun and laid the yellow paper across her knees.
+Chisa folded hers beneath the tree. Amy sat beside her, reading the instructions with the concentration she had earlier devoted to the ring. Yangyang drew a chair into the sun and laid the blue paper across her knees.
 
 Beyond the wall, something sweet was simmering.
 
-The Wind rose from the unfinished turbine.
+Yangyang lifted her head from the unfinished turbine.
 
-She knew the smell before the steam came over the tiles: pear skins warming against the bottom of a pot, a little sharpness from the first place they caught. Once there had been a window beside a kitchen, with branches close enough to tap its shutter. She had stayed beside it while somebody complained about the season's fruit. The bowl that came out afterward had been warm at its base and too hot around the rim.
-
-Here, she followed the steam as far as the wall.
-
-Yangyang looked up.
-
-“Is that what you wanted to tell me about?”
-
-The cold touched her open palm.
+She knew the smell before the steam came over the tiles: pear skins warming against the bottom of a pot, a little sharpness from the first place they caught. In Mingting there was a window beside the kitchen, with branches close enough to tap its shutter, and every autumn Ma stood at it complaining about the season's fruit. The bowl that came out afterward was warm at its base and too hot around the rim. Yangyang had burned her mouth on the rim every year, and every year Suisui had told her to wait.
 
 She turned toward the attendant, who was gathering abandoned flags from the basin.
 
@@ -444,15 +498,37 @@ She turned toward the attendant, who was gathering abandoned flags from the basi
 
 “Pears in syrup. The little window by the stair sells them.”
 
-They took their paper turbines to the window. Amy bought four portions after the server showed them a shallow saucer for the Wind's. Yangyang sat on the step with the warm dish beside her knee.
+They took their paper turbines to the window. Amy bought three portions and a jar for Lupa. Yangyang sat on the step with the warm dish on her knee and burned her mouth on the rim at once.
 
-“We'll have this part first,” she said softly. “You can show me the rest when you feel like it.”
+Amy watched her do it. “You're meant to wait.”
+
+“I know.”
+
+Yangyang set the dish down, took her patrol log out of her sleeve, and turned to the back. There was a list there in pencil, begun on Thursday night, and she wrote a line under the last of it.
+
+Amy read it upside down, which was how she read everything that belonged to other people.
+
+“What's that?”
+
+“Things to tell her. When it's cold.”
+
+Amy counted. There were six lines. The kite came home. Liangyu has the whole song. Jie came in on time. Ten lanterns. The moon, two spires left. And at the bottom, fresh: *pears. Hot at the rim, still.*
+
+“Paper won't go across,” Amy said.
+
+“So I'll say it.” Yangyang turned the pencil over. “It helps to have them in order.”
+
+Amy thought about this with her whole face, as a matter of crew procedure.
+
+“Put my boat,” she said. “The one that went in the drain. She should hear about it from a reliable source.”
+
+Yangyang wrote *Amy's boat*. After a moment she added *the drain*.
 
 A sliver of peel turned slowly in the syrup.
 
 Chisa tasted hers and tilted the bowl to find another piece.
 
-“I'm bringing Lupa here. She'll want to know why her portion went to someone with better timing.”
+“I'm bringing Lupa here. She'll want to know why we ate ours first.”
 
 ***
 
@@ -512,9 +588,11 @@ Ciaccona leaned toward Suisui.
 
 The duck quacked. The actor looked down into his sleeve with wounded dignity.
 
-Iuno settled back, delighted.
+Iuno settled back, delighted. Her hand went, on no instruction from her, to the pocket of her coat, and rested on something small and round.
 
-*At last,* the High Priestess observed. *A man whose sleeves deserve their reputation.*
+*At last,* the High Priestess observed. *A man whose sleeves deserve their reputation.* A pause. *Ours is a ring, darling. It has never once quacked.*
+
+*One of these Tuesdays,* Iuno told her, and took her hand out of the pocket.
 
 Suisui watched the wife enter. Her first turn carried the long silk cuffs in a circle that stopped exactly at her wrists. The music drew breath with her; then her voice rose through the room, bright enough to make the paper moon tremble against its cord.
 
@@ -523,6 +601,10 @@ Suisui's lips moved with the words.
 Ciaccona noticed. She followed the tune under her breath through the second phrase, found the interval beneath it, and let her voice rest there.
 
 Suisui turned toward her, smiling, then looked quickly back when the husband attempted to present the duck as a gift of considerable cultural importance.
+
+She leaned the other way, toward Iuno, without taking her eyes off the stage.
+
+“Bring the certified copy on the day,” she murmured. “Leave the poultry at home.”
 
 Iuno laughed so hard that she had to put her cup down.
 
@@ -644,6 +726,16 @@ Lupa rubbed the window ledge beneath her palm.
 
 “I'd like them to get every measurement they need.”
 
+Mei looked at the jade crest a while longer.
+
+“That's where her letter came from,” she said. “The one about the ears.”
+
+“Suisui's got the new one up her sleeve.” Lupa's tail swept once. “She'll be on her second reading by now.”
+
+“She promised three.”
+
+“She'll want a chair for the third.”
+
 They watched the next test from the bench.
 
 Afterward, Mei leaned back and tipped her face into the sun.
@@ -674,7 +766,13 @@ Lupa leaned over, interested at once.
 
 “There's a little cradle beneath the rail. It carries the kite past the building. You can hire one from my grandson.”
 
-The grandson stood behind a table covered in paper creatures. He had a pencil tucked behind his ear and an expression suggesting he had answered this question throughout his entire childhood.
+The grandson stood behind a table covered in paper creatures. He had a pencil tucked behind his ear and an expression suggesting he had answered this question throughout his entire childhood. It changed when he saw Cartethyia. He looked at her, and then up, a long way, to where her head had been yesterday afternoon.
+
+“You're the tall one.”
+
+“Only on festivals,” said Cartethyia.
+
+He recovered himself.
 
 “The small swallows are easiest. The flowers turn more. The dragon takes two people.”
 
@@ -690,15 +788,15 @@ Mei sat down beside the woman eating noodles.
 
 Mei ordered three bowls, then selected a kite shaped like a fat silver fish. It had blue fins, a red mouth, and the cheerful vacancy of something prepared to spend the day admiring the weather.
 
-“This one has my ambitions,” she said.
+“This one has my ambitions,” she said. “Don't tell Shimei.”
 
 The grandson showed her how to fit it into the cradle. A small gate opened beneath the rail; the cradle swung outward and down. For a moment the fish hung against the immense drop, its paper sides shining.
 
 Then the air filled it.
 
-Mei felt the tug through the reel. She let out a little line. The fish went down and outward, turned broadside to the sun, and drew a long blue curve above the clouds.
+Mei felt the tug through the reel, and a moment later in her stitches. Lupa's hand came down on the reel's frame beside hers and took the weight, and stayed there until the fish had found the current. Mei let out a little line. The fish went down and outward, turned broadside to the sun, and drew a long blue curve above the clouds.
 
-She began laughing.
+She began laughing, with her free hand flat on her side.
 
 The boy looked at her, pleased despite his practised patience.
 
@@ -776,6 +874,10 @@ It folded into a long, slim case. Lupa carried it over one shoulder with the bor
 
 The Court rose before them in broad paths and shallow steps, pink petals drifting across pale paving. Cherry branches met above the lower walk. Beyond them grew palms with wide, glossy leaves and banks of white flowers whose scent reached the path in warm gusts.
 
+Mei looked at the paving, which was dry, and at the veranda at the far end, which was exactly where she had left it.
+
+“It's improved,” she said.
+
 Cartethyia stopped under the first tree.
 
 A petal landed on the end of her nose.
@@ -812,7 +914,7 @@ She stroked a fingertip along one translucent green scale. Cartethyia leaned aga
 
 Amy arrived behind a yellow paper turbine.
 
-The Wind held it at shoulder height, turning its blades as she travelled. Yangyang walked beside it with two more folded into a book. Chisa carried a little jar wrapped in a cloth.
+She held it out in front of her at shoulder height so that walking would turn it. Yangyang came beside her with her own tucked into the patrol log, the blue paper showing at the edge, and her hat carrying a cherry petal and a wisteria blossom in its band. Chisa carried a little jar wrapped in a cloth.
 
 Lupa's ears lifted.
 
@@ -840,7 +942,7 @@ Its benches followed the outer rail. Tea tables fitted into the spaces between t
 
 The attendant brought two pots and asked everyone to put loose belongings inside the yellow line.
 
-Lupa drew the dragon case in with her boot. Amy put her paper turbine in her lap. The Wind held the yellow one above Yangyang's shoulder, turning it slowly while Suisui poured.
+Lupa drew the dragon case in with her boot. Amy put her paper turbine in her lap. Yangyang stood her blue one in the soil of the cherry planter, where the draught off the pond could reach it, and it turned slowly while Suisui poured.
 
 They were still distributing the cakes when the first bell sounded.
 
@@ -894,9 +996,25 @@ Yangyang took another cake from the bag.
 
 The terrace reached its western mooring and settled with a small, firm click. The woman beneath the cherry tree woke, checked the sun, and moved her shopping bag into the new patch of shade.
 
-The attendant came back to refill their pots.
+The attendant came back with fresh pots.
 
-“You can stay through sunset. The return is after the evening lamps.”
+Iuno took the first. She tipped Mei's cup, which had gone cold during the crossing, into the cherry planter, and filled it again, and set it back by Mei's hand with the handle turned toward her. Then, because she was holding the pot, she reached across the table and did the same for Yangyang.
+
+Yangyang looked into the steam.
+
+“How long did it steep?”
+
+“Four minutes.” Iuno set the pot down and glanced at Mei. “Who told her to ask that?”
+
+“Nobody tells her anything,” Mei said. “She listens.”
+
+Under the hat, the collar had lifted. Iuno watched it rise, with the small crease between her brows she kept for documents in a hand she could almost read, and let it be.
+
+*Hot,* the High Priestess observed. *Both of them.*
+
+Yangyang drank hers while it was still too hot to drink.
+
+“You can stay through sunset,” the attendant said. “The return is after the evening lamps.”
 
 Amy looked at the view and then at Mei, who had already leaned back against the bench.
 
@@ -932,13 +1050,13 @@ Across the table, Lupa had opened the pear jar. Chisa told her which window sold
 
 “Amy has the instructions. You turn the corners in twice.”
 
-The Wind tilted her yellow one toward them. Its blades caught the western light and turned.
+Yangyang tilted hers in the planter toward them. Its blades caught the western light and turned.
 
-Suisui took a picture.
+Suisui took a picture of her sister.
 
 She examined it, moved a little, and took another.
 
-“I'm trying to get the ring behind her,” she explained. “Ma will want to know what the yellow thing is.”
+“I'm trying to get the ring behind her,” she explained. “Ma will want to see the feathers. She's only had them over the relay.”
 
 “Hold it a little lower,” said a man passing with a wooden camera case. “The light's coming through the leaves there. You'll get the whole shape from this side.”
 
@@ -964,25 +1082,27 @@ The photographer brought another stool. Chisa took it, turned toward his voice, 
 
 Cartethyia had one knee tucked onto Ciaccona's bench. Lupa rested a hand on Chisa's shoulder. Amy stood behind Mei and Iuno with an arm around each, taking an excessive interest in where her mother's hair fell.
 
-“You're covering the earring, Ma. You spent ages choosing it.”
+“You're covering the earring, Ma.”
 
-“I spent ages letting you choose it with me.”
+“Nobody's looking at my ear.”
 
-Iuno reached up to free the chain. Amy smoothed Mei's hair back, then did the same for Iuno.
+“He is. It's his whole job.” Amy looked at Iuno. “And Auntie took hers out of a boot for this.”
+
+“I always wear mine,” Iuno said, and reached up to free Mei's chain. Amy smoothed Mei's hair back, then did the same for Iuno.
 
 The two blue stones moved in the sun.
 
-At the other end, the Wind carried her turbine between the sisters. Suisui lifted the edge of her scarf beneath it, making a bright curve across the gap.
+At the other end, Suisui unwound her scarf and put it round both their shoulders. It was the scarf that had carried the Wind up the gorge road, and Mei had told Yangyang to take it across with her in the winter because it knew the way. Yangyang held the blue turbine up in front of the two of them.
 
 The photographer studied the arrangement.
 
-“Would the lady with the yellow windmill like it held steady, or shall I take it as it turns?”
+“Would the lady with the windmill like it held steady, or shall I take it as it turns?”
 
-The blades quickened.
+The draught off the pond came up under the rail, and the blades quickened.
 
-Yangyang watched them, then smiled toward the lens.
+Yangyang watched them go round, then smiled toward the lens.
 
-“She likes that part. Please take it turning.”
+“As it turns, please.”
 
 Dumpling came down from the pavilion roof and landed on Suisui's shoulder with a small mechanical click.
 
@@ -1002,7 +1122,7 @@ Suisui bought a copy of the third picture for her mother.
 
 She laid it on the tea table while the ink dried. The city rose behind them in layers of white stone, teal glass, and sunlit roofs. At the edge of the image the ring curved out of sight. In front, Amy had her cheek almost against Mei's hair, and Iuno was looking toward them with her mouth open in laughter.
 
-The yellow turbine had become a bright little wheel between the sisters. Beneath it, Suisui's scarf curved around a space full of light.
+The blue turbine had become a bright little wheel in Yangyang's hand. Suisui's scarf went round both their shoulders, and the light off the pond had caught in the feathers of the collar and turned the whole of it white at the tips.
 
 She touched the edge of the print with one finger.
 
@@ -1012,7 +1132,7 @@ Yangyang leaned closer.
 
 “You could tell her Cia took you to the theatre.”
 
-“I took Cia. Your mother will appreciate the distinction.”
+“I took Cia. Ma will appreciate the distinction.”
 
 “She'll appreciate hearing about the tickets in your shoes.”
 
@@ -1056,13 +1176,25 @@ Mei opened one eye.
 
 “I'll pass your concern to the company.”
 
-Iuno kissed her forehead, then Amy's, and went to join Suisui and Ciaccona at the little bridge. Suisui had put the comb in her hair. Her theatre ticket rode openly between her fingers.
+Iuno kissed her forehead, then Amy's. On her way past the far bench she stopped beside Yangyang.
+
+“Keep her sitting down.”
+
+“Yes.”
+
+“And yourself.” Iuno considered her a moment longer. “That one is an instruction.”
+
+She went to join Suisui and Ciaccona at the little bridge. Suisui had put the comb in her hair. Her theatre ticket rode openly between her fingers.
 
 Yangyang watched her sister walk away beneath the cherry trees, talking with both hands now that Iuno was carrying the cake bag.
 
-The Wind settled beneath Yangyang's collar. A cool touch reached the side of her neck.
+Her collar lifted against her jaw.
 
-“I saw,” Yangyang murmured. “She'll tell us all about it when she gets back.”
+“Jie bought tickets,” she murmured, to the air above her shoulder, out of a year's habit. “Three.”
+
+From Amy's shoulder, with her eyes shut, Mei said, “Put it on the list.”
+
+Yangyang took out the patrol log.
 
 ***
 
@@ -1086,7 +1218,7 @@ Wen watched its length pass.
 
 “Mind the lamp when you find out how graceful.”
 
-She took down bowls for supper. Amy brought the photograph over while Mei fetched the spoons.
+She began passing bowls out through the kitchen window for supper. Amy brought the photograph over while Mei fetched the spoons.
 
 Wen dried her hands before touching it.
 
@@ -1100,16 +1232,24 @@ Mei looked over her shoulder, smiling.
 
 “Put my question about the oil underneath.”
 
-Amy drew a fresh sheet toward her and began the letter. From upstairs came the sound of Lupa and Cartethyia discussing the width of the window, followed by Chisa suggesting that they open the case before deciding where to put the hooks.
+Amy drew a fresh sheet toward her and began the letter. From inside the storehouse came the sound of Lupa and Cartethyia discussing the width of its one window, followed by Chisa suggesting that they open the case before deciding where to put the hooks.
 
-Yangyang sat beside the kitchen window. She placed the warm saucer on the sill, and the Wind brought her yellow turbine to rest beside it.
+Lupa came out again for the plates. She laid them along their stretch of the long table and moved one of them down to the end nearest Wen's stove, where it would keep warm.
 
-Outside, one of Xuanfang's high walkways turned slowly across the stars. A line of small lamps went with it. Through the opposite windows, people were setting tables, shaking out quilts, leaning over supper to finish what they had been saying.
+Yangyang, who was on time, sat down in front of it.
+
+Lupa looked at her, and at the plate, and put a second helping on it.
+
+After supper Yangyang took her turbine to the storehouse window and stood it on the sill, facing east. She opened the patrol log to the back and read the list over under her breath, in order, the way she would say it in the winter at a kitchen table in Mingting with the snow coming down outside: the kite, the song, Jie on time, the lanterns, the moon, the pears, Amy's boat and the drain, Jie's three tickets. Then she wrote one more line.
+
+*The terrace went west. We stayed on it.*
+
+Outside, one of Xuanfang's high walkways turned slowly across the stars. A line of small lamps went with it. Through the opposite windows, people were setting tables, shaking out quilts, leaning over supper to finish what they had been saying. Over the eastern rank the moon came up a night past the festival, rounder for it, as Xuanfang insisted, and exactly above the ninth spire. The Sentinel had evidently made her point.
 
 Amy looked up from her letter.
 
 “How much of the dragon should I tell Mrs Ren about?”
 
-Mei set the spoons down.
+Mei was stacking the spoons. She stopped to think about it.
 
 “Include the measurements. She'll want to choose the window.”
