@@ -10,7 +10,7 @@ Lupa read the amendment over her shoulder.
 
 A gold eye opened above Mei’s Tacet Mark.
 
-<font color="#ffe3f1">“I HAVE ACHIEVED RESIDENCY UNDER COLUMN TWELVE, WOLF. YOUR ADMINISTRATIVE MALICE STOPS AT MY BORDER.”</font>
+<font color="#ffe3f1">“I'm a citizen, oversized dog! Your words are no match for Mei!”</font>
 
 <font color="#ffdead">“He learned jurisdiction yesterday,”</font> Mei said, sounding proud.
 
