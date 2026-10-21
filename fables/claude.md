@@ -40,6 +40,11 @@ A complete short story, one file:
       --context "Jsons/<Character>.json" "<Related Story>.md" \
       -o "<New Story Title>.md"
 
+Choosing a mode:
+- Use `single` for anything up to about 3 chapters or ~12k words, even if it has chapter titles. Argon will write every chapter in the outline in one call. In `chapters` mode it often writes the whole outline in call 1, then invents extra chapters for the remaining calls ("Bedside Manner": asked for 3, got 5, two calls wasted).
+- Use `chapters` only for long stories (4+ chapters) that won't fit in one response. Then the prompt file must say, near the top: "Write only the chapter you are asked for in each turn, and stop at its end. Never write ahead or add chapters beyond the outline." Head each outline section "Chapter N" so the script's "Continue with Chapter N" lines up with it.
+- After a `chapters` run, check that the chapter count in the file matches `-n`.
+
 A multi-chapter story, one file per chapter ("Title - Chapter 01.md", ...):
 
     python argon_story.py chapters --split --quiet \
