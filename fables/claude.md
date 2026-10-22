@@ -34,7 +34,7 @@ Run in the background with `--quiet` (a run can take 10+ minutes).
 
 A complete short story, one file:
 
-    python argon_story.py single --quiet \
+    python argon_story.py single --quiet --max-tokens 65000 \
       --system ".argon/style.md" \
       --prompt ".argon/prompts/<name>.md" \
       --context "Jsons/<Character>.json" "<Related Story>.md" \
@@ -47,7 +47,7 @@ Choosing a mode:
 
 A multi-chapter story, one file per chapter ("Title - Chapter 01.md", ...):
 
-    python argon_story.py chapters --split --quiet \
+    python argon_story.py chapters --split --quiet --max-tokens 65000 \
       --system ".argon/style.md" \
       --prompt ".argon/prompts/<name>.md" \
       --context "Jsons/<Character>.json" "<Related Story>.md" \
@@ -58,10 +58,12 @@ Drop `--split` to put all chapters into one file instead, if that's how the rela
 - `--context` takes files and/or `.` for the whole folder. Pass Argon the stories you picked, not the whole folder: unrelated stories cost more on every chapter and blur the voice. Put character cards first, then stories in story order, earliest first. Never pass `Jsons/` whole; pick the cards. The script never loads CLAUDE.md, hidden folders, the prompt file, or its own output.
 - The script refuses to overwrite an existing file. Choose a new title rather than adding `--overwrite`, unless I ask.
 - Progress, token counts and the finish reason print to stderr. While it runs, the in-progress chapter is in `.argon/<file>.partial`. With `--split`, each chapter file appears as soon as it's done, so you can review chapter 1 while the rest are writing.
-- If the finish reason is `MAX_TOKENS`, rerun with a higher `--max-tokens` (default 131072).
-- - Use `--thinking medium` unless I say otherwise.
+- Always pass `--max-tokens 65000`. The script's default (131072) turns on long decode, which the Interactions API rejects with a 400 ("Long decodes are not supported"). Anything above 65,536 fails the same way.
+- If a run reports it did not complete (status other than `completed`), don't raise `--max-tokens`. Split the story into more chapters with `chapters` mode instead.
+- The usage line shows `thinking:` tokens; if it reads None or 0, thinking is off. `python argon_story.py check` is a cheap test.
+- Thinking defaults to high; don't pass `--thinking` unless I ask for a lower level.
 
 ## Cost guardrails
 
-- Ask me before any run with `-n` above 5, `--thinking high`, or `--context .` (the whole folder).
+- Ask me before any run with `-n` above 5 or `--context .` (the whole folder).
 - Every chapter resends the whole story so far as input (mostly discounted by caching). Mention the context size the script reports before long runs.
