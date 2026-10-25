@@ -62,6 +62,16 @@ Liangyu nodded once. She turned half-around toward the twenty Wardens sitting al
 
 There was no speech about Xuanfang Hold, or two hundred years of unbroken walls, or Sentinel Hsin. Men and women who had been falling asleep over their spear shafts thirty seconds ago reached down, picked up their helmets, and tied their cloak strings in double knots.
 
+Not all of them reached for pikes. Xuanfang’s garrison had never been only spear-carriers. Halfway down the wall racks, a lanky archer named Shen Lu was blowing on her fingers until a faint green draft curled up around her knuckles. Bai Tieshan, the quarry foreman from Xianling with forearms like gateposts, had one palm pressed flat to the hall’s foundation stones and was listening to them the way other men listened to horses. And a girl of perhaps fifteen from the relay office, Kou Xiaoman, was bouncing on her toes with violet static ticking off the ends of her braids, because with every Terminal in the Hold dead, someone had to carry the messages, and she was the fastest thing on two legs between the gate and the granary.
+
+At the end of the rack, a small figure in a faded plum-colored coat hopped down off a water barrel.
+
+She looked young, a girl of twelve or thirteen at most, and she was short enough that the barrel had put her eye to eye with the Wardens for the first time all evening. The archive clerks said she had looked exactly like that in the Hold’s muster rolls since the year Yuan Fortress fell, two hundred years ago, which nobody under sixty quite believed and nobody over sixty argued with. Nobody in the Hold called her anything to her face; people three times her height and a tenth of her age simply stopped talking when she spoke. She carried a closed oil-paper umbrella longer than she was, its ribs tipped in steel, and she wore the expression of someone who had been woken for a war she had specifically asked not to be woken for.
+
+“Watcher,” she said, with vast, weary patience, hitching the umbrella’s strap over a shoulder that came up to Liangyu’s elbow. “I’ll take the west stair. Somebody find me something to stand on. The parapet was built for giants.”
+
+“Yes, Elder,” said Liangyu, who outranked her on paper.
+
 ***
 
 Out under the covered arcade fronting the inner courtyard, the cold hit them like a wet sack.
@@ -177,6 +187,8 @@ As the front four stepped across the outer ditch line, their jaw-plates clicked 
 The shock of the first collision ran all the way up the stone buttresses into the soles of Ciaccona’s boots. Down in the twenty-foot throat of the gatehouse, beneath the raised teeth of the iron portcullis, the Wardens jammed their shield-bosses together in the mud while Nyx Ravenhollow’s feather-blades screamed down from above, shearing two of the robed machines in half in a shower of burning oil and indigo rags.
 
 Ciaccona kept her fingers moving across the frets—one-two-three-four, steady as a metronome—holding the sound-pocket open against the fog that boiled around the buttresses and tried to turn the defenders’ ears inside out.
+
+Inside that pocket of true sound, Shen Lu’s arrows finally went where they were aimed. The archer drew on the parapet below the bell-frame, breathed a thread of green wind along the shaft, and loosed blind into the white. The arrow bent in the air like a swallow, found the gap between a tribunal cap and its collar-plate, and the crimson lens behind it went out. Ciaccona heard the next one leave the string and land on the beat, and the one after that, and decided she liked her.
 
 On the narrow stone step at the right side of the arch, a young Warden named Little Tan took the full weight of two tribunal puppets on his buckler. The wood split down the center with a wet crack, knocking him to one knee in the slush. Before he could bring his pike-shaft up to cover his head, the second puppet raised its four-foot bronze cleaver in both claws—
 
@@ -366,6 +378,10 @@ Then two inches, showering a fine line of grey granite flour onto Warden Huo’s
 
 Then the lower angle of the cut jammed against the iron capstan housing, groaned once, and held fast.
 
+At the foot of the cut, Bai Tieshan had both palms flat against the granite, his eyes shut and his jaw clenched, and along the seam where his hands lay, the pale stone flour had gone dark and damp as wet clay.
+
+“She’ll stay,” the foreman said hoarsely, to nobody. “If nobody leans on her.”
+
 Nobody on the parapet moved. Out on the ramp, the remaining tribunal puppets stood headless or sheared in half in the settling steam. Up on the gatehouse roof, Ciaccona looked slowly down over the edge of the tiles at the two-inch stone overhang running straight through the middle of the fortress wall.
 
 Under the arch, a puff of pale light dissolved into the sleet, and Cartethyia stood in the mud in her own small boots again, blinking up at the forty-foot diagonal seam she had just put through the primary defense of the northern frontier.
@@ -510,7 +526,7 @@ A hair-thin line of twilight light whipped outward from the point of impact and 
 
 Little Tan stared down at the halved puppet smoking in the ice, then up at the dark gallery rail. “She’s—she’s still there! The Paragon’s still holding!”
 
-Along the parapet, a ragged, breathless sound of relief went up from the exhausted archers.
+Along the parapet, a ragged, breathless sound of relief went up from the exhausted archers. Kou Xiaoman was already off the wall in a crackle of violet, a streak of light down the length of the courtyard to the hall doors, shouting it ahead of herself so the benches would hear before she got there: “Still holding! She’s still holding!”
 
 Three paces away in the mud, Liangyu lowered the point of her spear an inch and looked down at the severed bronze torso lying in the frost.
 
@@ -531,6 +547,12 @@ Two dozen tribunal frames—their indigo robes shredded to rags and their brass 
 “Keep them off the shoring timbers!” Chisa called out, her blades opening and shutting like a weaver’s loom at the base of the cracked wall, stitching iron cable-ties across the gap with one edge and severing clawing limbs with the other.
 
 Nyx Ravenhollow planted her back against the slipped granite triangle, holding forty tons of stone in place with her white-and-gold shoulders while her right hand swept her last unbroken feather-blade across the ditch. Under the gateway arch, Cartethyia and Liangyu held the center pike-line until their boots slid in frozen slush.
+
+On the west stair, standing on an upturned bucket, the small woman in the plum coat opened her umbrella.
+
+The oil-paper canopy snapped wide with a crack like a musket shot, every steel-tipped rib flaring out into a blade, and she spun it once, wearily, the way someone shakes the rain off at a door. Three Discords coming over the parapet lost their front legs. She closed it, used the point to tip the nearest one back off the wall, and opened it again over the head of the young archer beside her to keep the sleet off his bowstring.
+
+“Draw,” she told him. “I’m not doing all of them.”
 
 ***
 
@@ -673,6 +695,8 @@ Under the covered arcade, the girl in Mei’s lap drew a sudden, ragged breath t
 It took Qingyan and Cartethyia together to help Mei get her legs uncrossed after five hours on the cold flagstones without pulling the stitches across her middle, and then they shuffled into the warm, mugwort-smelling gloom of the branch hall like a three-legged race.
 
 Nobody sat at the long tables; people ate wherever their knees folded.
+
+Old Mother Pu, the herbalist from Xianling, went down the line of pallets with her sleeves rolled to the elbow and both hands lit a soft lamp-yellow, closing the shallow cuts and leaving the deep ones neatly stitched with light for the orderlies to sew properly later. She did Warden Ge’s forearm twice. The small woman in the plum coat sat on the end of a bench with her furled umbrella across her knees and her feet a foot clear of the floor, drinking tea out of a bowl she held with both hands, and when Kou Xiaoman finally sat down beside her and fell asleep on the spot, the old woman in the small body moved the bowl to her other hand so the girl’s head had somewhere to land.
 
 By the brick hearth at the back of the hall, Lupa sat on an upturned ration box with her scorched left arm propped across her thigh, scowling fiercely at the floor while Chisa knelt beside her knee and worked cooling salve into the blistered skin above her gauntlet with slow, unhurried strokes. Five feet away against the wainscot, Cartethyia had fallen half-asleep sitting bolt upright on a grain sack with a half-eaten millet cake in her hand; Ciaccona sat cross-legged in the straw at her feet, her own split fingertips wrapped in linen rags as she carefully unlaced Cartethyia’s mud-caked boots and eased them off her heels one at a time.
 
