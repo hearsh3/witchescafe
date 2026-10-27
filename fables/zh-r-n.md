@@ -292,9 +292,19 @@ Out on the switchback ramp beyond the bisected eastern wall, the Censure Courts 
 
 At the gateway arch, Liangyu leaned her shoulder against the wet granite jamb and didn’t lower her spear by an inch.
 
-Back under the covered arcade of the Ministry hall, Mei sat on the damp felt saddle-blanket with her back against the cedar doorpost and her knees stiff as winter wood. Amy sat curled sideways against her good right hip, awake now and wrapped to the chin in a grey wool blanket, furiously eating a cold millet cake while she ran a diagnostic wire between her Terminal and a spare lamp battery on her knee. Ten feet away on the steps, Cartethyia was trying to wring the mud out of Ciaccona’s coat hem with one hand while Ciaccona re-wrapped the split skin of her left forefinger with a strip of clean linen; by the door, Lupa stood sharpening the point of her spear with a pocket whetstone, *shhk-shhk-shhk*, her eyes fixed on the dead sky where the Astrolabe Core hung silent in the mist. Chisa sat on an upturned bucket beside her, her giant scissor-blades resting across her knees.
+Back under the covered arcade of the Ministry hall, Mei sat on the damp felt saddle-blanket with her back against the cedar doorpost and her knees stiff as winter wood. Under the front of her grey shirt, the thin filament of light resting over her five-day-old stitches still hummed with a faint, steady warmth against her ribs. Amy sat curled sideways against her good right hip, awake now and wrapped to the chin in a grey wool blanket, working a cold millet cake between her teeth while she ran a diagnostic wire from her Terminal to a spare lamp battery on her knee. Ten feet away on the steps, Cartethyia was trying to wring the mud out of Ciaccona’s coat hem with one hand while Ciaccona re-wrapped the split skin of her left forefinger with a strip of clean linen; by the door, Lupa stood sharpening the point of her spear with a pocket whetstone, *shhk-shhk-shhk*, her eyes fixed on the dead sky where the Astrolabe Core hung silent in the mist. Chisa sat on an upturned bucket beside her, her giant scissor-blades resting across her knees.
 
-Across the courtyard, down by the base of the west stair, the small woman in the faded plum-colored coat hopped down off her wooden bucket.
+Across the courtyard, at the foot of the west stair, the small woman in the faded plum-colored coat was still standing on her wooden bucket, her closed oil-paper umbrella propped against her hip.
+
+On the wet stone of the low parapet beside her elbow, a grey cat sat down out of the drizzle.
+
+Both of its front paws were black with greasy condenser-soot. It didn’t shake the rain from its ears or lick its coat; it sat neatly on the coping stone for the space of two breaths, its yellow eyes fixed on the small woman’s plum sleeve, and gave a single, silent yawn.
+
+Over by the arcade doorpost, Lupa’s whetstone slowed on the iron. She squinted across the yard through the rain, her brow furrowing as if she had seen that particular shade of grey fur sitting on a ridge somewhere before. She blinked a drop of sleet out of her lashes, and the coping stone was empty—only wet granite and a smudge of black soot washing into the gutter.
+
+Lupa frowned and rubbed her thumb across the flat of her spearhead.
+
+By the west stair, the small woman let out a long breath through her nose, picked up her umbrella, and hopped down off her wooden bucket like someone whose kettle had finally boiled.
 
 She didn’t hurry. She walked straight across the frost-cracked flagstones through the puddles, her closed oil-paper umbrella tucked under her arm with its steel-tipped ferrule clicking once every third step against the paving, until she stopped at the bottom of the arcade steps right in front of Mei’s boots.
 
@@ -304,37 +314,87 @@ The small woman reached out, hooked the curved bamboo handle of her umbrella nea
 
 “Up,” she said. “You’re coming.”
 
-Every head under the arcade snapped around at once. Lupa’s whetstone stopped dead on the iron spearhead.
+Every head under the arcade snapped around at once. Lupa’s whetstone stopped dead on the spearhead.
 
-Mei blinked at the umbrella handle hooked in her collar, looked past the small woman’s plum-colored shoulder toward the iron service door at the back of the hall passage, and didn’t ask a single question. She shifted her weight onto her heels to stand up.
+“Hey—woah, excuse me!” Amy scrambled out of the grey blanket on her knees, slapping a hand over the back of Mei’s collar to knock the bamboo hook loose while she glared at the twelve-year-old-looking stranger. “Who even are you? She’s on rug arrest! She has five-day-old stitches in her stomach, she isn’t going anywhere with some random kid!”
 
-“Hey—woah, excuse me!” Amy scrambled out of the grey blanket on her knees, grabbing the tail of Mei’s shirt with one hand while she glared at the twelve-year-old-looking Elder. “She’s on rug arrest! She has five-day-old stitches in her stomach, she isn’t going anywhere!”
+On the steps, Ciaccona paused with the linen strip held between her teeth, squinting around Cartethyia’s shoulder at the faded plum coat and the oversized umbrella. “Did somebody lose a niece from the back benches?” she asked, taking the rag out of her mouth. “Little girl, the porridge pot’s inside by the chimney. We’re busy.”
 
-“The door’s thin enough to pry,” the small woman said to Mei, ignoring Amy entirely as she unhooked her umbrella from Mei’s collar and turned toward the hall passage. “Bring the loud ones. Leave the white tin can in the yard, it won’t fit the stairs.”
+Cartethyia let go of Ciaccona’s hem and straightened up on her knees, placing one hand politely over her breastplate. “Good morning,” she said earnestly. “I am Cartethyia of Egla Town. Thank you for helping with the west parapet earlier. May I ask your name, and whose company you belong to?”
 
-Mei braced her right palm against the cedar doorpost.
+The small woman looked at Cartethyia’s crystal laurel, then down at Cartethyia’s mud-caked knees.
 
-Mei stayed on one knee on the blanket, held her left hand out flat toward her daughter, and looked straight into Amy’s eyes.
+“No,” the small woman said.
+
+Cartethyia blinked, her mouth still slightly open in a polite smile that had nowhere left to go.
+
+From the upturned bucket by the doorpost, Chisa rested both palms flat on the black iron spine of her shears. “She has been standing on that bucket by the west stair since the third bell yesterday,” Chisa said in her plain, even voice. “Nobody has relieved her, and the quartermaster walked three paces around her in the mud to stack the pikes.”
+
+Amy looked at Chisa, then back at the girl in the plum coat. “Okay, great, so the garrison’s polite to a twelve-year-old, that still doesn’t mean—”
+
+“Leave the white tin can in the yard,” the small woman told Amy, unhooking her umbrella from Mei’s collar and turning toward the hall passage. “It won’t fit the stairs. Bring the loud ones.”
+
+She got one boot onto the top step before six feet of ash wood and tempered iron dropped across the doorway at the height of her nose.
+
+Lupa stood with her weight planted on her front heel, the spear held level in one gauntlet across the threshold and her wolf ears pinned back at a flat angle.
+
+“I don’t take marching orders from people without a name,” Lupa said. “And nobody hooks Mei by the shirt while I’m standing here.”
+
+The small woman didn’t flinch from the iron spearhead an inch in front of her eyebrows. She looked along the ash shaft to Lupa’s scorched sleeve, sighed as if she had been asked to carry a sack of wet turnips up a hill, and used two fingers to push the spear point down so she could see over it.
+
+“Then don’t take it as an order,” she said wearily. “Stay on the porch and watch the mud freeze. I don’t care.”
+
+She stepped straight under the spear shaft toward the open doors of the hall.
+
+“Wait,” Mei said.
+
+She hadn’t stood up yet, and she wasn’t smiling. Her right hand rested on the naked sword across her knees, and her golden eyes were fixed hard on the small woman’s back.
+
+“The gearwell’s been dead since they went down,” Mei said, her voice quiet and sharp enough to stop the steel-tipped ferrule on the threshold stone. “The Relay’s out, and the qin up on the gallery has sounded once since they left, by itself. How do you know where Qingxiao and Iuno and Yangyang are? Who told you?”
+
+The small woman paused with one hand on the cedar doorjamb and looked back over her plum-colored shoulder.
+
+“I know where the door is,” she said.
+
+“That’s not what I asked,” Mei said.
+
+For two breaths the rain dripped off the arcade tiles into the puddles behind them. The small woman looked down at Mei’s hand on the sword, and then at the front of Mei’s grey shirt, where the line of white rime had settled into the cloth over her bandages.
+
+“Are they alive?” Mei asked.
+
+“For now,” the small woman said. “Walk faster.”
+
+“Hold on, we are not marching down a grease-shaft because a tiny—” Amy started, rising onto one knee with her hand on her copper grounding-pike.
+
+Down at the gatehouse arch thirty yards away, where the cold drizzle blew in across the barricade of sheared brass, Liangyu didn’t even turn around from the slush; she had seen the plum coat cross the yard in the reflection of a wet shield-boss and heard the voices under the eaves.
+
+“Yes, Elder!” Liangyu called back over her shoulder, her voice tired, level, and completely matter-of-fact, as if she were answering the morning roll. “We have the gate! Go!”
+
+Under the arcade, the six of them stopped talking.
+
+Amy slowly turned her head toward the gatehouse, where the Xuan Watcher was calmly adjusting her grip on her spear in the mud. Ciaccona looked at Cartethyia. Cartethyia looked at Chisa. Lupa stared down at the crown of the small woman’s head, which came roughly up to the third buckle on her leather vest.
+
+“Yes, yes, keep your bottom hand down on the ash shaft,” the small woman muttered toward the gate, and marched down the back corridor of the Ministry hall with her umbrella over her shoulder.
+
+For one beat nobody under the arcade moved.
+
+Then Mei braced her right palm against the cedar doorpost, stayed on one knee on the blanket, and held her left hand out flat toward her daughter.
 
 “Give me a hand up, Amy,” Mei said plainly. “Please. I can’t get off the floor from this angle without pulling my left side, and Iuno and Yangyang have been down there all night.”
 
 Amy stared at the open hand. Her jaw worked; the pink hair above her forehead gave one tiny, furious skip of white static that settled before a single spark could drip from her fingers.
 
-“You are the worst patient on this entire continent,” Amy snapped, and grabbed Mei’s hand with both of hers, planting her boot against the doorpost to haul her mother up onto her feet with a practiced, steady pull that kept all the strain off Mei’s abdomen. “And if you think I’m staying on this rug while you go down a creepy hole, you’ve got rocks in your head. I’m standing on your left side the whole way.”
+“You are the worst patient on this entire continent,” Amy snapped, and grabbed Mei’s hand with both of hers, planting her boot against the doorpost to haul her mother up onto her feet with a practiced, steady pull that kept all the strain off Mei’s abdomen. “And if you think I’m staying on this rug while you follow a rude child down a creepy hole, you’ve got rocks in your head. I’m standing on your left side the whole way.”
 
-Lupa had already shoved her whetstone into her pouch and had her spear across her shoulders before Mei’s boots were flat on the stone. “Chisa. Shears.”
+Lupa shoved her whetstone into her pouch with a sharp click. “Chisa. Shears.”
 
 “I have them,” Chisa said, already standing up from her bucket.
 
-On the steps, Ciaccona tied off the linen rag on her bleeding finger with her teeth, slung her lute around her front, and nudged Cartethyia’s shin with her toe. “Up, cara. Curtain call.”
+On the steps, Ciaccona tied off the linen rag on her bleeding finger with her teeth, slung her lute around her front, and nudged Cartethyia’s shin with her toe. “Up, cara. Apparently the nursery is in charge of the vanguard.”
 
-Cartethyia hopped to her feet, brushing millet crumbs off her skirt. “Should we tell Watcher Liangyu where we are going?”
+Cartethyia hopped to her feet, brushing millet crumbs off her skirt as they crowded into the narrow passage behind Mei and Amy. “At least she was equally short with everyone,” Cartethyia said, trying to be fair.
 
-Down at the gatehouse arch thirty yards away, Liangyu didn’t even turn around from the slush; she had seen the small woman in the plum coat cross the yard in the reflection of a wet shield-boss.
-
-“We have the gate, Elder!” Liangyu called back over her shoulder, her voice tired and steady. “Go!”
-
-“Yes, yes, keep your bottom hand down on the ash shaft,” the small woman muttered, already marching down the back corridor of the Ministry hall with her umbrella over her shoulder and six armed women crowding the narrow passage behind her heels.
+For the first ten paces down the corridor behind the branch hall, Lupa stalked at the rear of the pack with the iron point of her spear aimed slightly toward the middle of the small woman’s plum-colored back, squinting at the steady *tick, tick, tick* of the umbrella ferrule against the flagstones, before she let out a snort through her nose and hoisted the shaft back onto her shoulder.
 
 When they reached the heavy iron service door at the head of the gearwell stairs, the small woman didn’t touch the latch. She set the steel-tipped point of her furled umbrella against the third rivet from the bottom, where a faint smudge of black tallow still clung to the iron from the night before, and rapped twice.
 
