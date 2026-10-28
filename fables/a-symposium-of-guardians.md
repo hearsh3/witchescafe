@@ -6,10 +6,6 @@
 *The ancients who practiced the Way did so to enlighten the people — or to keep them simple. The commentators disagree. The disagreement is the commentary.*
 — Laozi, chapter 65, disputed
 
-人能弘道，非道弘人。
-*A person can enlarge the Way; the Way does not enlarge the person.*
-— Confucius
-
 ---
 
 > **MINISTRY OF SENTINEL AFFAIRS — PROVENANCE NOTE.**
@@ -274,6 +270,13 @@ Dou picked it up. On the wrapper, in the fox's own paw-print, two characters:
 問吧。
 
 *Ask away.*
+
+---
+
+人能弘道，非道弘人。
+*A person can enlarge the Way; the Way does not enlarge the person.*
+— Confucius
+
 
 ---
 
