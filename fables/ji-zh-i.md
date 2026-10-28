@@ -4,13 +4,13 @@ By the seventh hour of the afternoon, the sun had dropped low enough to turn the
 
 Up on the steep ridge of the south granary, Ruoyun straddled the crest-beam with a wooden bucket of oak pegs wedged between her ankles and a flat iron pry-bar in her fist. She had pinned her long, ruffled white sleeves back to the elbows with a pair of brass ledger-clips to keep the cloud embroidery out of the roof-tar, and the hem of her teal pleated skirt was tucked neatly under her knees so it wouldn’t drag in the moss.
 
-“Three summers,” Ruoyun muttered to the chimney pot beside her ear, shoving a fresh grey river slate into the gap where a stray siege-stone had clipped the eaves. She drove an oak peg home with two sharp raps of the iron bar. “Three summers I told Ge’s carpenter that the north-facing laths were going spongy under the overlap. Does he bring up seasoned pine? No, he brings up green willow that curls like a dried shrimp the first time the sun hits it.”
+“Willow,” Ruoyun muttered to the chimney pot beside her ear, shoving a fresh grey river slate into the gap where a stray siege-stone had clipped the eaves. She drove an oak peg home with two sharp raps of the iron bar. “I ask for pine, I get willow. Next time I’ll ask for willow and see what turns up.”
 
 Down in the narrow cobble lane below the granary eaves, Old Tanner Qiu’s twelve-year-old grandson stopped with a basket of wet hides against his hip and tilted his head back, squinting up past the gutter at the small golden horns glinting above her temples and the round brass spectacles sliding down her nose.
 
 Ruoyun didn’t miss the stare. After two hundred years of ducking behind cisterns and slipping through storehouse shadows before the watchmen turned around, having people gawk at her in broad daylight made the back of her neck prickle. She glared down over the gutter rim and pointed the iron pry-bar straight at the boy’s nose.
 
-“What are you gawking at, Qiu Er?” she barked. “Go turn your mother’s salted cabbages over before the shade leaves the courtyard! Your great-aunt left the bottom layer sitting in the brine through the wet autumn of the nineteenth year and the whole barrel smelled like dead badgers by winter!”
+“What are you gawking at, Qiu Er?” she barked. “Haven’t you got cabbages to turn? Go on!”
 
 Qiu Er’s mouth fell open. He looked wildly up and down the lane to see who this scholarly, horned lady in the fine teal dress could possibly be, thought better of asking, and bolted through the tanner’s gate with his basket banging against his shins.
 
@@ -22,7 +22,7 @@ It was a short, nagging little five-note ferry air, hummed through the nose with
 
 Ruoyun’s hand froze inside the peg bucket.
 
-She had not heard that tune since the fourth month of the dry rabbit year, one hundred and forty-two summers ago.
+She had not heard that tune in more than a hundred years, and she had hoped to go another hundred.
 
 Slowly, Ruoyun set the iron pry-bar down on the ridge tiles. The warmth drained clean out of her face, leaving her sharp chin set like a bear-trap. She stood up on the narrow crest of the granary roof, her dark leather shoes finding purchase on the mossy slate as easily as on a parlor floor, and looked down over the market eaves.
 
@@ -34,7 +34,7 @@ She looked the exact same to the last yellow thread. Her silver hair was tucked 
 
 She was standing in front of Widow Ma’s odds-and-ends blanket, turning a chipped bamboo back-scratcher over in her left hand while her right thumb moved at a blur across the dark glass of a pocket Terminal held low by her hip—typing a forum reply without looking at the screen once.
 
-“Two coppers lah, Auntie,” Buling was saying, her voice floating clearly up to the roof between the clatter of handcarts. “Look at the teeth, one already broken. You scratch with this, one side itchy, one side bleeding. I give you one copper and I tell you free of charge why your stove at home always smoking when the wind comes from the river.”
+“Two coppers, Auntie,” Buling was saying, her voice floating clearly up to the roof between the clatter of handcarts. “Look at the teeth, one already broken. You scratch with this, one side itchy, one side bleeding. I give you one copper and I tell you free of charge why your stove at home always smoking when the wind comes from the river.”
 
 “My stove doesn’t smoke,” Widow Ma said suspiciously.
 
@@ -50,7 +50,7 @@ For two full heartbeats the only sound between them was the squeak of a wheelbar
 
 Then Buling’s face split into a wide, delighted grin, and she raised the chipped bamboo back-scratcher in a brisk salute.
 
-“Eh? Ruoyun!” she called up. “Wah, you wear glasses now ah? Very educated look leh!”
+“Ruoyun!” she called up. “Wah, you wear glasses now? Very educated.”
 
 “*Buling!*”
 
@@ -74,7 +74,7 @@ His partner looked down the lane at the angle of Ruoyun’s elbows. “No bet. L
 
 Ahead of them, Carpenter Lin’s wife stepped out of the narrow alley by the cistern with her four-month-old boy propped on her hip and a bundle of kindling under her other arm.
 
-“Lin San-niang, back inside the gate!” Ruoyun bellowed from thirty yards back without losing half a step. “And tie that yellow dog of yours to the post, his grandmother bit the provost’s donkey in the hock in the eighty-fourth year!”
+“Lin San-niang, inside!” Ruoyun bellowed from thirty yards back without losing half a step. “And grab that dog!”
 
 San-niang’s eyes went round; she backed hastily over her threshold, clutching the baby—whose cabbage-shaped ears were pink with delight as he waved his wooden rattle after the red-eyed lady in the funny hat.
 
@@ -84,13 +84,13 @@ Liangyu slowly lowered the oil-rag, looked out into the lane, looked back up the
 
 Up the west stair Buling went, taking the steep granite risers two at a time and hating every single inch of it.
 
-“Aiya, why this place still got so many steps!” Buling shouted over her shoulder, clutching the crown of her *nuanmao* with one hand so the draft wouldn’t take it. “Two hundred years nobody in the Ministry know how to build a pulley meh? My knees are not for climbing lah!”
+“Why this place still got so many steps!” Buling shouted over her shoulder, clutching the crown of her *nuanmao* with one hand so the draft wouldn’t take it. “Two hundred years and nobody thought of a pulley? My knees are not for climbing!”
 
-“I’ll give you knees!” Ruoyun yelled from six treads below her, not even breathing through her mouth yet. “The fourth month of the dry rabbit year! You told me you were walking down to the lower ferry to buy six ounces of red cinnabar, and you left me with the entire south ditch choked to the lip with rotten willow roots!”
+“I’ll give you knees!” Ruoyun yelled from six treads below her, not even breathing through her mouth yet. “You said you were going down to the ferry for cinnabar! *Cinnabar!* And you left me the south ditch full of roots!”
 
-“I met a client at the crossing!” Buling called back, dodging around a stack of roof-tiles on the landing. “Very urgent feng shui case, his ancestral hall was sitting on a bad vein! You think I go out there to play ah?”
+“I met a client at the crossing!” Buling called back, dodging around a stack of roof-tiles on the landing. “Very urgent feng shui case, his ancestral hall was sitting on a bad vein! You think I went out there to play?”
 
-“An ancestral hall does not take a hundred and forty-two years, you shameless little tick!” Ruoyun vaulted a broken wheelbarrow on the upper terrace and cut the corner off by three paces. “You left the second-quarter tallow book open on the meal-chest! In the middle of the seventh column! The storehouse mice ate the glue right out of the spine!”
+“An ancestral hall does not take a hundred years, you shameless little tick!” Ruoyun vaulted a broken wheelbarrow on the upper terrace and cut the corner off by three paces. “You left the tallow book open on the meal-chest! Halfway down a page! The mice ate it!”
 
 “Then you scold the mice lor, why you chase me!”
 
@@ -98,7 +98,7 @@ Up the west stair Buling went, taking the steep granite risers two at a time and
 
 “That knife was rusty already!” Buling protested, scrambling over the low parapet onto the flat tarred roof of the cistern shed.
 
-“Horn doesn’t rust, you thief! And the blade was southern spring-steel!”
+“Horn doesn’t rust, you thief!”
 
 At the far edge of the cistern roof, the lane dropped away twelve feet to the wash-house drying yard, blocked by four taut hemp lines hung with the garrison’s wet winter tunics. Ruoyun was four paces behind her and closing, her blue eyes blazing behind her round brass spectacles and her right hand already reaching for the back of Buling’s silk collar.
 
@@ -108,7 +108,7 @@ Buling whipped two yellow paper talismans out of her sleeve with her left hand, 
 
 The damp mountain air caught the charge wrong. Instead of firing under her boots, a jagged blue spark backfired straight up Buling’s right cuff.
 
-“*Chey!*” Buling yelped, her silver hair lifting in a sudden, crackle-edged halo under the brim of her hat as she shook her smoking fingertips. “*Siao liao, siao liao*—”
+Buling yelped, her silver hair lifting in a sudden, crackle-edged halo under the brim of her hat as she shook her smoking fingertips. “*Siao liao*—”
 
 Her left foot missed the coping edge. She launched crookedly across the gap, plowed straight through the second line of wet linen tunics, and hit the wash-house flagstones in a rolling tangle of damp grey hemp and wooden clothes-pegs.
 
@@ -134,13 +134,13 @@ Buling’s head tilted back, inch by slow inch.
 
 Ruoyun didn’t say a word. She bent down, took Buling’s left ear firmly between her thumb and forefinger right under the brim of the *nuanmao*, and hauled her upright onto her feet.
 
-“Aiya, aiya, gentle lah!” Buling hopped sideways on her toes to keep the tension off her lobe, both hands coming up to hover uselessly around Ruoyun’s wrist. “This ear is old stock one, you pull off then cannot glue back!”
+“Gentle, gentle!” Buling hopped sideways on her toes to keep the tension off her lobe, both hands coming up to hover uselessly around Ruoyun’s wrist. “This ear is old stock. You pull it off, cannot glue back.”
 
 “Save your breath for the mountain,” Ruoyun said grimly, turning on her heel and marching her captive straight up the cobble lane toward the north cliff cut. “I’m taking you to A-Qing. She can take your head off with a pine needle, and I’ll use that stupid hat of yours to grease the wagon axles.”
 
 All the bounce went out of Buling’s knees at once. She dug both heels into the wet gravel between the cobbles, leaving two long furrows in the dirt as Ruoyun dragged her past the well-head anyway.
 
-“Wait! Wait lah, Ruoyun, we are colleagues!” Buling said rapidly. “Don’t disturb Shifu for small-small administrative matter! We settle outside! I buy you a new knife! Two knives! In Jinzhou now they got folding one with little scissors inside, very sharp, I order on the Terminal tonight and ask courier to bring up—”
+“Wait. Wait, Ruoyun, we are colleagues,” Buling said rapidly. “Don’t disturb Shifu over some administrative matter, we settle it outside. I buy you a new knife. Two knives. In Jinzhou they got a folding one with little scissors inside, I can order tonight and get the courier to bring it up—”
 
 “Walk!” Ruoyun barked.
 
@@ -164,17 +164,17 @@ Ruoyun hauled Buling up to the bottom step and gave her ear a small, directional
 
 Bent sideways at the neck to spare her earlobe, Buling squinted up the granite risers past the yellow paper strip dangling from her hat. When she saw Qingxiao sitting on the stone step in the clear evening light, she gave a tiny, hopeful wave with her soot-blackened right fingers.
 
-“Shifu,” Buling said. “Wah, you sit on the steps now ah? Very good for the lower back. The stone here got nice qi.”
+“Shifu,” Buling said. “You sit on the steps now? Good for the lower back. This stone got nice qi.”
 
 Qingxiao looked down from the landing at the crooked official’s hat, the green duckweed on the silk shoulder, and the scorched right cuff.
 
 “You still drop your left elbow when you draw thunder,” Qingxiao said.
 
-Buling winced as if she’d been tapped on the shin with a bamboo rod. “The mountain air here very wet lah, Shifu. The charge anyhow jump into my sleeve.”
+Buling winced as if she’d been tapped on the shin with a bamboo rod. “The air here very wet, Shifu. The charge anyhow jump into my sleeve.”
 
-“Never mind her sleeve!” Ruoyun snapped, keeping her thumb locked tight on the ear. She flung her free left arm out toward the Hold behind them. “One hundred and forty-two years, A-Qing! The fourth month of the dry rabbit year! She walked down the switchbacks for cinnabar, left the south drain full of willow-rot, left the tallow book open for the mice to chew, and stole my good horn-handled knife! Do you have any idea how many winters I’ve spent chipping the rime off the north sluice by myself while she was lounging around the southern ferries drinking sweet coffee?”
+“Never mind her sleeve!” Ruoyun snapped, keeping her thumb locked tight on the ear. She flung her free left arm out toward the Hold behind them. “A hundred years, A-Qing! More! She went down the mule road for cinnabar and never came back. Not a word. Not one slip of paper. And she took my knife.” Ruoyun’s voice cracked on *knife*, and she glared at the steps as if they had done it. “I chipped the north sluice by myself every winter while she was off somewhere drinking sweet coffee.”
 
-“I was working!” Buling protested sideways to the steps. “You think freelancing outside very easy meh? Every city got different permit, ferry fare go up three times already, in Jinzhou now one bowl of beef noodles without tendon also four hundred shell credits! And the minute I see on the forum that the Hold got big noise and weird clouds, I straightaway pack my bag and come back hor! Very dutiful already!”
+“I was working!” Buling protested sideways to the steps. “You think freelancing is easy? Every city a different permit, the ferry fare went up three times, one bowl of beef noodles in Jinzhou, no tendon, four hundred shell credits! And the minute I saw on the forum the Hold got big noise and weird clouds, I packed my bag and came back. Very dutiful.”
 
 “The noise stopped yesterday morning!” Ruoyun shouted into her ear.
 
@@ -190,11 +190,11 @@ Buling went completely still. Her mouth opened, closed once, and her eyes slid s
 
 “The cedar fell in the eightieth year,” Qingxiao said evenly. “I brought the sword inside. It is leaning by the water-jar.”
 
-Buling’s shoulders dropped two inches under the blue silk. “Aiya. You really don’t throw anything away ah.”
+Buling’s shoulders dropped two inches under the blue silk. “Aiya. You really don’t throw anything away.”
 
 “Take her head off, A-Qing,” Ruoyun ordered, giving the ear another tiny tug. “Or take her legs off at the shins so she can’t slip back down the mule road the next time I turn my back to oil a hinge.”
 
-“Eh! Cannot lah!” Buling squawked, clapping both hands to her own collar and accidentally knocking her forehead talisman skewed across her nose. “You cut my head off then who’s going to carry it? You want to carry my head around in a vegetable basket while you sweep the gutter meh? I will talk the whole time, I tell you first! I know eight hundred forum threads about land-tax reform in the central plains, I will recite from first bell until midnight—”
+“Cannot!” Buling squawked, clapping both hands to her own collar and accidentally knocking her forehead talisman skewed across her nose. “You cut my head off then who’s going to carry it? You want to carry my head around in a vegetable basket while you sweep the gutter? I will talk the whole time, I tell you first! I know eight hundred forum threads about land-tax reform in the central plains, I will recite from first bell until midnight—”
 
 “I’ll drop it in a stoneware pickle jar and seal the lid with rosin!” Ruoyun barked back.
 
@@ -228,7 +228,7 @@ Up on the step, Qingxiao stood up, shaking her cuffs down over her wrists.
 
 Buling’s head came up at once. “See! Shifu is reasonable—”
 
-“You owe the Hold the rounds from the dry rabbit year,” Qingxiao continued in her level voice, walking slowly down the granite steps toward them. “You will start tonight on the eastern breach. Warden Ge’s men laid unwashed gravel under the quicklime course. Ruoyun will keep your book until the second-month thaw.”
+“You owe the Hold the rounds you walked away from,” Qingxiao continued in her level voice, walking slowly down the granite steps toward them. “You will start tonight on the eastern breach. Warden Ge’s men laid unwashed gravel under the quicklime course. Ruoyun will keep your book until the second-month thaw.”
 
 For the space of a breath the bottom of the stair was dead quiet. Then both of them went off at the exact same instant.
 
@@ -250,11 +250,11 @@ Down in the forty-foot gap in the masonry, Buling was squatting in the gravel wi
 
 Sitting three paces away on an upturned lime keg, with a brass tally-lamp by her shoe and the gatehouse logbook propped open across her knees, Ruoyun didn’t look up from her bamboo brush.
 
-“Lever it back,” Ruoyun said. “If you skew the lower course two fingers south, the upper blocks won’t meet the old bastion by the width of a boot, and I am not standing out here in the dark cutting wedge-stones so the third company can win at dice.”
+“Lever it back,” Ruoyun said. “I’m not cutting wedge-stones in the dark so the third company can win at dice.”
 
-“It’s not just dice, it’s the whole harmony of the ditch!” Buling let the crowbar clatter onto the stones and squatted back on her heels, blowing a stray lock of silver hair out of her eyes so the yellow talisman on her forehead fluttered upward. “Wait lah, Ruoyun. You just anyhow say one hundred and forty-two years. What about the big flood when the river came up to the gate? The south drain was underwater for two months, nobody could sweep it even if I was standing here with a broom! Plus winter holidays, plus leap months—you give me a seasonal discount, I help you fix this wall until the New Year, then we call it square already.”
+“It’s not just dice, it’s the whole harmony of the ditch!” Buling let the crowbar clatter onto the stones and squatted back on her heels, blowing a stray lock of silver hair out of her eyes so the yellow talisman on her forehead fluttered upward. “Wait, Ruoyun. You just anyhow say a hundred over years. What about the big flood when the river came up to the gate? The south drain was underwater for months, nobody could sweep it even if I was standing here with a broom! Give me a discount for the flood, I fix this wall until New Year, then we’re done.”
 
-“The Paragon said until the thaw,” Ruoyun said, dipping the tip of her brush into the ink-stone. “And if you don’t wash the clay off that second pile of river gravel before you pack it under the joint, I’m adding the flood months back on.”
+“The Paragon said the thaw,” Ruoyun said, dipping the tip of her brush into the ink-stone. “And wash that gravel properly or I’m putting the flood back on.”
 
 Buling let out a long, theatrical groan that echoed off the broken stonework, picked up a wooden water-ladle, and sloshed half a bucket of cold cistern water over a sieve of gravel.
 
@@ -264,7 +264,7 @@ She shook the wire sieve between both hands, watching the muddy water run out in
 
 On the lime keg, Ruoyun’s brush paused for the breadth of a second above the paper.
 
-“Somebody had to keep the pine needles out of the south grate,” Ruoyun said briskly, and set a neat, sharp tick at the top of the new column. “Otherwise the wash-house backs up into the mule lane by the fifth bell. Not all of us can just stroll down to the ferry whenever the soup gets thin.”
+“Somebody had to,” Ruoyun said briskly, and set a neat, sharp tick at the top of the new column. “Not all of us can stroll down to the ferry whenever the soup gets thin.”
 
 “The soup here was pure rainwater!” Buling muttered, dumping the washed gravel into the footing trench with a wet crunch. “Anyway, if I stayed here looking at Warden Ge’s grandfather’s eyebrows for a hundred years, I would have eaten my own talisman and jumped in the gorge. At least in Jinzhou the street lamps don’t smell like mutton tallow.”
 
@@ -304,7 +304,7 @@ Across the granite block, Buling drank three long mouthfuls of broth straight fr
 
 “Eh,” Buling said around a mouthful of green garlic, pointing her chin at the cloth. “That’s the oilcloth from the bottom of the west storehouse chest. I used to roll up in that one when the roof leaked in the plum-rains.”
 
-“You got ditch-mud all over the flannel lining in the thirty-eighth year,” Ruoyun said, blowing on her broth over the rim of her spectacles. “It took me three boilings with soap-beans to get the stain out.”
+“You got mud all over the lining,” Ruoyun said, blowing on her broth over the rim of her spectacles. “I boiled it three times.”
 
 “That wasn’t mud, that was red cinnabar clay from the creek! Very high-grade material!”
 
