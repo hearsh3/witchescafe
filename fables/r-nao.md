@@ -48,11 +48,11 @@ Up on the parapet, Ruoyun let out a sharp, triumphant breath and dipped her brus
 
 Ruoyun’s brush stopped dead.
 
-Qingxiao turned on the crooked granite block, the pale ribbon of frequency drifting lightly around her elbows in the river draft. “The quiet we have now will not hold long. When the road turns bad again, a mason who sleeps until noon is no use in the ditch.”
+Qingxiao turned on the crooked granite block, the pale ribbon of frequency drifting lightly around her elbows in the river draft. “The quiet we have now will not hold long. When the barrier fails, the Fox will still be missing, and a mason who sleeps until noon is no use in the ditch.”
 
 She looked down at Buling.
 
-“Pack your canvas bag,” Qingxiao said. “Ruoyun will take you up the hill to the third storehouse. Yangyang is staying there with the travelers from across the sea.”
+“Pack your canvas bag,” Qingxiao said. “Ruoyun will take you up the hill to the third storehouse. Yangyang is staying there with the foreigners from across the sea.”
 
 For two beats the only sound in the breach was the buried pickle jar going *whooo* in the breeze.
 
@@ -66,7 +66,7 @@ She had closed the leather logbook on her knee with a snap. She slid off the hig
 
 “Have you lost your mind, A-Qing?” Ruoyun demanded. “You gave her to me until the second-month thaw! Putting her in a heated storehouse with a pack of tourists who fry meat three times a day isn’t a sentence, it’s a boarding-house holiday!”
 
-“They will be moving soon,” Qingxiao said. “She knows the roads and the relay nodes. She can earn her rice with them.”
+“When it comes, they will be standing in the middle of it,” Qingxiao said. “They always are. She knows the old seams in the gorges. She can earn her rice with them.”
 
 “Then let her walk up the stairs by herself!” Ruoyun’s hand drifted halfway up toward her left horn before she caught it and jammed her fist onto her hip instead. “I am not marching into that building in broad daylight. Have you walked past that door at breakfast? There are eight of them in there and it sounds like forty! That gigantic girl with the wolf tail threw an iron skillet at a rat on Tuesday and dented my rain-barrel!”
 
@@ -98,7 +98,7 @@ Inside the converted Ministry storehouse at the top of the hill, the third bell 
 
 At the brick hearth, Lupa was working two cast-iron skillets at once over an open blaze that had turned the room into a bakery oven. She had a mountain of fried dough-twists draining on brown paper to her left, a pot of ginger-and-mutton broth bubbling at the back, and a long iron fork in her fist as she turned a batch of scallions in spitting lard.
 
-“Don’t you touch that paper, bard!” Lupa barked without turning her head as Ciaccona’s green sleeve drifted lazily down from the window-seat toward the top twist on the pile. “They’re for the road-sack! Eat the broken ones on the saucer!”
+“Don’t you touch that paper, bard!” Lupa barked without turning her head as Ciaccona’s green sleeve drifted lazily down from the window-seat toward the top twist on the pile. “They’re for the Wardens on the gate! Eat the broken ones on the saucer!”
 
 “The broken ones are cold,” Ciaccona complained from the sill, where she lay flat on her back with her boots crossed on top of her lute case and her feathered hat balanced on her stomach. “A cold dough-twist is just a candle you can chew. Cartethyia, tell the wolf I’m wasting away.”
 
@@ -116,7 +116,7 @@ She was squinting fiercely at a folded sheet of foolscap sitting three inches fr
 
 Iuno did not cover the page; she simply shifted her elbow half an inch so the crystal at her left shoulder caught the sun and threw a bright prism of blue light straight across Amy’s nose.
 
-“The first two yards are for the medicine tins,” Iuno said mildly, making a neat tick on her pad. “The second two are for wrapping your mother’s spare boots when she inevitably steps in the creek before we reach the ferry. And stop breathing on my ink.”
+“The first two yards are for the medicine tins,” Iuno said mildly, making a neat tick on her pad. “The second two are for wrapping your mother’s spare boots, because the next time the sky comes down on this mountain she will inevitably be standing in the cistern. And stop breathing on my ink.”
 
 “It’s pencil!”
 
@@ -194,7 +194,7 @@ On the bench, Amy’s mouth fell slightly open. She looked from Ruoyun’s icy b
 
 Ruoyun shot Yangyang a single, sharp glance through her spectacles—warning her off with half an inch of eyebrow—and turned her chin back toward the center of the room.
 
-“The Paragon inspected the eastern wall this morning,” Ruoyun announced to the rafters, clip-clapping every syllable off her teeth. “She has concluded that this person is a danger to the masonry, the quartermaster’s lime supply, and the hearing of the third company. As you are preparing to travel, and as she allegedly knows which way the roads run, the Paragon has reassigned her to your quarters until the second-month thaw. She is your problem now.”
+“The Paragon inspected the eastern wall this morning,” Ruoyun announced to the rafters, clip-clapping every syllable off her teeth. “She has concluded that this person is a danger to the masonry, the quartermaster’s lime supply, and the hearing of the third company. As you are evidently staying, and as she allegedly knows what to do when the ground goes wrong, the Paragon has reassigned her to your quarters until the second-month thaw. She is your problem now.”
 
 ***
 
@@ -280,7 +280,7 @@ Ruoyun’s chin came up half an inch. “A sensible woman,” she said, and look
 
 On the upturned flour crate, Buling had already recovered her bounce. Seeing Ruoyun look at Yangyang, Buling leaned sideways on the crate, hooked her elbow over the back of the pantry chair, and wagged two fingers at Yangyang’s sword.
 
-“Eh, little bird,” Buling said cheerfully. “Shifu told me you’re the new disciple. Don’t be nervous. When we’re on the road, you just listen to your shijie—I know all the shortcuts when she tells you to do five hundred swings in the snow.”
+“Eh, little bird,” Buling said cheerfully. “Shifu told me you’re the new disciple. Don’t be nervous. When she tells you to do five hundred swings in the snow, you just listen to your shijie—I know all the shortcuts.”
 
 The word dropped into the room like a coin hitting a stone floor.
 
@@ -322,7 +322,7 @@ Iuno did not correct her for half a second. She simply sat with her hand resting
 
 Around a mouthful of fried dough, Buling made an indignant noise through her nose.
 
-“Keep her away from the lime,” Ruoyun continued without looking at her. “And if she slips off at the ferry because she met a client at the crossing, send a Rafter Kite. I’ll come down the river road and fetch her by the other ear myself.”
+“Keep her away from the lime,” Ruoyun continued without looking at her. “And if she slips off down the mule road because she met a client at the crossing, shout. I’ll hear. I’ll fetch her back by the other ear myself.”
 
 Ruoyun stopped and looked expectantly down through her spectacles at Iuno. “Understood?”
 
