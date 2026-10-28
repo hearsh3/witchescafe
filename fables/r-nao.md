@@ -202,9 +202,9 @@ For two seconds nobody spoke except the mutton broth bubbling at the back of the
 
 Then Buling stepped neatly out from in front of Ruoyun, hooked two fingers into her side slit, and flicked a slightly crumpled business card onto the pine table beside Mei’s linen turtle.
 
-“Don’t listen to her, she’s just sour because she doesn’t understand modern geomancy,” Buling told the room at large. “Allow me to re-introduce. Buling, senior artifact maker, feng shui consultant, top-ten contributor on the Jinzhou Terminal Hardware & Anomaly board—handle *ThunderTalisman88*, you can check my verified thread on the Gorges frequency drift, four thousand upvotes. For friends of the redhead, I give twenty percent discount on site readings. Room layout, compass calibration, cursed kitchenware, all can do. If you got a ghost in the luggage, thirty percent extra, payable before lunch.”
+“Don’t listen to her, she’s just sour because she doesn’t understand modern geomancy,” Buling told the room at large. “Allow me to re-introduce. Buling, senior artifact maker, feng shui consultant, top 1 percent contributor on the Huangboard—handle *BigThunder88*. For friends of the redhead, I give twenty percent discount on site readings. Room layout, compass calibration, cursed kitchenware, all can do. If you got a ghost in the luggage, thirty percent extra, payable before lunch.”
 
-Amy leaned across the table and snatched up the card, turning it over in her fingers with immediate professional respect. “Wait, you’re *ThunderTalisman88*? You’re the one who got into a ninety-post flame war with the Huaxu Academy guy over copper conductivity on Tuesday!”
+Amy leaned across the table and snatched up the card, turning it over in her fingers with immediate professional respect. “Wait, you’re *BigThunder88*? You’re the one who got into a ninety-post flame war with the Huaxu Academy guy over copper conductivity on Tuesday!”
 
 “That guy is an idiot,” Buling said flatly. “He only tests in a dry lab. You bring his resonator out in the mountain fog, two minutes and it pops like a chestnut. Look at your bard here—when she was stuck in Septimont, who gave her the Sacred Bell of the Nine Heavens’ Thunder to split the illusion open? Me. High-grade craft.”
 
