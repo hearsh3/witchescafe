@@ -32,7 +32,7 @@ Right in the middle of the lane, strolling along as unhurriedly as if she had ju
 
 She looked the exact same to the last yellow thread. Her silver hair was tucked up under the round, dark-brimmed *nuanmao* of an old-dynasty magistrate, with a long yellow paper talisman draped from the front brim straight down over the bridge of her nose. Her fitted royal-blue silk cheongsam didn’t have a speck of road dust on the collar, and the yellow talisman bands wrapped around her black leggings were tied with crisp, even turns at the ankle.
 
-She was standing in front of Widow Ma’s odds-and-ends blanket, turning a chipped bamboo back-scratcher over in her left hand while her right thumb moved at a blur across the dark glass of a pocket Terminal held low by her hip—typing a forum reply without looking at the screen once.
+She was standing in front of Widow Ma’s odds-and-ends blanket, turning a chipped bamboo back-scratcher over in her left hand while her right thumb moved at a blur across the dark glass of a pocket Terminal held low by her hip—typing a forum reply she couldn’t send yet without looking at the screen once.
 
 “Two coppers, Auntie,” Buling was saying, her voice floating clearly up to the roof between the clatter of handcarts. “Look at the teeth, one already broken. You scratch with this, one side itchy, one side bleeding. I give you one copper and I tell you free of charge why your stove at home always smoking when the wind comes from the river.”
 
@@ -270,7 +270,7 @@ On the lime keg, Ruoyun’s brush paused for the breadth of a second above the p
 
 “Wait until the third watch when the wind comes down the pass,” Ruoyun said darkly. “You’ll be begging for tallow to grease your nose.”
 
-Buling reached toward her side slit—her right thumb curling by habit to check the forum thread she’d abandoned in the market before she remembered there wasn’t a splinter of relay signal at the bottom of a granite ditch—and pulled a small brass plumb-bob on a red cord out of her sleeve instead, holding it up against the face of the block.
+Buling reached toward her side slit—her right thumb curling by habit to check the forum thread she’d abandoned in the market before she remembered there wasn’t a splinter of relay signal anywhere on the mountain—and pulled a small brass plumb-bob on a red cord out of her sleeve instead, holding it up against the face of the block.
 
 Before she could start another argument about the barracks roof, there was the quiet step of boots coming up the timber ramp from the inner courtyard.
 

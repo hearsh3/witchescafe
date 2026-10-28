@@ -244,7 +244,7 @@ At Buling’s hip, a stray gust off the gully caught the walnut-sized brass bell
 
 Buling’s right hand dropped down to rest over the brass rim, quieting it.
 
-“Eh,” Buling said, looking up at the peeling underside of the porch roof. “Ask you something. Just for research. On the forum they’re arguing about acoustic bronze ratios again.”
+“Eh,” Buling said, looking up at the peeling underside of the porch roof. “Ask you something. Just for research. Before the signal went, the forum was arguing about acoustic bronze ratios again.”
 
 “Fascinating,” Ciaccona said. “Try not to wake the hen.”
 
@@ -413,27 +413,159 @@ She looked down at the tiny brown-paper jiangshi standing guard beside her bowl.
 
 “Hat brim very accurate,” Buling said in a mild voice, and picked up the pork rind.
 
-Down at the foot of the table, Amy was sitting cross-legged on the bench with her bowl balanced on her knee, chewing a chestnut while her right thumb scrolled rapidly down the glowing glass of her Terminal.
+Down at the foot of the table, Amy had stopped eating.
 
-Suddenly Amy stopped chewing.
+She was sitting cross-legged on the bench with her bowl balanced on her knee, and she had leaned so far sideways to look at the Terminal propped against Buling’s rice bowl that the ends of her pink hair were nearly in the pork. Buling’s right thumb was moving across the glass at a blur while her chopsticks kept working with the other hand.
 
-Her eyes widened; she let out a sharp, choked noise through her nose that nearly launched the chestnut across the table, and slapped one hand flat on the pine board.
+“There’s no signal on this mountain,” Amy said slowly. “There hasn’t been a single bar since the fog came down. Who are you typing to?”
 
-“Oh, you have *got* to be kidding me!” Amy howled, spinning the Terminal around upside down so the whole table could see the thread open on the local cached node of the Jinzhou Huangboard. “She posted about us! From the outhouse!”
+“Drafts,” Buling said without looking up. “When the relay comes back, I post everything at once. The whole board wakes up.”
 
-Buling didn’t even slow down her chewing. “Field notes. Anonymous case study. Standard industry practice.”
+Amy tilted her head, read three lines upside down, and let out a sharp, choked noise through her nose that nearly launched a chestnut across the table.
 
-“*Anonymous?!*” Amy cleared her throat, pitched her voice into a theatrical midnight-radio broadcaster’s baritone, and read straight off the screen: “*Thread title: [Urgent] Client site in northern mountains has zero geomantic hygiene, how to bill? Post #1 by ThunderTalisman88: Took a temporary winter sub-contract with a foreign household. Kitchen stove is eighty degrees too hot, the cook has a tail and threatens people with a ladle, the head clerk only has one arm and writes lists like a tax judge, and the boss lady sits on the floor making cloth frogs while her kid hits a tree with a broom. Also the bard still owes me for a broken cowbell. Rate my survival odds.*”
+“Oh, you have *got* to be kidding me,” Amy said. “She’s writing about us!”
+
+“Field notes,” Buling said placidly. “Anonymous case study. Standard industry practice.”
+
+“*Anonymous?!*” Amy hooked the Terminal out from against the rice bowl, spun it upside down so the whole table could see, pitched her voice into a theatrical midnight-radio baritone, and read straight off the glass: “*Draft. Thread title: [Urgent] Client site in northern mountains has zero geomantic hygiene, how to bill? BigThunder88 writes: Took a temporary winter sub-contract with a foreign household. Kitchen stove is eighty degrees too hot, the cook has a tail and threatens people with a ladle, the head clerk only has one arm and writes lists like a tax judge, and the boss lady sits on the floor making cloth frogs while her kid hits a tree with a broom. Also the bard still owes me for a broken cowbell. Rate my survival odds.*”
 
 Around the table, Ciaccona choked on her broth and had to be pounded on the back by Cartethyia; Mei laughed hard enough that she had to press both palms flat against her ribs while Iuno’s hand came across automatically to steady her elbow; and even Yangyang’s shoulders shook as she hid her mouth behind her teacup.
 
 “They were *swans*!” Mei protested across the table at Buling. “I haven’t made a frog all week!”
 
-“Looks like a frog from the log,” Buling said placidly, taking a turnip quarter. “And look at the replies, already fourteen people say I should charge hazard pay for the wolf.”
+“Looks like a frog from the log,” Buling said, taking a turnip quarter.
 
-“I’ll give you hazard pay,” Lupa growled, grinning from ear to ear as she dropped another ladle of chestnuts into Buling’s bowl anyway.
+“There is one household on this continent with a one-armed clerk and a wolf at the stove,” Iuno observed, setting down her spoon. “Your anonymity is a sheet of rice paper.”
 
-Before Amy could read the second reply, three sharp, rapid knuckles rapped against the upper wooden shutter by the east window—the one five feet off the ground that opened onto the outer stair-landing.
+“Correct,” Buling said, pleased. “That’s why no need names. You all already got your own thread on the Huangboard. Since Ragunna. Four hundred pages, last time I had signal at the lower ferry.”
+
+The table went quiet for one beat.
+
+“Four hundred,” Amy repeated.
+
+“Got sub-threads also,” Buling went on, picking a chestnut out of the braise. “One for the wolf’s cooking. One for the bard’s hats. One for the small knight’s goose. One very long one where people argue whether the boss lady and the head clerk already married or not—”
+
+“Don’t,” Amy said.
+
+“—four factions,” Buling said serenely. “Very bitter. Somebody got banned.”
+
+Iuno picked her spoon back up and ate a turnip with tremendous dignity, and a faint warmth crept up the side of her neck.
+
+“Do we have nice names?” Mei asked hopefully. “On the board?”
+
+Buling’s chopsticks stopped over the braise.
+
+“Some,” she said.
+
+“Some,” Iuno repeated.
+
+“Internet way of affection,” Buling said, and started eating noticeably faster. “Very warm community. You don’t want to know.”
+
+“I want to know,” Amy said at once.
+
+“Spit it out, magistrate,” Lupa said, pointing the ladle.
+
+Buling sighed through her nose, looked up at the rafters as if asking them for a witness, and set her chopsticks down across her bowl.
+
+“Okay. Don’t hit me, I didn’t make any of them. Every one came out of a flame war, minimum a hundred pages each. Only the finest.” She nodded at the floor by Iuno’s shin. “Boss lady is Deadbeat Transcendent.”
+
+“*Deadbeat?*” Mei said. “I pay for things! Sometimes!”
+
+Amy let out one bark of laughter, much too loud, then caught her mother’s eye across the table and reached under the board to squeeze Mei’s knee. “It’s the *Transcendent* part I object to,” she said.
+
+Buling looked at Iuno, at the chipped moonwheel crystal at her shoulder, and visibly considered leaving.
+
+“Head clerk,” she said, “is Groomer Mussolini.”
+
+Iuno set down her spoon.
+
+Ciaccona put her forehead on the table. Cartethyia, who did not know who Mussolini was and could tell from Ciaccona’s shoulders that it didn’t matter, clapped both hands over her mouth anyway.
+
+“I see,” Iuno said, in a voice like a closing vault. “Which faction?”
+
+“All four,” Buling said. “Only thing they agree on.”
+
+*Darling,* the High Priestess said faintly, *I have never been so proud.*
+
+“The wolf,” Buling went on quickly, before anyone could reach for anything heavy, “is Char Siew Dog.”
+
+Lupa’s ears went flat. “I’m a *wolf*.”
+
+“Board says dog,” Buling said. “Because of the pork.”
+
+Lupa opened her mouth, looked down at the casserole of red-braised pork she had cooked, and shut it again.
+
+“Small knight, NEET-Maiden.”
+
+“What is a neet?” Cartethyia asked.
+
+Ciaccona lifted her head off the table just far enough to answer. “Someone who stays in her room for twenty years and doesn’t get a job, cara.”
+
+Cartethyia thought about this with great seriousness. “I was *sealed* in there,” she said. “That is completely different.” She paused. “I did name all the dolls, though.”
+
+“Bard is Ringo,” Buling said.
+
+Ciaccona sat up properly. “Why Ringo?”
+
+Buling picked up a chestnut, looked at it, and put it down again.
+
+“Long war,” she said. “Your fans said the bard is the soul of the whole group, without her the story got no music. Other side posted one line.” She cleared her throat. “‘He’s not even the best drummer in The Beatles.’”
+
+Ciaccona stared at her. “I don’t play the drums.”
+
+“That’s not the point.”
+
+“Then what *is* the point?”
+
+“The point is your fans lost,” Buling said. “Six hundred posts. Nobody even knows who the Beatles are any more. The line won anyway.”
+
+“Cia is the *soul*,” Cartethyia said fiercely, to the table at large and the board in particular.
+
+Ciaccona patted her hand without looking at her, picked up her cup, and said into it, “I’m at least the second-best drummer.”
+
+“The quiet one with the scissors,” Buling went on, nodding at Chisa, “is Repeat Student.”
+
+Chisa took a chestnut. “Accurate,” she said.
+
+“And the kid,” Buling said, glancing down the table at Amy, “is Ghost in the Shell. That one got its own photo thread.”
+
+Yangyang had been waiting with her teacup held very still in both hands. When Buling went back to her rice, Yangyang lowered the cup an inch.
+
+“And me?” she asked.
+
+“You, nothing,” Buling said. “You’re new.”
+
+Yangyang considered that, and took a sip of tea, and the corner of her mouth stayed up.
+
+“So who has the most fans?” Amy demanded. “There’s always a ranking. There is *always* a ranking.”
+
+“Everybody got stans,” Buling said. “Even the scissors.”
+
+“Good,” Chisa said.
+
+“That’s not an answer,” Lupa said.
+
+“That one I don’t tell.” Buling picked her chopsticks back up. “Last time somebody posted a ranking, the board went down for two days and a moderator moved to the countryside. Most and least, I take to my grave.”
+
+“You’re already—” Amy began.
+
+“*Second* grave,” Buling said.
+
+Down the table, Amy had put her face in her hands.
+
+“I used to be the one with the fan stations,” she said through her fingers. “I had a *jingle*. It is completely different when there are four hundred pages about my mother’s sleeves.”
+
+“Four hundred and twelve,” Buling said helpfully.
+
+“Gross,” Amy said, and didn’t get up.
+
+Lupa was still frowning at the casserole. “The cooking thread,” she said. “What do they actually say about the cooking?”
+
+“They say you threaten people with ladles,” Buling said. “Photos very popular.”
+
+Lupa considered this, nodded with deep satisfaction, and dropped another ladle of chestnuts into Buling’s bowl.
+
+Before Amy could ask what the photo thread was called, three sharp, rapid knuckles rapped against the upper wooden shutter by the east window—the one five feet off the ground that opened onto the outer stair-landing.
 
 Nobody inside had heard a boot on the stone.
 
@@ -459,4 +591,4 @@ Her footsteps didn’t make a sound going back up the lane.
 
 Inside the warm storehouse, Lupa snorted, set the saucer back on the bricks, and dropped onto the bench beside Chisa. Down at the end of the table, Iuno picked up her cedar pencil from beside her plate, uncapped her dented flask to pour a splash of hot Earl Grey into Mei’s cup, and didn’t even blink when Buling reached across the wood with one chopstick to nudge the soy-sauce cruet two inches out of the line of the lamp-wick.
 
-By the door, hanging on the fourth wooden peg between the green bard’s plumes and the blue Outrider’s brim, Buling’s round black official’s hat swayed a fraction of an inch in the warm draft from the stove, its yellow paper talisman fluttering once against the pine wall while at the table, as Buling leaned sideways off the bench to steal the last roasted chestnut off Ciaccona’s saucer, the small brass bell at her hip gave a single, clear *tink* in the quiet between laughs.
+By the door, hanging on the fourth wooden peg between the green bard’s plumes and the blue Outrider’s brim, Buling’s round black official’s hat swayed a fraction of an inch in the warm draft from the stove, its yellow paper talisman fluttering once against the pine wall. At the table, Amy was still muttering *four hundred and twelve* into her rice, and Buling, leaning sideways off the bench to steal the last roasted chestnut off Ciaccona’s saucer, promised the whole table that the first thing she’d post when the relay came back was the sock-frog, and that it would do very well. The small brass bell at her hip gave a single, clear *tink* in the quiet between laughs.
