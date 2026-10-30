@@ -652,33 +652,33 @@ Mei looked up down the length of the table at Chisa, then at Yangyang with her h
 
 All at once, Mei closed her fingers around the blank Mengzhou quad, shutting the cold lead out of sight inside her fist, and set her knuckles squarely on the table.
 
-“Okay,” Mei said plainly. “Tomorrow night is the Waking Moon. We stay right here through the festival so Liangyu’s boys aren’t watching the wall alone, and I let the stitches settle one more day so Lupa doesn’t put me in the willow hamper.”
+“Okay,” Mei said plainly. “Then nobody’s going anywhere.”
 
 She looked around the circle of faces in the yellow lamplight.
 
-“And on Saturday morning,” Mei said, “as soon as the frost is off the north gate, we pack the trunks, we hire two carts, and we go down to Mengzhou. All of us.”
+“Tomorrow night is the Waking Moon. We stay right here through the festival so Liangyu’s boys aren’t watching the wall alone, and I let the stitches settle so Lupa doesn’t put me in the willow hamper.” She tapped her fist once on the wood. “And after the festival, we’re still here. Whoever’s supposed to come back to this mountain, there’s going to be somebody on the step when she does. All of us.”
 
 The heavy, held-breath stillness in the storehouse broke like thin ice under a boot.
 
-“Two carts?” Lupa barked immediately from the hearth, pushing off the chimney-brick with both arms uncrossed. “If you think I’m putting our gear on those rickety city-hall hay-wagons that came down the hill today, you’ve got cabbage in your ears! The second one had a split felly on the left wheel! We’re taking the big Jinzhou dray with the oak bed, and I’m packing the two-gallon lard crock in the middle so the axle stays weighted!”
+“Then I want the back bin,” Lupa barked immediately from the hearth, pushing off the chimney-brick with both arms uncrossed. “If we’re wintering on this rock, I’m not living on city-hall charity millet that came up the hill in hay-wagons! Jinzhou rice in the dry corner, the salt-fish off the damp wall, and somebody tell Wen the two-gallon lard crock is mine and always has been!”
 
-“Wait—I already looked at the Jinzhou dray’s springs on Monday!” Amy piped up, scrambling onto her knees and pulling a stub of carpenter’s chalk out of her sheepskin vest to draw a diagram right on the pine tabletop beside the pickled radishes. “If we swap the rear shackle-pins with the bronze bushings from the Huaxu crate and grease the leaf-pack with mutton tallow, Ma can sit on the forward bench over the king-bolt and she won’t even feel the ruts at the third weir!”
+“Wait—if we’re staying, I’m fixing the turbine in the yard!” Amy piped up, scrambling onto her knees and pulling a stub of carpenter’s chalk out of her sheepskin vest to draw a diagram right on the pine tabletop beside the pickled radishes. “It’s been knocking on the down-stroke since Monday. If I swap the shaft-pins for the bronze bushings from the Huaxu crate and run a baffle off the stove-pipe, Ma’s bench stays warm all night and she won’t even hear it turn!”
 
-“And Suisui said there is a Magistrate and a Minister from the capital!” Cartethyia leaned across the board, her blue eyes bright and earnest under her crystal laurel. “Iuno, when a household calls upon an Imperial Minister in a northern city, does a knight wear her baldric over the cloak or under it? In Egla Town, Uncle Cosimo always wore his guild-chain on the outside when the tax-assessor came, except the year the dog chewed the ribbon!”
+“And if we are keeping the festival in somebody else’s town,” Cartethyia said, leaning across the board, her blue eyes bright and earnest under her crystal laurel, “Iuno, does a knight bring something round to the neighbours, or wait until she’s asked? In Egla Town, Uncle Cosimo always took a loaf to the tax-assessor’s door at the harvest fair, except the year the dog got to it first!”
 
-“Under the cloak, Carte,” Ciaccona drawled from the window-seat, plucking a single low, dry *D* on her lute-string and tilting her head back against the shutter. “Definitely under the cloak. Any city whose bureaucrats send a funeral plaque with a six-piece horn section is tuned in D-minor. If we walk in looking respectable, they’ll try to make us sign a receipt.”
+“Bring it, Carte,” Ciaccona drawled from the window-seat, plucking a single low, dry *D* on her lute-string and tilting her head back against the shutter. “Definitely bring it. Any city whose bureaucrats send a funeral plaque with a six-piece horn section is tuned in D-minor. Somebody on this mountain has to play in a major key.”
 
-In the middle of the noise—with Lupa arguing over salt-fish weight with Wen through the scullery door and Amy drawing leaf-springs in chalk around Mei’s coffee mug—Yangyang reached into her pocket and pulled out her leather-bound patrol log and her short cedar pencil.
+In the middle of the noise—with Lupa arguing over salt-fish with Wen through the scullery door and Amy drawing turbine-blades in chalk around Mei’s coffee mug—Yangyang reached into her pocket and pulled out her leather-bound patrol log and her short cedar pencil.
 
-She didn’t open it to the watch-schedules at the front.
-
-She flipped straight to the very last leaf against the back board, where, since the Jinzhou road, a single word had sat inside a neat rectangular box:
+She flipped to the very last leaf against the back board, where, since the Jinzhou road, a single word had sat inside a neat rectangular box:
 
 *Mengzhou.*
 
-Resting the spine of the book against the edge of the table, Yangyang set the lead point of her pencil directly beneath the bottom line of the box and wrote in her small, exact hand:
+She looked at it for a while.
 
-*Saturday. After the Moon.*
+Then she turned back to the watch-schedules at the front of the book, found the first clean line, rested the spine of the book against the edge of the table, and wrote in her small, exact hand:
+
+*Xuanfang. The Waking Moon.*
 
 ***
 
