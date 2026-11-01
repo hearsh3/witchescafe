@@ -475,6 +475,8 @@ Her notes had come down the shaft into this room.
 
 Every failed harmonic bridge she had logged in the first two centuries after the meteor hit Stellavento—every brutal, exact observation she had written down when Granny Leah's collarbones split in the eighty-sixth trial, or when the cobbler's boy came apart at the fourth bar in the hundred-and-fourth—had gone down the Riseway in calfskin binders and been turned inside out on these benches to keep a child's grafted ribs from flying apart while they grew a lock in her throat.
 
+And hers had not been the first. The shelf this program stood on was older than her desk, older than she was, older than anything in the Fractsidus but the woman who founded it: attempt after attempt, each one reaching into what the Threnodians had left in the world for something strong enough to stand up in a body, each one trying to build by hand a thing that had already been built twice, by other hands, and set down on Solaris-3 without anyone's leave. The girl under the floor was only the latest on that shelf. The five by the manifold had been the ones before her, and there had been others before them that nobody could hear any more.
+
 *I helped make this girl for my own selfish ends,* she thought.
 
 *No,* her mind answered instantly, cold as a tuning fork struck against granite. *For my home. For Triss and the children and the bread-ovens.*
@@ -627,7 +629,15 @@ The Architect looked back out over the grey sheet of the ice toward the seven re
 
 Phrolova heard the capital letter on the pronoun as clearly as a pedal-point on an organ. She waited for the woman to say whether that imitation was the triumph of the program or the ruin of the trial, and the Architect added not a word to either side.
 
-"The early tables were built on your notes, of course," the Architect continued after a moment, turning her head back to Phrolova with the exact, scrupulous fairness of a director crediting a senior fellow on a proof sheet. "Your margins were the only method anyone had."
+She knew who the pronoun meant. Every Overseer learned it sooner or later, late at night, over tea, in the same voice that told the fable. Nobody had a name for Them, or a world, or a face. They had raised the Sentinels and set the Exostriders walking, and nobody living could swear to more than that, except that two had been sent, and the likeliest hands to have sent them were Theirs. Instance One, which had not been heard of in longer than Phrolova had been alive. Instance Two, who still kept her shore and her lights on the far coast, patient as a lighthouse, managing a world that had never been asked whether it wished to be managed. Under the figures in every quarterly outline that had crossed Phrolova's desk lay the same intention, never written down: take the pen back from Them. She had initialled it for centuries without once looking at it straight.
+
+"Was she meant to be the Third?" Phrolova asked.
+
+"Mm." The Architect's gloved thumb finished its quarter-turn against her palm. "Three was never ours to number."
+
+Phrolova turned that over and could not find which way up it went: whether it meant there would never be a Third, or that the number was already spoken for, by someone the Architect had not made.
+
+"The early tables were built on your notes, of course," the Architect continued after a moment, turning her head back to Phrolova with the exact, scrupulous fairness of a director crediting a senior fellow on a proof sheet. "Your margins were the best method anyone had."
 
 Phrolova's bare hands hung at her sides in the minus-twelve dark, the nail-beds still aching faintly from the stove-iron.
 
