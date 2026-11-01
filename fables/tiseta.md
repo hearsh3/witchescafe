@@ -10,7 +10,7 @@
 
 ---
 
-The flue in the third Solistree drew crooked whenever the wind backed into the north, which in January was four mornings out of five.
+The flue in the third Solistree drew crooked whenever the wind backed into the north, which in October was four mornings out of five.
 
 At twenty minutes past seven it would give a soft, asthmatic cough behind the chimney-breast and send a thin blue ribbon of birch-smoke curling out under the mantelpiece to hang among the pale ceiling-roots at the exact pitch of F-sharp above middle C. Phrolova knew the pitch because she had been listening to the house for three weeks the way a tuner listens to a damp harpsichord, waiting for the pin-block to slip.
 
@@ -364,7 +364,7 @@ Without asking, she reached across to Herta's pewter standish, uncorked the bott
 
 Directly beneath Elaina's round, cheerful note about the marrow-bone, in a small, upright, mercilessly even musician's hand—every downstroke the exact weight of a bar-line—she wrote:
 
-*12 Jan. Lamp lit. Three more up from the water. Nobody on the stone.*
+*12 Oct. Lamp lit. Three more up from the water. Nobody on the stone.*
 
 She waited ten seconds for the gall to dry so she wouldn't have to use Herta's blotter, stoppered the ink, and shut the book.
 
