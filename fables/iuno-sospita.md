@@ -8,9 +8,6 @@
 *…that Sospita of yours, whom you never see, not even in your dreams, except with her goatskin, her spear, her little shield and her turned-up shoes.*
 — Cicero, *De Natura Deorum* I.82
 
-*If we are victorious in one more battle, we shall be utterly ruined.*
-— Pyrrhus, after Asculum, in Plutarch
-
 ---
 
 ## I
@@ -813,5 +810,12 @@ She picked up the big apple with the dry leaf on the stem, bit a chunk out of it
 
 ---
 
-*From the day-book of the harbour infirmary, thirty years on.*
+*If we are victorious in one more battle, we shall be utterly ruined.*
+— Pyrrhus, after Asculum, in Plutarch
+
+
+---
+
+*From the day-book of the harbour infirmary, years on.*
 14th Nov., Tide-watch. — Taken out of the surf under the East Cliff by the crab-boats, a woman, unknown, entered as *Jane Doe*; left arm gone at the socket and the stump healed over in clear stone like bottle-glass. A lady in Temple blue has called twice at the wicket to ask if she has spoken, though the night-porter swears he never saw her pass the gate.
+
