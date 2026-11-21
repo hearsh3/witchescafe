@@ -114,13 +114,17 @@ Fan shook her head over her griddle, turning the six sesame cakes with a clack o
 
 Behind her on the bench, the woman with the shears took a sip of her soy milk, set the bowl on the wood between her knees, and spoke in the same level, unhurried voice she had used to order her breakfast.
 
-“I have come for the Arbiter,” she said.
+“I came to look at the Arbiter,” she said.
 
-“Have you,” the girl said.
+“Have you,” the girl said. “And?”
 
-“I will put both remedies before her on the table,” the woman said. “She may sever her ties to the household she travels with and keep the office whole. Or she may keep her household, lay the office down, and let the mark pass to another hand. I will name what each way costs to the person who will pay it, and she may choose.”
+“And I have stood at the bottom of the west lane and smelled her stove.” The woman turned the bowl a little between her palms. “I haven’t decided anything.”
 
-The girl in the dark coat bit the corner off her second sesame cake. “She seems quite attached to keeping both.”
+“That must sit badly with you.”
+
+“It does,” the woman said.
+
+The girl in the dark coat bit the corner off her second sesame cake. “She seems quite attached to all of it. The office and the stove both.”
 
 “A judge with a kitchen of her own has a divided hand,” the woman said. “One stove cannot warm a continent.”
 
@@ -132,7 +136,7 @@ The girl in the dark coat bit the corner off her second sesame cake. “She seem
 
 “When a bough grows heavy on one side, the first hard winter splits the trunk to the root,” the woman answered. “I cut the bough so the tree lasts.”
 
-“She tried your first remedy once,” the girl said softly. “Left a child on a doorstep and kept the office whole. The child grew up and did the same, alone, at nineteen. Yet here you are on a bench in the cold, with your book in your pocket.”
+“She tried your way once,” the girl said softly. “Left a child on a doorstep and kept the office whole. The child grew up and did the same, alone, at nineteen. Yet here you are on a bench in the cold, with your book in your pocket.”
 
 “Because the tree lasted,” the woman said. “An empty yard can be planted again in the spring. A split trunk is firewood.”
 
@@ -184,7 +188,15 @@ Fan snatched a dried lotus leaf from the string, folded two piping-hot sesame ca
 
 When the porter trotted off, the woman with the shears laid both hands flat on her knees.
 
-“I will go to her in daylight,” she said to the girl at the other end of the bench. “I will knock at the door and ask to sit at her table before I take a stool. I will lay both choices on the boards, and I will tell each person in that room to their face what their choice will take from them. I will not lay a hand on her household, and I will give her time to take counsel and to appeal.” She turned her head down the plank. “And you?”
+“That house runs on promises,” she said to the girl at the other end of the bench. “I would like to know whether they make them as vows or as prayers.”
+
+“Is there a difference, over supper?”
+
+“A vow binds the one who makes it. A prayer asks someone else to do the binding.”
+
+“A prayer can be answered by somebody you never asked,” the girl said. “Vows never surprise anyone.”
+
+“That is what they are for.” The woman turned her head down the plank. “I keep mine. What do you keep?”
 
 The girl in the dark coat looked past her toward the cart and raised one finger. “Auntie, could I have one more sesame cake? That dark brown one near the front.”
 
