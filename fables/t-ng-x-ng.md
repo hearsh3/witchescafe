@@ -8,17 +8,17 @@ Lupa sat astride an upturned cabbage crate beside the cart’s left wheel, the h
 
 On a lower crate beside her knee, Chisa sat with her black coat buttoned to the throat and her chin propped in her palm, her eyes half-shut against the stove-smoke as she listened to the ring of the edge.
 
-“There,” Chisa said.
+“<font color=coral>There,</font>” Chisa said.
 
 Lupa didn’t take another stroke. She lifted the cleaver off the grey slurry, wiped the flat of the iron clean on a twist of hemp rag, and touched the ball of her thumb lightly to the corner nearest the heel. Her ears came up an inch above her sheepskin collar.
 
-“Had a belly in the middle where somebody used it to crack marrow-bones,” Lupa said, standing up and kicking her crate out of the queue’s way. “Try and chop ribs with this now and I’ll know about it.”
+“<font color=indianred>Had a belly in the middle where somebody used it to crack marrow-bones,</font>” Lupa said, standing up and kicking her crate out of the queue’s way. “<font color=indianred>Try and chop ribs with this now and I’ll know about it.</font>”
 
 She didn’t hand the cleaver to Hsin, who was standing three feet from her elbow. She reached up over the dough-board and held the wooden handle out to Liang Ning on her crate behind the pots.
 
 Liang Ning wiped her wet hands on her twice-folded apron, took the cleaver by the haft, and squinted down the bright silver line of the bevel the way a joiner squints along a planed board. Then she laid it flat beside the lump of rolled wheat dough and pointed the handle toward the tall stool.
 
-“Wash first,” Liang Ning told Hsin. “Barrel’s cold today.”
+“<font color=peachpuff>Wash first,</font>” Liang Ning told Hsin. “<font color=peachpuff>Barrel’s cold today.</font>”
 
 Suoming came down the lane behind Hsin at her own pace, the iron ferrule of Nine Shadows clicking on the frost-stiff cobbles. She didn’t look at the cleaver. She turned the empty water bucket beside the cart wheel upside down, sat on it with her boots hanging clear of the mud, and set the copper tin by her left heel.
 
@@ -28,13 +28,13 @@ She had braced her wrist for the dull shove of yesterday’s iron. Instead the s
 
 Hsin’s ears twitched forward. She cut a second strand, and a third. Her hands still shook—anyone standing by the wheel could see the tremor in her knuckles—and a third of the way down every cut her wrist gave the same small sideways hitch, leaving a wave in the dough like a bend in a ditch. Still, the strands lying against the flour were no wider than her little finger.
 
-“Better,” Liang Ning said from the broth pot, not looking round. “Don’t stop to admire them. The lime carts are on the hill.”
+“<font color=peachpuff>Better,</font>” Liang Ning said from the broth pot, not looking round. “<font color=peachpuff>Don’t stop to admire them. The lime carts are on the hill.</font>”
 
-Lupa slung her oilstone into a canvas wrap, shoved it deep into the fleece pocket of her red coat, and reached down to pull Chisa up by the hand. “Save the side ribs out of the stock-pot if they’re meaty, kid,” Lupa told the back of Liang Ning’s apron. “We’ll come round at noon with our own bowls.”
+Lupa slung her oilstone into a canvas wrap, shoved it deep into the fleece pocket of her red coat, and reached down to pull Chisa up by the hand. “<font color=indianred>Save the side ribs out of the stock-pot if they’re meaty, kid,</font>” Lupa told the back of Liang Ning’s apron. “<font color=indianred>We’ll come round at noon with our own bowls.</font>”
 
-“Two coppers with meat,” Liang Ning said. “One without.”
+“<font color=peachpuff>Two coppers with meat,</font>” Liang Ning said. “<font color=peachpuff>One without.</font>”
 
-“Robbery,” Lupa said happily, and walked Chisa off up the lane toward the dry-goods arch.
+“<font color=indianred>Robbery,</font>” Lupa said happily, and walked Chisa off up the lane toward the dry-goods arch.
 
 Before their boots had cleared the fir stacks, four Mengzhou joiners with resin stuck to their leather aprons and three carters white to the eyebrows with slaked-lime dust had lined up along the cart’s shaft. Hsin kept her eyes on the front of the board where the blade met the flour. *Thck, thck, thck.* The cleaver bit clean into the pine every time. When she lifted a bundle of cut strands on the bamboo strainer and dropped them into the rolling water, only two of them stuck together at the ends.
 
@@ -48,7 +48,7 @@ Hsin rested the heel of the cleaver on the board and waited, her ears angled sli
 
 Gu looked at the dough between the notches, then at the slight wave in the middle of the strand, then at Hsin’s floury right elbow. He laid the raw noodle back on the corner of the board where he had found it.
 
-“Closer,” Gu said, and walked on up the hill toward the scaffolding.
+“<font color=lightsteelblue>Closer,</font>” Gu said, and walked on up the hill toward the scaffolding.
 
 Hsin let out a breath she hadn’t meant to hold and went back to the dough.
 
@@ -56,25 +56,25 @@ At the tail of the line, steel clinked softly against tin. Warden Liangyu had co
 
 When the carter moved off with his bowl, Liangyu stepped up to the plank and unknotted her sling, setting the six tin bowls in a row along the wood.
 
-“Six,” Liangyu said, looking at Liang Ning and nowhere else. “Broth heavy on the ginger if you’ve got it. The wind’s coming straight through the south cut onto the roof.”
+“<font color=wheat>Six,</font>” Liangyu said, looking at Liang Ning and nowhere else. “<font color=wheat>Broth heavy on the ginger if you’ve got it. The wind’s coming straight through the south cut onto the roof.</font>”
 
-“Ginger’s extra if you want the root fished out,” Liang Ning said, already reaching for the deep ladle.
+“<font color=peachpuff>Ginger’s extra if you want the root fished out,</font>” Liang Ning said, already reaching for the deep ladle.
 
-“Leave the root in the pot, then. They can smell it.” Liangyu rested one booted foot on the lower crossbar of the cart-frame while the girl began filling the tins. “Your brother come past with the barrow this morning?”
+“<font color=wheat>Leave the root in the pot, then. They can smell it.</font>” Liangyu rested one booted foot on the lower crossbar of the cart-frame while the girl began filling the tins. “<font color=wheat>Your brother come past with the barrow this morning?</font>”
 
-“Went down to the wharf at first bell for salt,” Liang Ning said, skimming fat off the corner of the boiler. “Said your men had the lanterns out on the lower steps till sunrise.”
+“<font color=peachpuff>Went down to the wharf at first bell for salt,</font>” Liang Ning said, skimming fat off the corner of the boiler. “<font color=peachpuff>Said your men had the lanterns out on the lower steps till sunrise.</font>”
 
-“Had to,” Liangyu said flatly. “Short four pairs of eyes on the wall roster since the columns moved down to the valley, and half the Mengzhou regulars don’t know which gulleys ice over first. Young Qingyan came up the gatehouse ladder before the frost was off the iron, asking me to put his name down for the third night watch.”
+“<font color=wheat>Had to,</font>” Liangyu said flatly. “<font color=wheat>Short four pairs of eyes on the wall roster since the columns moved down to the valley, and half the Mengzhou regulars don’t know which gulleys ice over first. Young Qingyan came up the gatehouse ladder before the frost was off the iron, asking me to put his name down for the third night watch.</font>”
 
 Hsin’s cleaver paused for the space of half a breath above the flour, then came down again.
 
-“He’s only fifteen,” Liang Ning said, frowning into the steam. “He’s younger than my brother.”
+“<font color=peachpuff>He’s only fifteen,</font>” Liang Ning said, frowning into the steam. “<font color=peachpuff>He’s younger than my brother.</font>”
 
-“Told him so,” Liangyu said. “Told him to go home and split kindling for his aunt until his shoulders fill out his coat. He stood on the top step with that broadsword of his sister’s banging against his shins and told me he doesn’t sleep past midnight anyway.”
+“<font color=wheat>Told him so,</font>” Liangyu said. “<font color=wheat>Told him to go home and split kindling for his aunt until his shoulders fill out his coat. He stood on the top step with that broadsword of his sister’s banging against his shins and told me he doesn’t sleep past midnight anyway.</font>”
 
 Two places back in the queue, a broad-backed carter in a sheepskin vest shifted his bowl from one hand to the other and spat a shred of tobacco into the mud.
 
-“No need to put boys on the parapet in the tenth month, Warden,” the carter said easily, jerking his chin up toward the high stone shoulder of the overlook above the roofs. “You’ve got rows of the iron ones standing up there on the long terrace doing nothing but holding frost on their hats. Wake a dozen of ’em up and stick ’em along the crenels. Iron doesn’t care what hour the wind blows.”
+“<font color=silver>No need to put boys on the parapet in the tenth month, Warden,</font>” the carter said easily, jerking his chin up toward the high stone shoulder of the overlook above the roofs. “<font color=silver>You’ve got rows of the iron ones standing up there on the long terrace doing nothing but holding frost on their hats. Wake a dozen of ’em up and stick ’em along the crenels. Iron doesn’t care what hour the wind blows.</font>”
 
 The rattle of spoons along the fir planks stopped.
 
@@ -82,11 +82,11 @@ The Mengzhou joiner sitting nearest the brazier lowered his chopsticks into his 
 
 Liangyu didn’t turn her head toward the carter, and she didn’t look across the dough-board at Hsin. She reached out, slid the first three brimming tins into her hemp sling, and drew the knot tight with one jerk of her fist.
 
-“Not on my wall,” Liangyu said.
+“<font color=wheat>Not on my wall,</font>” Liangyu said.
 
 Behind the carter, Tan Xiu had come down the third-terrace stair with an empty burlap sack tucked under her arm to fetch puffed rice off the south wagons. She stopped with one stout shoe on the bottom step, her small dark eyes going from the carter’s sheepskin vest to the white flour crusting Hsin’s wrists.
 
-“Might as well ask ’em to drink your soup for you while you’re at it,” Tan Xiu said to the lane at large, her voice like gravel shaken in an iron pan. “Up in the Vale the tea rows are growing wild shoots as thick as my thumb because the sap hasn’t gone down yet, and twenty of those brass scarecrows are standing in the ditches with rust on their fingers. Leave ’em there till February and the bushes’ll choke themselves before anybody gets a basket up the steps.”
+“<font color=lightsalmon>Might as well ask ’em to drink your soup for you while you’re at it,</font>” Tan Xiu said to the lane at large, her voice like gravel shaken in an iron pan. “<font color=lightsalmon>Up in the Vale the tea rows are growing wild shoots as thick as my thumb because the sap hasn’t gone down yet, and twenty of those brass scarecrows are standing in the ditches with rust on their fingers. Leave ’em there till February and the bushes’ll choke themselves before anybody gets a basket up the steps.</font>”
 
 Nobody answered her. Liangyu picked up the second half of her sling, dropped twelve coppers into Suoming’s tin with a heavy clink, and walked back up the slope toward the gatehouse without spilling a drop on her cloak.
 
@@ -98,9 +98,9 @@ Hsin looked down at the pine board. A dab of wet dough was stuck to the knuckle 
 
 She let the gold sink back into the fur until the dark tip of her ninth tail lay heavy and still across her boot-top, tucked her right elbow in against her ribs, and brought Lupa’s sharpened cleaver straight down through the sheet.
 
-“Four more behind the sack-woman,” Liang Ning said, knocking the side of the strainer against the pot rim. “And scrape the back corner, it’s drying out.”
+“<font color=peachpuff>Four more behind the sack-woman,</font>” Liang Ning said, knocking the side of the strainer against the pot rim. “<font color=peachpuff>And scrape the back corner, it’s drying out.</font>”
 
-“Yes,” Hsin said, and scraped it.
+“<font color=gold>Yes,</font>” Hsin said, and scraped it.
 
 By the time the sun had climbed high enough to turn the gorge mist from slate to dirty wool, the lime carts had creaked off toward the west ring and the joiners were back up the scaffolding ladders with their mallets. Liang Ning banked the charcoal under the second pot with wet ash, unpinned her folded apron, and went behind the fir stacks to tip the rinse-water down the culvert.
 
@@ -108,19 +108,19 @@ Hsin stayed on the too-tall stool with her heels hooked on the rung, scraping th
 
 By the cart wheel, Suoming tilted the tin into her good left palm, stacked the coppers into neat pillars of ten on the rim of her bucket, and set the tin down on the cobbles.
 
-“What do I do with them?” Hsin asked the board.
+“<font color=gold>What do I do with them?</font>” Hsin asked the board.
 
-Suoming didn’t look up from the coins. “The coppers are the girl’s.”
+Suoming didn’t look up from the coins. “<font color=plum>The coppers are the girl’s.</font>”
 
-“The iron ones.” Hsin laid the cleaver flat across the scraped wood and looked over at the upturned bucket. “The carter wants them on the wall. Liangyu doesn’t. The tea woman wants the bushes cut and hates the way they cut them. If I pull the thread, they all wake up the way they were. If I leave it alone, they rust in the road.”
+“<font color=gold>The iron ones.</font>” Hsin laid the cleaver flat across the scraped wood and looked over at the upturned bucket. “<font color=gold>The carter wants them on the wall. Liangyu doesn’t. The tea woman wants the bushes cut and hates the way they cut them. If I pull the thread, they all wake up the way they were. If I leave it alone, they rust in the road.</font>”
 
 Suoming stacked the last four coppers on top of the third pillar and rested her bandaged right forearm across her knee.
 
-“Ask the people who have to live next to them,” Suoming said.
+“<font color=plum>Ask the people who have to live next to them,</font>” Suoming said.
 
-Hsin’s ears tipped sideways. “Which people? The Warden or the carter?”
+Hsin’s ears tipped sideways. “<font color=gold>Which people? The Warden or the carter?</font>”
 
-“All of them.” Suoming stood up off the bucket, picked up Nine Shadows by the bamboo shaft, and set the three pillars of coin on the corner of the cart-bed where Liang Ning would see them. “Wipe your sleeves, Sentinel. You’ve got dough on your chin.”
+“<font color=plum>All of them.</font>” Suoming stood up off the bucket, picked up Nine Shadows by the bamboo shaft, and set the three pillars of coin on the corner of the cart-bed where Liang Ning would see them. “<font color=plum>Wipe your sleeves, Sentinel. You’ve got dough on your chin.</font>”
 
 ***
 
@@ -142,17 +142,17 @@ Lao Da was half a head taller than the newer castings, his bronze dark as old wa
 
 Hsin stood looking at the skewer with her ears tipped forward, close enough that her breath clouded the dull bronze of the chestplate.
 
-“They aren’t broken,” Hsin said quietly. “Not even the ones Muyu had.”
+“<font color=gold>They aren’t broken,</font>” Hsin said quietly. “<font color=gold>Not even the ones Muyu had.</font>”
 
-“Mm,” Suoming said.
+“<font color=plum>Mm,</font>” Suoming said.
 
-“They were all on my threads,” Hsin said, still watching the frosted haws. “Like the peach trees by the spring, and the tea rows up in the Vale. Two hundred years of holding the ends in my fingers so none of them would trip on a step or drop a beam. When I opened my hand in the garden yesterday, the rest of the strings went slack with it.” She lifted one hand out of her cuff and turned it palm-up in the cold air; her fingers had only the faintest tremor in them now. “If I pick the strings back up, I’m the one holding them again.”
+“<font color=gold>They were all on my threads,</font>” Hsin said, still watching the frosted haws. “<font color=gold>Like the peach trees by the spring, and the tea rows up in the Vale. Two hundred years of holding the ends in my fingers so none of them would trip on a step or drop a beam. When I opened my hand in the garden yesterday, the rest of the strings went slack with it.</font>” She lifted one hand out of her cuff and turned it palm-up in the cold air; her fingers had only the faintest tremor in them now. “<font color=gold>If I pick the strings back up, I’m the one holding them again.</font>”
 
-Suoming looked down the four silent rows toward the parapet. “They have voice-plates.”
+Suoming looked down the four silent rows toward the parapet. “<font color=plum>They have voice-plates.</font>”
 
-“In the chest,” Hsin agreed. “We used them in Jinzhou during the summer rains, when the gorge fog was too thick for my threads to reach the river line. One voice calls, one voice answers. Only—” Her ears dropped a fraction. “In Jinzhou there were three engineers and a roster. Up here there are rows of them, and the last time they moved, they had the dead in their ribs.”
+“<font color=gold>In the chest,</font>” Hsin agreed. “<font color=gold>We used them in Jinzhou during the summer rains, when the gorge fog was too thick for my threads to reach the river line. One voice calls, one voice answers. Only—</font>” Her ears dropped a fraction. “<font color=gold>In Jinzhou there were three engineers and a roster. Up here there are rows of them, and the last time they moved, they had the dead in their ribs.</font>”
 
-“Then some people will want them broken up,” Suoming said. “Let them say so.”
+“<font color=plum>Then some people will want them broken up,</font>” Suoming said. “<font color=plum>Let them say so.</font>”
 
 She turned toward the steep iron-banistered stair that dropped through the retaining wall to the lower cut. Halfway down the shaded flight, where the sun never reached the mortar and the cold sat like well-water between the stones, the breath caught low under Suoming’s left ribs.
 
@@ -162,7 +162,7 @@ Suoming planted her left boot flat on the broad tread, set the steel ferrule of 
 
 Suoming didn’t look up from the step. She began to hum, flat and low under her teeth, four plain notes of an old marching cadence with no tune left in it, pushing the breath past the catch in her chest until the staple let go and the cold air went down again.
 
-“Step’s iced on the left,” Suoming said, her voice even and raspy, and walked past Hsin down to the gravel.
+“<font color=plum>Step’s iced on the left,</font>” Suoming said, her voice even and raspy, and walked past Hsin down to the gravel.
 
 At the bottom of the cut lay the old freight yard, a long flagstone apron wedged directly against the sheer masonry foundation of the salt-house terrace above. Three high timber sheds with corrugated iron roofs stood open to the yard, and inside them, taking up nearly the whole height of the rafters, stood the heavy guardians that had come home from Jinzhou at the end of the summer rains: two hundred tonnes apiece of dark gray iron, sloped shield-wall, and twin resonance projectors, smelling of old river mud and cold grease.
 
@@ -170,39 +170,39 @@ Hsin stepped under the eaves of the first shed, looked up through the timber tru
 
 Hsin’s ears went straight up. She took two steps back into the yard to check the angle of the lane steps, then looked back at the shed roof, her mouth parting in a slow, delighted curve that showed the points of her teeth.
 
-“That’s the salt-house chimney,” Hsin said.
+“<font color=gold>That’s the salt-house chimney,</font>” Hsin said.
 
-“It is,” Suoming said.
+“<font color=plum>It is,</font>” Suoming said.
 
-“The kang brick runs along the south foundation wall.” Hsin’s nine tails swayed once behind her calves, thoroughly pleased. “Lupa has been frying pancakes and sleeping in her socks six feet above Lao Er’s head since the night the road opened.”
+“<font color=gold>The kang brick runs along the south foundation wall.</font>” Hsin’s nine tails swayed once behind her calves, thoroughly pleased. “<font color=gold>Lupa has been frying pancakes and sleeping in her socks six feet above Lao Er’s head since the night the road opened.</font>”
 
 From behind the huge, sloped iron buckler of the middle bay came a sharp metallic clatter as a brass oil-can hit the flagstones and rolled out into the light, leaking a dark ribbon of whale-oil across the stone.
 
 A young woman in greased canvas overalls scrambled down a four-rung wooden step-ladder behind San Jie’s left leg, snatched the rolling can up before it reached Hsin’s boots, and stood frozen with an oil-rag crushed in one fist and a smudge of black graphite across the bridge of her nose.
 
-“Lady—” Fang Qiu swallowed hard, looked from Hsin’s ears to Suoming’s plum coat, and backed half a step into the shadow of the great iron shin-guard. “Sentinel. I wasn’t—I haven’t opened the governor housing or touched the ignition pins, I swear it. I only—”
+“<font color=#88d891>Lady—</font>” Fang Qiu swallowed hard, looked from Hsin’s ears to Suoming’s plum coat, and backed half a step into the shadow of the great iron shin-guard. “<font color=#88d891>Sentinel. I wasn’t—I haven’t opened the governor housing or touched the ignition pins, I swear it. I only—</font>”
 
-“Fang Qiu,” Hsin said, her voice dropping its courtly tilt at once. “What are you doing?”
+“<font color=gold>Fang Qiu,</font>” Hsin said, her voice dropping its courtly tilt at once. “<font color=gold>What are you doing?</font>”
 
-Fang Qiu looked down at the dripping spout of the oil-can in her hands. “The gorge mist gets under the shed eaves when it rains, my Lady. If nobody turns the ankle trunnions once a week and puts oil in the cups, the bronze bushings pit before midwinter.” She glanced up at the massive gray bulk of San Jie looming twenty feet above her head, then back at the floor. “Nobody sent a chit down from the Sanctum after the trouble in the upper courts. So I’ve just been oiling them after breakfast and locking the padlock.”
+Fang Qiu looked down at the dripping spout of the oil-can in her hands. “<font color=#88d891>The gorge mist gets under the shed eaves when it rains, my Lady. If nobody turns the ankle trunnions once a week and puts oil in the cups, the bronze bushings pit before midwinter.</font>” She glanced up at the massive gray bulk of San Jie looming twenty feet above her head, then back at the floor. “<font color=#88d891>Nobody sent a chit down from the Sanctum after the trouble in the upper courts. So I’ve just been oiling them after breakfast and locking the padlock.</font>”
 
 Suoming walked past Hsin into the shed, her boots clicking on the swept flagstones, and stopped beside the massive lower rim of San Jie’s left shield.
 
 A jagged split eight inches long ran along the bottom corner weld where the thick iron plate met the bracing rib. The torn metal had been hammered roughly back into line on a field anvil months ago, and someone had smeared heavy yellow tallow over the gap to keep the rust out, though the seam itself still gaped wide enough to take a thumb.
 
-“That’s from the third day at the Jinzhou sluice,” Hsin said, coming up behind Fang Qiu’s shoulder. “When the water-wing pressed the centre.”
+“<font color=gold>That’s from the third day at the Jinzhou sluice,</font>” Hsin said, coming up behind Fang Qiu’s shoulder. “<font color=gold>When the water-wing pressed the centre.</font>”
 
-“Yes,” Fang Qiu said, losing half her shyness as she turned toward the shield. She reached out and touched the tallow-smeared crack with one grease-blackened knuckle. “He dropped the rim onto the granite apron so the shock wouldn’t shear the coupling behind me. I’ve had four rods of low-silver brazing spelter and a jar of borax sitting in the bench drawer since the eighth month, waiting for an inspection order from the Ministry or the Vale.” She stopped, catching her lip between her teeth. “I didn’t know if I was still allowed in the yard now that the clerks are on the second terrace.”
+“<font color=#88d891>Yes,</font>” Fang Qiu said, losing half her shyness as she turned toward the shield. She reached out and touched the tallow-smeared crack with one grease-blackened knuckle. “<font color=#88d891>He dropped the rim onto the granite apron so the shock wouldn’t shear the coupling behind me. I’ve had four rods of low-silver brazing spelter and a jar of borax sitting in the bench drawer since the eighth month, waiting for an inspection order from the Ministry or the Vale.</font>” She stopped, catching her lip between her teeth. “<font color=#88d891>I didn’t know if I was still allowed in the yard now that the clerks are on the second terrace.</font>”
 
-“Do you want to mend it?” Hsin asked plainly.
+“<font color=gold>Do you want to mend it?</font>” Hsin asked plainly.
 
-Fang Qiu blinked at her. “Of course I want to mend it. Leaving a load-seam open in frost is a disgrace.”
+Fang Qiu blinked at her. “<font color=#88d891>Of course I want to mend it. Leaving a load-seam open in frost is a disgrace.</font>”
 
-“Then it’s yours,” Hsin said. “Bring your forge-pot out after the afternoon carts clear the lane. I’ll come down and show you how the inner copper backing was laid when we cast it, so you don’t burn through the rib, and then you can close the seam yourself.”
+“<font color=gold>Then it’s yours,</font>” Hsin said. “<font color=gold>Bring your forge-pot out after the afternoon carts clear the lane. I’ll come down and show you how the inner copper backing was laid when we cast it, so you don’t burn through the rib, and then you can close the seam yourself.</font>”
 
-Fang Qiu’s fingers tightened on the oil-can handle until her knuckles went white. “Myself?”
+Fang Qiu’s fingers tightened on the oil-can handle until her knuckles went white. “<font color=#88d891>Myself?</font>”
 
-“You’re the one who climbed his ladder in the dark when the rain came down,” Hsin said. “I don’t see why a clerk on the second terrace should tell you when to oil his ankles.”
+“<font color=gold>You’re the one who climbed his ladder in the dark when the rain came down,</font>” Hsin said. “<font color=gold>I don’t see why a clerk on the second terrace should tell you when to oil his ankles.</font>”
 
 Beyond the third bay—where Lao Er stood with a faint, familiar smell of boiled lard and hot cylinder-oil still clinging to his brass exhaust louvers—the shed roof extended over a fourth stone berth at the far west end.
 
@@ -210,11 +210,11 @@ There was no machine in it. Only the two deep iron wheel-plates sunk into the fl
 
 Suoming looked at the swept stones, then at Fang Qiu’s overalls.
 
-“Old Seven’s still in Jinzhou,” Fang Qiu said quickly, almost defensively, before either of them could ask. “The dispatch riders said they’ve got it parked in the south recovery yard by the canal, and some carpenter’s boy brings models to show it after school. I know it isn’t on the Hold’s active roll anymore. Only if it comes back up the gorge road when the weather turns, you can’t bring a unit in off a sixty-mile march and park it in dirt.”
+“<font color=#88d891>Old Seven’s still in Jinzhou,</font>” Fang Qiu said quickly, almost defensively, before either of them could ask. “<font color=#88d891>The dispatch riders said they’ve got it parked in the south recovery yard by the canal, and some carpenter’s boy brings models to show it after school. I know it isn’t on the Hold’s active roll anymore. Only if it comes back up the gorge road when the weather turns, you can’t bring a unit in off a sixty-mile march and park it in dirt.</font>”
 
 Hsin looked at the empty wheel-plates for a long moment. Her ears stayed up, very still.
 
-“No,” Hsin said softly. “You can’t.”
+“<font color=gold>No,</font>” Hsin said softly. “<font color=gold>You can’t.</font>”
 
 They left Fang Qiu already dragging her portable charcoal forge-pot out from under the workbench and climbed the stone steps back to the rope-makers’ lane.
 
@@ -222,11 +222,11 @@ Master Shao’s print shop had its front casement propped open three inches on a
 
 When Hsin ducked her ears under the lintel, the boy nearly dropped a handful of lead into the *water*-radical box.
 
-“I need a sheet set,” Hsin said, stepping up to the ink-stained proof stone in the middle of the room. “Fifty copies by morning, wide margin, dated at the top, no seal.”
+“<font color=gold>I need a sheet set,</font>” Hsin said, stepping up to the ink-stained proof stone in the middle of the room. “<font color=gold>Fifty copies by morning, wide margin, dated at the top, no seal.</font>”
 
-The boy wiped his palms on his apron, snatched a clean iron composing-stick off the rack, and adjusted the brass slide with his thumb. “Yes, Lady—uh, Hsin. Have you got the copy?”
+The boy wiped his palms on his apron, snatched a clean iron composing-stick off the rack, and adjusted the brass slide with his thumb. “<font color=lightyellow>Yes, Lady—uh, Hsin. Have you got the copy?</font>”
 
-“I’ll say it to you,” Hsin said, lifting her chin a fraction as she folded her hands into her loose sleeves, the old magistrate-court cadence slipping into her voice out of sheer habit. “Write: *Whereas the brass guardians of the upper terrace and the iron workers of the Vale have stood still since the turning of the Waking Moon, and whereas a roof kept by one hand alone casts too dark a shadow across the threshold—*”
+“<font color=gold>I’ll say it to you,</font>” Hsin said, lifting her chin a fraction as she folded her hands into her loose sleeves, the old magistrate-court cadence slipping into her voice out of sheer habit. “<font color=gold>Write: *Whereas the brass guardians of the upper terrace and the iron workers of the Vale have stood still since the turning of the Waking Moon, and whereas a roof kept by one hand alone casts too dark a shadow across the threshold—*</font>”
 
 The apprentice stood with his thumb hovering over the wooden compartments, his mouth slightly open.
 
@@ -234,33 +234,33 @@ Suoming reached out with her good left hand, took the piece of flat soapstone ch
 
 Hsin stopped mid-breath. Her ears dropped flat to her head.
 
-“…Ow,” Hsin muttered to the rafters.
+“<font color=gold>…Ow,</font>” Hsin muttered to the rafters.
 
-“Start with the terrace,” Suoming said, leaning her hip against the edge of the paper-press. “The boy hasn’t got all afternoon.”
+“<font color=plum>Start with the terrace,</font>” Suoming said, leaning her hip against the edge of the paper-press. “<font color=plum>The boy hasn’t got all afternoon.</font>”
 
 Hsin let her hands fall out of her sleeves and looked straight at the wooden cases.
 
-“Twelfth day of the tenth month,” Hsin said, as plain as a storehouse grain-chit. “The Hold’s guardians are asleep. I will not wake any of them on my own word.”
+“<font color=gold>Twelfth day of the tenth month,</font>” Hsin said, as plain as a storehouse grain-chit. “<font color=gold>The Hold’s guardians are asleep. I will not wake any of them on my own word.</font>”
 
 The apprentice’s shoulders dropped two inches. His right hand began to dart across the slanted wooden trays with a steady, dry *click-click-clack*, picking the tiny blocks of cast gray lead from their boxes by touch, turning each one notch-side out between thumb and forefinger, and laying them upside down in a tight silver row against the iron flange of the stick in his left palm.
 
-“Any household that wants a guardian woken,” Hsin went on, watching his black fingertips move from box to box, “should come to the long terrace under the overlook on the first clear morning, say what work it is for, and say whose voice it will answer to.”
+“<font color=gold>Any household that wants a guardian woken,</font>” Hsin went on, watching his black fingertips move from box to box, “<font color=gold>should come to the long terrace under the overlook on the first clear morning, say what work it is for, and say whose voice it will answer to.</font>”
 
 *Click-click.* When the sentence ended, the boy reached into a lower trough of shorter, blank lead quads that carried no character on their faces at all and dropped three of them into the row to hold the gap open before sliding the thin brass rule in for the next line.
 
-“And if they don’t want them woken?” Suoming asked quietly from the press.
+“<font color=plum>And if they don’t want them woken?</font>” Suoming asked quietly from the press.
 
-Hsin didn’t hesitate. “Any household that wants them broken up for scrap and melted down should come to the terrace and say that too. Signed, Hsin.”
+Hsin didn’t hesitate. “<font color=gold>Any household that wants them broken up for scrap and melted down should come to the terrace and say that too. Signed, Hsin.</font>”
 
 The boy filled out the end of the last line with four broad blank spacers until the lead sat snug and immovable against the iron screw, lifted the finished block of metal onto the flat stone galley, and wedged it tight inside an iron frame with two oak quoins. He rolled a dab of thick black pine-soot ink across the raised faces, laid a damp sheet of coarse gray proof-paper over the metal, and ran the heavy leather-wrapped cylinder once across the back.
 
 When he peeled the sheet up by two corners, the characters stood out black, square, and damp, smelling strongly of soot and oil.
 
-“Fifty copies takes half an hour once the press is inked,” the boy said, holding the wet sheet out by the dry margin. “Shall I strike them now while the light holds?”
+“<font color=lightyellow>Fifty copies takes half an hour once the press is inked,</font>” the boy said, holding the wet sheet out by the dry margin. “<font color=lightyellow>Shall I strike them now while the light holds?</font>”
 
 Hsin took the paper carefully between her fingertips so she wouldn’t smudge the fresh ink.
 
-“Don’t unlock the frame,” Hsin said. “Leave it on the stone until after the evening bell. I promised someone I’d bring the page to her door before anything went up on the wall.”
+“<font color=gold>Don’t unlock the frame,</font>” Hsin said. “<font color=gold>Leave it on the stone until after the evening bell. I promised someone I’d bring the page to her door before anything went up on the wall.</font>”
 
 ***
 
@@ -268,9 +268,9 @@ Mei had just fished the last slice of braised winter turnip out of the common di
 
 The iron latch clicked shut behind her.
 
-Down at the stove end of the table, Lupa paused with a half-chewed piece of flatbread in her cheek and squinted at the closed timber panel. “Did she forget how the privy path goes, or is she sulking because the turnip ran out?”
+Down at the stove end of the table, Lupa paused with a half-chewed piece of flatbread in her cheek and squinted at the closed timber panel. “<font color=indianred>Did she forget how the privy path goes, or is she sulking because the turnip ran out?</font>”
 
-“She ate four pieces,” Chisa said from her stool.
+“<font color=coral>She ate four pieces,</font>” Chisa said from her stool.
 
 Before Mei could swing her boots off the brick to check the shutter, someone knocked twice on the outside of the door—two polite, even raps of a knuckle against the oak.
 
@@ -280,97 +280,97 @@ Mei slid off the warm quilt, padded across the floorboards in her thick wool soc
 
 Hsin stood squarely in the middle of the frosted stone step with her nine golden tails curled neat and tight behind her calves against the cold lane wind, her ears ducked an inch below the lintel, and a damp sheet of coarse gray paper held out flat in both hands.
 
-“You said to bring the ledger to your door before anything was signed,” Hsin said solemnly. “The ledger isn’t done yet, so I brought the notice instead. And this is the only door you’ve got.”
+“<font color=gold>You said to bring the ledger to your door before anything was signed,</font>” Hsin said solemnly. “<font color=gold>The ledger isn’t done yet, so I brought the notice instead. And this is the only door you’ve got.</font>”
 
 Mei stared at her for one second—at the Sentinel of Mengzhou standing on the doorstep of the room where her own blanket was still rolled up against the bolster three feet away—and then laughed so hard she had to fold one forearm across her middle and sit right down on the wooden threshold sill.
 
-“Ow, ow, stop making me laugh when I’m full,” Mei wheezed, pressing the heel of her palm against the tight pull of her scar through her tunic while holding her other hand out for the paper. “Come inside, you’re letting all of Lupa’s heat out into the street!”
+“<font color=moccasin>Ow, ow, stop making me laugh when I’m full,</font>” Mei wheezed, pressing the heel of her palm against the tight pull of her scar through her tunic while holding her other hand out for the paper. “<font color=moccasin>Come inside, you’re letting all of Lupa’s heat out into the street!</font>”
 
-“A doorstep is outside,” Hsin pointed out, though her ears came forward with obvious satisfaction. Instead of stepping over the sill, she crouched down on the flagstone right beside Mei’s knees, folding her robes over her shins so her fox ears sat level with Mei’s temple, and tilted the damp proof sheet toward the yellow lamplight spilling through the open doorway.
+“<font color=gold>A doorstep is outside,</font>” Hsin pointed out, though her ears came forward with obvious satisfaction. Instead of stepping over the sill, she crouched down on the flagstone right beside Mei’s knees, folding her robes over her shins so her fox ears sat level with Mei’s temple, and tilted the damp proof sheet toward the yellow lamplight spilling through the open doorway.
 
 Behind Mei, the floorboards creaked softly and a faint, clear chime sounded as Iuno came up to the threshold, resting her good right hand on the crown of Mei’s head and leaning in over her shoulder to read the black square characters.
 
 Mei read the short block of type through once, her lips moving silently on the words about waking the guardians and melting them down.
 
-“You’re really letting them vote to melt them into pots?” Mei asked, turning her head to look at Hsin’s profile an inch away.
+“<font color=moccasin>You’re really letting them vote to melt them into pots?</font>” Mei asked, turning her head to look at Hsin’s profile an inch away.
 
-“Not a vote,” Hsin said. “If Butcher Sun and the tanner want ten of them broken up for anvil-iron, we’ll break ten of them up. They’re the ones who had to bar their shutters when Muyu turned the array loose.”
+“<font color=gold>Not a vote,</font>” Hsin said. “<font color=gold>If Butcher Sun and the tanner want ten of them broken up for anvil-iron, we’ll break ten of them up. They’re the ones who had to bar their shutters when Muyu turned the array loose.</font>”
 
-Over Mei’s head, Iuno let out a slow, measured breath through her nose. “If you print the third sentence as it stands, Sentinel, Shen Qiu’s clerks or the lime-syndics on the second terrace will send one foreman up the hill at dawn to claim fifteen guardians for a single counting-house, and call the foreman a household.”
+Over Mei’s head, Iuno let out a slow, measured breath through her nose. “<font color=royalblue>If you print the third sentence as it stands, Sentinel, Shen Qiu’s clerks or the lime-syndics on the second terrace will send one foreman up the hill at dawn to claim fifteen guardians for a single counting-house, and call the foreman a household.</font>”
 
-Hsin’s ears flattened a fraction. She looked down at the third line of damp ink. “…They would.”
+Hsin’s ears flattened a fraction. She looked down at the third line of damp ink. “<font color=gold>…They would.</font>”
 
-“Put *one machine to one living voice, present in person* after the comma,” Iuno said, drawing her small brass-capped pencil from her breast pocket and handing it down over Mei’s shoulder. “A syndic won’t stand in the frost for two hours to hold a rope himself, and a Ministry clerk isn’t allowed to put his personal voice on municipal property without a counter-seal from the capital.”
+“<font color=royalblue>Put *one machine to one living voice, present in person* after the comma,</font>” Iuno said, drawing her small brass-capped pencil from her breast pocket and handing it down over Mei’s shoulder. “<font color=royalblue>A syndic won’t stand in the frost for two hours to hold a rope himself, and a Ministry clerk isn’t allowed to put his personal voice on municipal property without a counter-seal from the capital.</font>”
 
 Hsin took the pencil, braced the damp sheet against the flat of her knee, and wrote the seven characters neatly up the left margin in charcoal.
 
-Mei tapped her knuckle against the middle of the page. “What happens to the ones nobody asks for? And the ones nobody wants melted?”
+Mei tapped her knuckle against the middle of the page. “<font color=moccasin>What happens to the ones nobody asks for? And the ones nobody wants melted?</font>”
 
-“They stay asleep,” Hsin said.
+“<font color=gold>They stay asleep,</font>” Hsin said.
 
-“Can I have one?” Mei asked immediately, her eyes brightening. “Just a little one! Not for fighting, just to follow Lupa around with the heavy stew-pot so she stops threatening to make us haul water.”
+“<font color=moccasin>Can I have one?</font>” Mei asked immediately, her eyes brightening. “<font color=moccasin>Just a little one! Not for fighting, just to follow Lupa around with the heavy stew-pot so she stops threatening to make us haul water.</font>”
 
-“No,” Hsin and Iuno said at the exact same instant.
+“<font color=gold>No,</font>” Hsin and Iuno said at the exact same instant.
 
-“Spoilsports,” Mei muttered. She looked back down at the coarse gray paper, her thumb tracing the blank lead space between the lines, and the teasing dropped out of her voice. “If some of them just stay asleep… can they sleep somewhere out of the wind? Up on that long terrace the frost gets right into their neck-joints, and they look like somebody forgot them after the parade.”
+“<font color=moccasin>Spoilsports,</font>” Mei muttered. She looked back down at the coarse gray paper, her thumb tracing the blank lead space between the lines, and the teasing dropped out of her voice. “<font color=moccasin>If some of them just stay asleep… can they sleep somewhere out of the wind? Up on that long terrace the frost gets right into their neck-joints, and they look like somebody forgot them after the parade.</font>”
 
 Hsin stopped with Iuno’s pencil between her fingers. She looked sideways at Mei—not at the Arbiter’s golden eyes, just at the wool sock hanging over the sill and the smudge of turnip gravy on her thumb—and her throat worked once before she answered.
 
-“There’s the old wagon-bay behind the west storehouse,” Hsin said quietly. “The roof’s tight, and it’s dry. If nobody claims the ones in the back row tomorrow, we can walk them under the eaves before the snow comes.”
+“<font color=gold>There’s the old wagon-bay behind the west storehouse,</font>” Hsin said quietly. “<font color=gold>The roof’s tight, and it’s dry. If nobody claims the ones in the back row tomorrow, we can walk them under the eaves before the snow comes.</font>”
 
-“Good,” Mei said. She handed the damp sheet back into Hsin’s palms without reaching for the pencil or making a mark on it. “It’s a good notice, Hsin. Also, you wrote the wrong character for *shed* in the second line. That one’s the *shed* for moulting feathers, not a roof.”
+“<font color=moccasin>Good,</font>” Mei said. She handed the damp sheet back into Hsin’s palms without reaching for the pencil or making a mark on it. “<font color=moccasin>It’s a good notice, Hsin. Also, you wrote the wrong character for *shed* in the second line. That one’s the *shed* for moulting feathers, not a roof.</font>”
 
 Hsin jerked the paper six inches from her nose and stared at the fourth column. Her ears dropped straight sideways.
 
-“…Ow,” Hsin whispered. “The boy didn’t even tell me. He just set it.”
+“<font color=gold>…Ow,</font>” Hsin whispered. “<font color=gold>The boy didn’t even tell me. He just set it.</font>”
 
 From the end of the kang five paces inside the door, where she had been sitting cross-legged with her chin propped on the bolster listening to every word, Amy lifted her head.
 
-“Hey, Hsin,” Amy said, her voice overly casual as she twirled her tin fox-whistle round one finger by its red string. “When you key their voice-plates tomorrow morning… do you have to open the front chest-housing to reach the resonance spindle?”
+“<font color=mistyrose>Hey, Hsin,</font>” Amy said, her voice overly casual as she twirled her tin fox-whistle round one finger by its red string. “<font color=mistyrose>When you key their voice-plates tomorrow morning… do you have to open the front chest-housing to reach the resonance spindle?</font>”
 
-Hsin looked past Mei’s shoulder into the warm room. “Yes.”
+Hsin looked past Mei’s shoulder into the warm room. “<font color=gold>Yes.</font>”
 
-“Can I look inside one?”
+“<font color=mistyrose>Can I look inside one?</font>”
 
-“No,” Hsin said, flat and final.
+“<font color=gold>No,</font>” Hsin said, flat and final.
 
-Amy didn’t even blink; she had clearly priced that refusal in five minutes ago. “Okay, what if I don’t bring a single tool, keep both hands on an oil-lamp so you can see the bolts in the shadow, and stand two feet back from the flange?”
+Amy didn’t even blink; she had clearly priced that refusal in five minutes ago. “<font color=mistyrose>Okay, what if I don’t bring a single tool, keep both hands on an oil-lamp so you can see the bolts in the shadow, and stand two feet back from the flange?</font>”
 
 Hsin looked at her for three long breaths. Over by the chimney, Ruoyun lowered the stocking she was turning and watched; on the grain-chest, Buling paused mid-chew on a dried plum.
 
-“Your hands stay on the lamp,” Hsin said at last. “If I see a screwdriver in your sleeve, I’ll turn you around and point you at the goose.”
+“<font color=gold>Your hands stay on the lamp,</font>” Hsin said at last. “<font color=gold>If I see a screwdriver in your sleeve, I’ll turn you around and point you at the goose.</font>”
 
-“Deal!” Amy said, pumping one fist into the quilt.
+“<font color=mistyrose>Deal!</font>” Amy said, pumping one fist into the quilt.
 
-Hsin stood up from the step, brushing the frost off her hem, and looked past the doorway toward the brick stove where Lupa was scraping the iron griddle with a twist of straw. “Oh, and if you hear iron settling under the floorboards tonight, don’t get up with your spear. I went down to the old freight sheds under the cut this afternoon. San Jie and Lao Er are parked directly underneath your stove.”
+Hsin stood up from the step, brushing the frost off her hem, and looked past the doorway toward the brick stove where Lupa was scraping the iron griddle with a twist of straw. “<font color=gold>Oh, and if you hear iron settling under the floorboards tonight, don’t get up with your spear. I went down to the old freight sheds under the cut this afternoon. San Jie and Lao Er are parked directly underneath your stove.</font>”
 
 Lupa’s hand stopped dead on the griddle.
 
-“The what?” Lupa said.
+“<font color=indianred>The what?</font>” Lupa said.
 
-“The heavy units from the Jinzhou line,” Hsin said pleasantly, her ears coming right back up. “Two hundred tonnes each. The shed roof-beams butt right into the stone arch under your kang. Fang Qiu is brazing San Jie’s shield-rim down there after breakfast, so the floor might get a little warmer by noon.”
+“<font color=gold>The heavy units from the Jinzhou line,</font>” Hsin said pleasantly, her ears coming right back up. “<font color=gold>Two hundred tonnes each. The shed roof-beams butt right into the stone arch under your kang. Fang Qiu is brazing San Jie’s shield-rim down there after breakfast, so the floor might get a little warmer by noon.</font>”
 
-Lupa stared down at the worn pine boards between her boots as if they had just grown teeth, then swung round to glare at the doorway. “You’re telling me I’ve been cooking over six hundred tonnes of clockwork artillery for three weeks and nobody mentioned it?!”
+Lupa stared down at the worn pine boards between her boots as if they had just grown teeth, then swung round to glare at the doorway. “<font color=indianred>You’re telling me I’ve been cooking over six hundred tonnes of clockwork artillery for three weeks and nobody mentioned it?!</font>”
 
-“You didn’t ask what was in the basement,” Buling called cheerfully from the grain-chest. “Good feng shui lah, very solid foundation!”
+“<font color=palegreen>You didn’t ask what was in the basement,</font>” Buling called cheerfully from the grain-chest. “<font color=palegreen>Good feng shui lah, very solid foundation!</font>”
 
-“It’s a bloody barracks under my kitchen!”
+“<font color=indianred>It’s a bloody barracks under my kitchen!</font>”
 
 Before Hsin turned down the step, she looked across the kang to where Yangyang sat tucked against the wall with a fresh cup of barley tea in her hands.
 
-“Miss Xuanling,” Hsin said.
+“<font color=gold>Miss Xuanling,</font>” Hsin said.
 
-Yangyang looked up over the rim of her cup. “Yes?”
+Yangyang looked up over the rim of her cup. “<font color=paleturquoise>Yes?</font>”
 
-“When you and your sister ride back to Jinzhou for the winter,” Hsin said, keeping her voice level under Lupa’s grumbling at the stove, “the fourth unit from that shed—Old Seven—is sitting in the recovery yard by the south canal wharf. It has a small inspection shutter on the lower left side of the breastplate, low enough to reach from the ground without a ladder.”
+“<font color=gold>When you and your sister ride back to Jinzhou for the winter,</font>” Hsin said, keeping her voice level under Lupa’s grumbling at the stove, “<font color=gold>the fourth unit from that shed—Old Seven—is sitting in the recovery yard by the south canal wharf. It has a small inspection shutter on the lower left side of the breastplate, low enough to reach from the ground without a ladder.</font>”
 
-Yangyang set her teacup down on the brick ledge and reached into her canvas pack for her patrol log. “I know the yard. Beside the timber-boom.”
+Yangyang set her teacup down on the brick ledge and reached into her canvas pack for her patrol log. “<font color=paleturquoise>I know the yard. Beside the timber-boom.</font>”
 
-“It speaks in the voice of a woman who once served its post, and it chose to stay behind when the column marched,” Hsin said. “Will you walk over before the canal freezes, open the small shutter, and tell it that Fang Qiu has kept its fourth bay swept clean in the Hold?” She paused on the cold stone, one hand on the doorframe. “Ask it whether it wants to walk home when the spring ferries start, or stay where it is with the boy and his bridge. Ask it. Don’t tell it.”
+“<font color=gold>It speaks in the voice of a woman who once served its post, and it chose to stay behind when the column marched,</font>” Hsin said. “<font color=gold>Will you walk over before the canal freezes, open the small shutter, and tell it that Fang Qiu has kept its fourth bay swept clean in the Hold?</font>” She paused on the cold stone, one hand on the doorframe. “<font color=gold>Ask it whether it wants to walk home when the spring ferries start, or stay where it is with the boy and his bridge. Ask it. Don’t tell it.</font>”
 
 Yangyang opened her log to the blank leaf at the back, uncapped her brass travelling-brush, and wrote two neat columns down the margin without asking Hsin to repeat a word.
 
-“I’ll ask it the week we get in,” Yangyang said, blowing once on the ink before closing the cover. “And I’ll send word up on the post-cart what it says.”
+“<font color=paleturquoise>I’ll ask it the week we get in,</font>” Yangyang said, blowing once on the ink before closing the cover. “<font color=paleturquoise>And I’ll send word up on the post-cart what it says.</font>”
 
 Hsin nodded once, tucked the smudged proof sheet into her loose right cuff, and stepped off the threshold into the dark lane while Mei pulled the door shut against the draught.
 
@@ -392,17 +392,17 @@ They didn’t come in a festival crowd; they came in twos and threes, their brea
 
 Hsin didn’t stand on the coping wall or the watch-bell plinth. She sat on an upturned pine box behind a narrow carpenter’s trestle three paces from the rope, a loose sheet of Master Shao’s gray proof-paper weighted under the ink-stone and a heavy double-ended iron spanner lying beside the ink-stone.
 
-“Right,” Hsin said at an ordinary speaking volume, her ears upright in the cold sun and her breath steaming like everyone else’s. “One household at a time. Say your name, and say what you want done with them.”
+“<font color=gold>Right,</font>” Hsin said at an ordinary speaking volume, her ears upright in the cold sun and her breath steaming like everyone else’s. “<font color=gold>One household at a time. Say your name, and say what you want done with them.</font>”
 
 For five seconds nobody moved except the joiner’s daughter, who kicked her father’s heel. Before the joiner could open his mouth, a broad-shouldered man in a bark-stained leather apron pushed to the front of the rope, planting both scarred fists on the hemp. Amy recognised him from the well queue: the tanner from the lower creek.
 
-“Zhou Tie,” the tanner said loudly, his jaw set hard as he glared past Hsin’s shoulder at the frost-white bronze figures standing in their four silent ranks. “Two houses at the bottom of the tanyard lane, mine and my brother’s. When the fog came down from the upper courts, three of those things came through my drying-shed wall with pikes in their hands. My youngest boy still wakes up screaming whenever a mule-cart drops a tailboard in the alley.” He pointed a thick finger straight at the front rank. “Take sledgehammers to the lot of ’em, break the bronze down in the lime-kilns, and cast kettle-bottoms and coulters out of the scrap. That’s what my house says.”
+“<font color=salmon>Zhou Tie,</font>” the tanner said loudly, his jaw set hard as he glared past Hsin’s shoulder at the frost-white bronze figures standing in their four silent ranks. “<font color=salmon>Two houses at the bottom of the tanyard lane, mine and my brother’s. When the fog came down from the upper courts, three of those things came through my drying-shed wall with pikes in their hands. My youngest boy still wakes up screaming whenever a mule-cart drops a tailboard in the alley.</font>” He pointed a thick finger straight at the front rank. “<font color=salmon>Take sledgehammers to the lot of ’em, break the bronze down in the lime-kilns, and cast kettle-bottoms and coulters out of the scrap. That’s what my house says.</font>”
 
 Along the rope, three or four carters muttered under their breath; further down, a woman in a dark hood nodded once, hard.
 
 Hsin didn’t argue, and she didn’t look back at the guardians. She dipped her brush into the slate well, wrote two steady columns down the right-hand edge of the gray sheet, and blew the frost-damp off the ink.
 
-“Zhou Tie and Zhou Lin, lower tanyard,” Hsin read back plainly. “Put down for breaking up and melting. Two households.”
+“<font color=gold>Zhou Tie and Zhou Lin, lower tanyard,</font>” Hsin read back plainly. “<font color=gold>Put down for breaking up and melting. Two households.</font>”
 
 The tanner stared at her for a second, clearly braced for a riddle or a clerk’s excuse about municipal property. Finding none, he spat once into the gravel behind his heel, stepped back from the rope, and stayed against the wall with his arms folded to watch.
 
@@ -412,29 +412,29 @@ The older woman didn’t look at Hsin. She looked past the trestle down the firs
 
 Hsin let her hand come down until the brush-tip rested on the wood, and waited until the footsteps died away on the stair.
 
-Beside the stanchion, the eight-year-old girl in the oversized jacket lost patience and shoved her father’s knee with both hands. “Go on, Ba! You said!”
+Beside the stanchion, the eight-year-old girl in the oversized jacket lost patience and shoved her father’s knee with both hands. “<font color=lightpink>Go on, Ba! You said!</font>”
 
-The joiner stumbled half a step against the rope, went red to the tips of his ears, and snatched his felt cap off his head. “Ma Shun, timber-gang, lodging over the cooper’s shed,” he got out in a rush. “We’ve got fourteen fir roof-beams still sitting on the carts below the Sanctum stair, and the wind in the gap swings the sheerlegs every time we haul past the eaves. If one of the tall ones can work the windlass rope from the ground and hold the timber steady in the sling while we drive the pegs, nobody has to straddle the ice on the ridge-pole.”
+The joiner stumbled half a step against the rope, went red to the tips of his ears, and snatched his felt cap off his head. “<font color=powderblue>Ma Shun, timber-gang, lodging over the cooper’s shed,</font>” he got out in a rush. “<font color=powderblue>We’ve got fourteen fir roof-beams still sitting on the carts below the Sanctum stair, and the wind in the gap swings the sheerlegs every time we haul past the eaves. If one of the tall ones can work the windlass rope from the ground and hold the timber steady in the sling while we drive the pegs, nobody has to straddle the ice on the ridge-pole.</font>”
 
-“One unit for the sheerlegs,” Hsin said, writing it down. “Whose voice?”
+“<font color=gold>One unit for the sheerlegs,</font>” Hsin said, writing it down. “<font color=gold>Whose voice?</font>”
 
-Ma Shun opened his mouth, glanced down at the small bundled figure glaring up at his elbow, and cleared his throat. “Mine. And my girl Ma Dou’s, if it’ll take two, so she stops climbing the cart-wheel to yell at me at noon.”
+Ma Shun opened his mouth, glanced down at the small bundled figure glaring up at his elbow, and cleared his throat. “<font color=powderblue>Mine. And my girl Ma Dou’s, if it’ll take two, so she stops climbing the cart-wheel to yell at me at noon.</font>”
 
-“It’ll take two if you say them together,” Hsin said.
+“<font color=gold>It’ll take two if you say them together,</font>” Hsin said.
 
-That broke the ice along the rope. The old widow from the top lane stepped up and tapped her empty cedar buckets together: “Mother Sun, top of the forty-eight stairs. My knees are seventy-one years old and the well-steps freeze every night from now till the second month. I want one that knows how to carry two buckets up to my water-butt at dawn without smashing the lid.”
+That broke the ice along the rope. The old widow from the top lane stepped up and tapped her empty cedar buckets together: “<font color=thistle>Mother Sun, top of the forty-eight stairs. My knees are seventy-one years old and the well-steps freeze every night from now till the second month. I want one that knows how to carry two buckets up to my water-butt at dawn without smashing the lid.</font>”
 
 Before Hsin had finished writing *water-butt*, Tan Xiu shouldered two lime-burners aside and planted her bent wooden tea-mallet on the edge of the trestle.
 
-“Tan Xiu, third terrace,” the old woman barked. “And eleven households off the steep lanes behind me. We’re going up into the Vale after noon to prune the tea rows before the winter sap drops. We want four of the field ones woken up to carry the heavy willow baskets up and down the rock steps so the men don’t rupture themselves on the grade. And you tell ’em plain that they’re only mules for the baskets—if one of ’em puts an iron finger near a tea branch, I’ll take this mallet to its kneecaps.”
+“<font color=lightsalmon>Tan Xiu, third terrace,</font>” the old woman barked. “<font color=lightsalmon>And eleven households off the steep lanes behind me. We’re going up into the Vale after noon to prune the tea rows before the winter sap drops. We want four of the field ones woken up to carry the heavy willow baskets up and down the rock steps so the men don’t rupture themselves on the grade. And you tell ’em plain that they’re only mules for the baskets—if one of ’em puts an iron finger near a tea branch, I’ll take this mallet to its kneecaps.</font>”
 
-Behind her, Old Chen stepped out of the Vale group with his hands tucked into his mason’s sleeves and his nephew chewing behind his shoulder. “One of the broad-shouldered ones for the south slope above the cistern, Sentinel. The sod’s matted three feet deep where the wheat went wild, and we want the stones turned out before the ground freezes hard.”
+Behind her, Old Chen stepped out of the Vale group with his hands tucked into his mason’s sleeves and his nephew chewing behind his shoulder. “<font color=burlywood>One of the broad-shouldered ones for the south slope above the cistern, Sentinel. The sod’s matted three feet deep where the wheat went wild, and we want the stones turned out before the ground freezes hard.</font>”
 
 A wheezing lime-burner with white dust in his beard asked for one to haul coal-baskets off the river barges so his split shin-bone would last until spring; the bath-house stoker asked for one to turn the great brass water-pump handle during the evening rush.
 
 When the seventh name was dry on the page, Hsin laid her brush down, picked up the heavy iron spanner, and looked back at Amy.
 
-“Lamp,” Hsin said.
+“<font color=gold>Lamp,</font>” Hsin said.
 
 Amy stepped off the coping wall, flicked the brass shutter back on the oil-lantern she’d been warming under her cloak, and followed Hsin down the front rank.
 
@@ -444,7 +444,7 @@ Her hands were shaking again. Not badly, not like the morning at the well when s
 
 She lifted the heavy bronze hatch open on its side-pins.
 
-“Hold it left,” Hsin told Amy.
+“<font color=gold>Hold it left,</font>” Hsin told Amy.
 
 Amy stepped in to the two-foot mark, braced her elbow against her ribs, and held the brass lamp high so the yellow beam fell straight into the open chest cavity.
 
@@ -454,15 +454,15 @@ One of Hsin’s golden ears pivoted straight at Amy’s nose.
 
 Amy’s chin snapped back two inches. She glued her gaze devoutly to Hsin’s raw, chapped knuckles where they held the tuning-pin, and kept the lamp rock-steady.
 
-“Ma Shun,” Hsin called over her shoulder. “And the small one. Come here.”
+“<font color=gold>Ma Shun,</font>” Hsin called over her shoulder. “<font color=gold>And the small one. Come here.</font>”
 
 The joiner ducked under the hemp rope, holding his daughter’s mittened hand. He stopped a pace from the guardian’s frost-rimmed chest, swallowing hard as he looked up at the blank iron visor towering two heads above his cap.
 
-“Speak right into the silver plate,” Hsin said, holding the brass governor-catch open against the spring with the nose of her spanner. “Plain and loud, the way you’d call down from the roof.”
+“<font color=gold>Speak right into the silver plate,</font>” Hsin said, holding the brass governor-catch open against the spring with the nose of her spanner. “<font color=gold>Plain and loud, the way you’d call down from the roof.</font>”
 
-Ma Shun took a breath. “Ma Shun, Mengzhou joiner.”
+Ma Shun took a breath. “<font color=powderblue>Ma Shun, Mengzhou joiner.</font>”
 
-“And Ma Dou!” his daughter piped right on top of his last word, rising on her tiptoes to shout straight into the chest. “For the ropes!”
+“<font color=lightpink>And Ma Dou!</font>” his daughter piped right on top of his last word, rising on her tiptoes to shout straight into the chest. “<font color=lightpink>For the ropes!</font>”
 
 Hsin let the catch drop home. *Ting.*
 
@@ -470,13 +470,13 @@ Deep inside the bronze ribcage, the three nested rings spun a quarter-turn and l
 
 Ma Dou didn’t flinch; she grinned from ear to ear, revealing a gap where a side tooth had gone, and waved her mitten at the faceplate.
 
-“Close the hatch when you’re done with him at dusk,” Hsin told the joiner, bolting the bronze cover shut again. “If the sling jams, tell him to stop before you climb the ladder.”
+“<font color=gold>Close the hatch when you’re done with him at dusk,</font>” Hsin told the joiner, bolting the bronze cover shut again. “<font color=gold>If the sling jams, tell him to stop before you climb the ladder.</font>”
 
 As the guardian took one heavy, measured step out of the rank and fell in behind the joiner’s heels, two pairs of boots crunched across the gravel from the Sanctum stair.
 
 Gu arrived first with his slate under his arm, followed by Fang Qiu carrying a leather tool-roll and a long-handled box-spanner still warm from the lower sheds. Gu didn’t even say good morning; he stepped straight up to the guardian Hsin had just bolted, ran his fingernail along the lower-left corner of the chest-hatch, and clicked his tongue.
 
-“The bottom flange is proud by the thickness of a thumbnail, Sentinel,” Gu said, making a crisp mark on his slate. “If sleet gets behind that gasket, the voice-plate will rust before the twelfth month. Give me the spanner.”
+“<font color=lightsteelblue>The bottom flange is proud by the thickness of a thumbnail, Sentinel,</font>” Gu said, making a crisp mark on his slate. “<font color=lightsteelblue>If sleet gets behind that gasket, the voice-plate will rust before the twelfth month. Give me the spanner.</font>”
 
 Hsin handed it over without a word, her ears dipping an inch, while Fang Qiu unrolled her canvas kit beside the third guardian in the line and had its four bolts out in twenty seconds flat, her practiced wrists spinning the box-spanner without a single slip.
 
@@ -486,7 +486,7 @@ Even with Fang Qiu working the alternate units, two hundred years of frost and t
 
 Gu finished checking Fang Qiu’s gasket on the fifth unit, pulled his brass pocket-dial from his sash, and looked down the three untouched ranks of frosted iron stretching all the way to the watch-bell.
 
-“At seven minutes to a housing, Sentinel,” Gu said, tapping his stylus against the rim of his slate, “half these people will have frostbitten toes before noon, and the Vale party won’t reach the tea rows before dark. Have you not got more hands?”
+“<font color=lightsteelblue>At seven minutes to a housing, Sentinel,</font>” Gu said, tapping his stylus against the rim of his slate, “<font color=lightsteelblue>half these people will have frostbitten toes before noon, and the Vale party won’t reach the tea rows before dark. Have you not got more hands?</font>”
 
 Hsin stopped with her spanner wedged on a stubborn corner bolt.
 
@@ -494,9 +494,9 @@ She looked up from the chest-plate—first at Gu’s fussy, expectant frown, the
 
 Hsin’s ears came all the way up.
 
-“Do you want them?” Hsin asked Gu.
+“<font color=gold>Do you want them?</font>” Hsin asked Gu.
 
-“Obviously,” Gu said. “We have a schedule.”
+“<font color=lightsteelblue>Obviously,</font>” Gu said. “<font color=lightsteelblue>We have a schedule.</font>”
 
 Hsin didn’t step back from the guardian, and she didn’t close her eyes. She simply gave her shoulders a single loose shake, the way she had shaken the ditch-water off her fur in Master Shao’s doorway, and laughed under her breath.
 
@@ -508,7 +508,7 @@ Along the hemp rope, thirty people gasped at once and took half a step back—an
 
 The nearest fox snatched Fang Qiu’s spare box-spanner off the canvas roll in its teeth, braced both hind paws against a guardian’s hip-flange, and yanked downwards with its whole skinny spine until the bolt screeched loose. Two more foxes scrambled straight up the bronze greaves of the second rank like squirrels up a pine trunk, perched on the frosted pauldrons with their dark-tipped tails curled round the neck-guards for balance, and began working the upper hatch-pins out with their front teeth and nimble paws. A fourth fox trotted briskly down the lane between the rows with five greased leather washers threaded onto its snout and an oil-rag dragging between its knees, pausing at every third guardian to let another fox pull a washer off its nose.
 
-“Ooh!” Ma Dou squealed from beside her father’s new guardian. Before the joiner could catch her collar, she ducked back under the rope and made a two-handed dive for the washer-fox’s bushy tail.
+“<font color=lightpink>Ooh!</font>” Ma Dou squealed from beside her father’s new guardian. Before the joiner could catch her collar, she ducked back under the rope and made a two-handed dive for the washer-fox’s bushy tail.
 
 The fox hopped sideways onto an upturned grease-tub without dropping a single washer off its nose, gave one high, dry *yip* right into her face, and bounced up onto the next guardian’s knee, leaving the little girl giggling breathlessly on the stones.
 
@@ -516,11 +516,11 @@ Amy stood holding her brass lamp in the middle of the row, grinning so wide her 
 
 Gu didn’t spare a single glance for the miracle of the Sentinel dividing her body into fourteen pieces in broad daylight. He tucked his robe up an inch out of the grease and marched briskly down the second rank behind the foxes with his slate held like a sergeant’s baton.
 
-“Number four fox, that lower-right nut is half a thread loose, go back and lean on it!” Gu barked, rapping his wooden stylus against a guardian’s bronze shin while the fox on its shoulder flattened its ears and dutifully jammed the spanner back onto the bolt. “And whichever one of you has the oil-can in the third row, stop dripping tallow on the knee-hinge—three drops in the cup, to specification!”
+“<font color=lightsteelblue>Number four fox, that lower-right nut is half a thread loose, go back and lean on it!</font>” Gu barked, rapping his wooden stylus against a guardian’s bronze shin while the fox on its shoulder flattened its ears and dutifully jammed the spanner back onto the bolt. “<font color=lightsteelblue>And whichever one of you has the oil-can in the third row, stop dripping tallow on the knee-hinge—three drops in the cup, to specification!</font>”
 
 At the first rank, Hsin herself—still in her tall shape with her own nine tails swaying lightly behind her calves—leaned both forearms on the open chest-shutter of Tan Xiu’s first basket-carrier, her eyes bright as new copper as she called across the rope:
 
-“Tan Xiu! Four voices for the Vale baskets—come and tell them yourselves, and don’t hit them with the mallet until they’re out of the line!”
+“<font color=gold>Tan Xiu! Four voices for the Vale baskets—come and tell them yourselves, and don’t hit them with the mallet until they’re out of the line!</font>”
 
 Down at the far end of the terrace by the gatehouse stair, where the sun hit the stone wall without warming it, Warden Liangyu stood alone with her cloak wrapped tight and her arms folded across her breastplate, watching the foxes run along the iron shoulders and asking for nothing at all.
 
@@ -550,13 +550,13 @@ Liangyu shifted two steps along the wall so the gorge wind wouldn’t carry thei
 
 Qingyan didn’t look at Hsin’s ears or the nine gold tails brushing the gravel. He stared at the frost-filled characters stamped across the guardian’s breastplate, his chest rising and falling hard under his crooked buttons, and then turned his head and looked straight into Hsin’s face.
 
-“Where were you?” Qingyan asked.
+“<font color=palegreen>Where were you?</font>” Qingyan asked.
 
 It was the exact question he had shouted from the mouth of the cooper’s alley on the morning she stood at the well, when she had looked down at the wet cobbles and given him nothing back.
 
 Hsin didn’t look at the cobbles today. She left her hands hanging out of her loose cuffs at her sides, the iron spanner cold against her fingers, where he could see the slight tremor in her wrist.
 
-“I was inside the Sanctum,” Hsin said plainly. “Behind the bolted jade doors. When the patrol went out to Xianling and the warning bells rang from the south tower, I heard them through the floor. I stayed where I was, and I didn’t come down.”
+“<font color=gold>I was inside the Sanctum,</font>” Hsin said plainly. “<font color=gold>Behind the bolted jade doors. When the patrol went out to Xianling and the warning bells rang from the south tower, I heard them through the floor. I stayed where I was, and I didn’t come down.</font>”
 
 She stopped there.
 
@@ -564,21 +564,21 @@ Qingyan’s jaw knotted hard under the thin skin of his cheek. His right fist ca
 
 Then he turned his head back toward the bronze guardian and looked down at the gap between its right forearm and its hip.
 
-“When Warden Liangyu brought her back from Xianling,” Qingyan said, his voice thin and scraping on the cold air, “her sword was still in its scabbard on her back. She hadn’t drawn it. The men said she walked right up to this one first when they came into the clearing, before the line broke, because she saw its arm sticking out and thought something had caught in the hinge.”
+“<font color=palegreen>When Warden Liangyu brought her back from Xianling,</font>” Qingyan said, his voice thin and scraping on the cold air, “<font color=palegreen>her sword was still in its scabbard on her back. She hadn’t drawn it. The men said she walked right up to this one first when they came into the clearing, before the line broke, because she saw its arm sticking out and thought something had caught in the hinge.</font>”
 
 At the parapet wall, Liangyu’s thumb dug hard into the leather edge of her belt.
 
-“Was there?” Qingyan asked the guardian’s chest. “Or did she just walk up to it for nothing?”
+“<font color=palegreen>Was there?</font>” Qingyan asked the guardian’s chest. “<font color=palegreen>Or did she just walk up to it for nothing?</font>”
 
 Hsin looked at the bronze elbow joint. Then she turned the heavy iron spanner round in her shaking palm and held it out to him, handle first.
 
-“I haven’t opened this one,” Hsin said quietly. “The inspection plate is on the inside of the elbow bend. Two square nuts. They turn clockwise to loosen on the right arm.”
+“<font color=gold>I haven’t opened this one,</font>” Hsin said quietly. “<font color=gold>The inspection plate is on the inside of the elbow bend. Two square nuts. They turn clockwise to loosen on the right arm.</font>”
 
 Qingyan looked at the iron handle in her hand for a long beat. Then he let go of his sword-strap, took the spanner out of her fingers without touching her skin, and stepped in between the guardian’s planted greaves.
 
 Liangyu didn’t move from the wall to help him, and she didn’t walk away down the stair.
 
-“Brace your left shoulder under the wrist-flange before you turn the bottom nut,” Hsin told him from three paces off, keeping her hands at her sides. “The spring inside the upper arm is still wound halfway. If you pull the plate while the weight’s hanging free, the cam will pinch the bolt.”
+“<font color=gold>Brace your left shoulder under the wrist-flange before you turn the bottom nut,</font>” Hsin told him from three paces off, keeping her hands at her sides. “<font color=gold>The spring inside the upper arm is still wound halfway. If you pull the plate while the weight’s hanging free, the cam will pinch the bolt.</font>”
 
 Qingyan wedged his thin shoulder solidly under the cold bronze wrist, where Liangyu’s faded red ribbon brushed his cheek, and fitted the spanner jaws over the lower nut. His hands were raw with chilblains around the knuckles, steady where Hsin’s shook. He leaned his weight into the iron handle until the frost-locked thread gave a sharp *crack*, spun both nuts off into his palm, and pried the curved bronze cover-plate loose with the flat tip of the spanner.
 
@@ -598,27 +598,27 @@ By the parapet steps, Liangyu turned her head sharply away from the row and star
 
 Qingyan stood between the guardian’s knees looking at the greasy ball of old red and blue rags in his palm. His shoulders gave one tight jerk under his crooked coat, and he wiped his nose hard on the rough wool of his sleeve.
 
-“Don’t wake this one,” Qingyan said, his voice cracking in the middle before he dragged it flat again. “Leave it asleep.”
+“<font color=palegreen>Don’t wake this one,</font>” Qingyan said, his voice cracking in the middle before he dragged it flat again. “<font color=palegreen>Leave it asleep.</font>”
 
 He shoved the wad of old cloth deep into his trouser pocket, picked the curved bronze cover off the stone, and bolted it back over the elbow himself, pulling the two square nuts tight with short, hard jerks of the spanner. Then he reached up to the forearm, untied the faded red ribbon Liangyu had knotted there during the festival, and tied it back on four inches lower down the wrist-guard, clear of the hinge where it could never work its way under the plate again.
 
 He stepped out from the rank, dropped Hsin’s spanner onto the pine boards of the trestle with a thump, and looked straight at her.
 
-“In your book by the well,” Qingyan said. “On the page with her name. Write down that she was right.”
+“<font color=palegreen>In your book by the well,</font>” Qingyan said. “<font color=palegreen>On the page with her name. Write down that she was right.</font>”
 
-Hsin looked back at him with her hands loose at her sides. “I will. Today.”
+Hsin looked back at him with her hands loose at her sides. “<font color=gold>I will. Today.</font>”
 
 Qingyan didn’t nod and didn’t say thank you. He turned on his heel and walked toward the terrace stair, his sister’s long scabbard knocking against his calf at every stride.
 
 When he came abreast of the parapet post where Liangyu stood, he didn’t stop or turn his head, only spoke straight in front of him into the cold air:
 
-“You’re still short a man on the third watch, Warden.”
+“<font color=palegreen>You’re still short a man on the third watch, Warden.</font>”
 
-“No,” Liangyu said.
+“<font color=wheat>No,</font>” Liangyu said.
 
 Qingyan’s boot hit the first frost-white step going down. Liangyu watched the iron hilt of Qingzhi’s broadsword dip below the level of the coping wall, let out a breath through her nose, and called down the stairwell after him:
 
-“Ask me again when the ice goes out in the third month.”
+“<font color=wheat>Ask me again when the ice goes out in the third month.</font>”
 
 His boots paused for the space of one heartbeat on the third riser, then went on clattering down the stone cut toward the market lane. Liangyu waited until the sound was gone, looked once more at the first guardian standing quiet with both arms at its sides, and went back up to her gatehouse empty-handed.
 
@@ -630,7 +630,7 @@ Her fingers inside her moon-white sleeves were cold from the climb, and the tip 
 
 Lupa had arrived at the top of the stone steps five minutes ahead of everyone else with the biggest double-woven willow basket in the Vale strapped across her rust-red shoulders, flatly refusing to let Old Chen’s nephew touch the hemp headband even after Chisa pointed out it was empty going uphill. Along the middle path, the four field puppets Tan Xiu had claimed that morning walked in single file with spare baskets cradled in their curved iron arms, each machine keeping two paces behind the villager whose voice it knew and stopping dead whenever its speaker stopped to spit or retie a legging. Down on the lowest wall, where a flat shelf of limestone caught the full south sun out of the wind, Iuno had planted Mei on a folded grain-sack in front of a heap of cut brushwood and a ball of soaked willow-bark twine, with strict orders to tie faggots for the brick-kilns and keep her boots on the level rock.
 
-“The sap is only half down,” Tan Xiu shouted from the middle path, waving a pair of heavy iron hand-shears at the townspeople and Mingxiao’s masons alike. “Take the grey summer shoots back to the second knuckle above the fork, clear the dead wood out of the middle so the air gets through, and don’t chop the crowns flat! These bushes have been barbered like garrison recruits for two hundred years, and half of ’em have forgotten how to throw a side-branch!”
+“<font color=lightsalmon>The sap is only half down,</font>” Tan Xiu shouted from the middle path, waving a pair of heavy iron hand-shears at the townspeople and Mingxiao’s masons alike. “<font color=lightsalmon>Take the grey summer shoots back to the second knuckle above the fork, clear the dead wood out of the middle so the air gets through, and don’t chop the crowns flat! These bushes have been barbered like garrison recruits for two hundred years, and half of ’em have forgotten how to throw a side-branch!</font>”
 
 Qingxiao looked down the third row in front of her boots.
 
@@ -648,29 +648,29 @@ Tan Xiu stopped dead in the middle of the path. Slowly, the seventy-year-old tea
 
 One terrace below, Ruoyun’s head whipped round so fast her spectacles flashed in the sun; she dropped her shears into a basket and took two long strides toward the steps, her chin coming up like a drawn lance.
 
-“Who told you to do that?!” Tan Xiu demanded, pointing a crooked, tea-stained forefinger straight at Qingxiao’s levelled row. “Did you leave your ears at the bottom of the hill, young woman? That’s the exact way the clockwork idiots cut them! Look at that third bush by the culvert—it was leaning south to get past the plum-tree shade, and you’ve sheared the only live leader it had right off at the collar! A tea bush isn’t a parade wall!”
+“<font color=lightsalmon>Who told you to do that?!</font>” Tan Xiu demanded, pointing a crooked, tea-stained forefinger straight at Qingxiao’s levelled row. “<font color=lightsalmon>Did you leave your ears at the bottom of the hill, young woman? That’s the exact way the clockwork idiots cut them! Look at that third bush by the culvert—it was leaning south to get past the plum-tree shade, and you’ve sheared the only live leader it had right off at the collar! A tea bush isn’t a parade wall!</font>”
 
 At the foot of the steps, Ruoyun drew in a breath to reduce the old woman’s ancestry to ashes.
 
-“Ruoyun,” Qingxiao said without turning her head.
+“<font color=lightcyan>Ruoyun,</font>” Qingxiao said without turning her head.
 
 Ruoyun’s mouth snapped shut so hard her teeth clicked. She stayed on the bottom step, glaring daggers at Tan Xiu’s woollen back while her hand drifted toward her left horn and then forced itself down to smooth her spotless white cuff instead.
 
 Qingxiao looked down at the third bush by the culvert, where the pale green heart of the main stem sat cleanly bisected among a few melting white plum petals, and then looked back at Tan Xiu with calm curiosity.
 
-“Show me,” Qingxiao said.
+“<font color=lightcyan>Show me,</font>” Qingxiao said.
 
 Tan Xiu blinked once—clearly having expected either thunderbolts or a courtly excuse—and then grunted, reached into her apron pocket, and slapped a heavy, grease-blackened pair of iron hand-shears into Qingxiao’s open palm.
 
-“Put the sword away, you’re not fighting the weeds,” Tan Xiu muttered, stepping into the mud beside the fourth bush and grabbing a knotted gray branch with her thumb. “Look at the bark before you squeeze. See this little red bud pointing out toward the ditch? If you cut half an inch above it on a slant, the rain runs off the wood and the new shoot grows out into the sun next third-month. If you cut flat across the top without looking, the water sits in the pith and rots the knee.”
+“<font color=lightsalmon>Put the sword away, you’re not fighting the weeds,</font>” Tan Xiu muttered, stepping into the mud beside the fourth bush and grabbing a knotted gray branch with her thumb. “<font color=lightsalmon>Look at the bark before you squeeze. See this little red bud pointing out toward the ditch? If you cut half an inch above it on a slant, the rain runs off the wood and the new shoot grows out into the sun next third-month. If you cut flat across the top without looking, the water sits in the pith and rots the knee.</font>”
 
-“I see,” Qingxiao said.
+“<font color=lightcyan>I see,</font>” Qingxiao said.
 
 She stepped to the fifth bush, found an outward-pointing red bud with her eyes, and fitted the iron blades of the shears around the woody stem.
 
 When she squeezed the handles together, nothing happened except that the cold iron bit into the base of her thumb. Without her Sword Intent in her fingers, the two-year-old tea wood was as hard as seasoned oak, and her mortal hands were stiff from the frost. She squeezed harder, using both hands on the grips; the dull pivot-bolt wobbled, the blades twisted sideways, and the branch folded over in a ragged, bark-peeled chew instead of parting clean.
 
-Tan Xiu let out a long, whistling breath through her teeth, looked at the mangled stem, and shook her head. “Cut with the heel of the blade, not the tip. Keep at it. I haven’t got all day to hold your elbow.”
+Tan Xiu let out a long, whistling breath through her teeth, looked at the mangled stem, and shook her head. “<font color=lightsalmon>Cut with the heel of the blade, not the tip. Keep at it. I haven’t got all day to hold your elbow.</font>”
 
 She stumped off down the steps toward the lower rows. Qingxiao stood alone in the dirt, looked at the chewed twig and the gray smudge of sap on her cold forefinger, and moved six inches to the right to try the next branch.
 
@@ -678,13 +678,13 @@ One terrace down, it turned out within five minutes that Ruoyun was furious, sil
 
 She didn’t stop to squint at the buds; she walked down the second row at a brisk garrison pace—*clack, clack, clack*—her brass spectacles glinting as the iron blades took out dead cross-wood, opened the centres to the light, and left clean forty-five-degree slants above every outward node without getting a single fleck of mud on her white ankle socks or her ruffled cuffs.
 
-Passing behind her with an empty basket, Tan Xiu stopped, eyed six pruned bushes in a row, and gave a short nod. “That one knows which end of the iron is sharp. Somebody taught her properly.”
+Passing behind her with an empty basket, Tan Xiu stopped, eyed six pruned bushes in a row, and gave a short nod. “<font color=lightsalmon>That one knows which end of the iron is sharp. Somebody taught her properly.</font>”
 
 Ruoyun’s neck went pink above her collar. She didn’t look at Tan Xiu; instead she spun on her heel toward the next bush, where Buling was squatting on an upturned bucket trying to saw through a thumb-thick water-shoot with her eyes half-shut.
 
-“If you leave another chewed broom-stump like that on my terrace,” Ruoyun hissed at her, “I’ll take these shears to your hat while your head’s still in it. Use your wrist, you lazy corpse.”
+“<font color=lavender>If you leave another chewed broom-stump like that on my terrace,</font>” Ruoyun hissed at her, “<font color=lavender>I’ll take these shears to your hat while your head’s still in it. Use your wrist, you lazy corpse.</font>”
 
-“Aiya, this bush grow iron inside one, not wood!” Buling complained, wiggling her sore fingers. Glancing sideways to make sure Tan Xiu’s back was turned, she pinched a tiny yellow paper charm out of her cuff, slapped it onto the wet iron pivot of her shears, and whispered a quarter-breath of Thunder spell to make the blades bite by themselves.
+“<font color=palegreen>Aiya, this bush grow iron inside one, not wood!</font>” Buling complained, wiggling her sore fingers. Glancing sideways to make sure Tan Xiu’s back was turned, she pinched a tiny yellow paper charm out of her cuff, slapped it onto the wet iron pivot of her shears, and whispered a quarter-breath of Thunder spell to make the blades bite by themselves.
 
 *Snap-zzzt!*
 
@@ -698,9 +698,9 @@ She had tucked her nine tails up through her sash-cord in a huge golden bundle b
 
 Longjue came strolling barefoot along the top of the dry-stone wall between them, her indigo work-trousers rolled to the calf and her red lacquer gourd swinging from two fingers. She hopped down into the ditch beside Hsin, pulled the wooden stopper out with her teeth, and shoved the mouth of the gourd straight under Hsin’s nose.
 
-“Mouth open, landlady,” Longjue said cheerfully. “Wind’s cold on the ridge. Call it half a string’s interest on the winter-solstice tiles so your fingers stop stiff-legging the shears.”
+“<font color=aquamarine>Mouth open, landlady,</font>” Longjue said cheerfully. “<font color=aquamarine>Wind’s cold on the ridge. Call it half a string’s interest on the winter-solstice tiles so your fingers stop stiff-legging the shears.</font>”
 
-“That debt grows every time you uncork that thing,” Hsin said, though her ears came up and she took the gourd in both sap-stained hands, tipping her head back for a proper swallow of the sixty-day sorghum.
+“<font color=gold>That debt grows every time you uncork that thing,</font>” Hsin said, though her ears came up and she took the gourd in both sap-stained hands, tipping her head back for a proper swallow of the sixty-day sorghum.
 
 The fiery grain-spirit hit the back of her throat at the exact moment a gust of mountain wind blew down the gulley. Hsin’s eyes went round as saucers; she handed the gourd blindly back into Longjue’s chest, clapped her loose cuff over her mouth, and doubled over coughing into her sleeve while all nine tails burst out of her sash-knot like a dropped broom.
 
@@ -716,7 +716,7 @@ She held the brass plate out to Gu.
 
 Gu lowered his spirit-level. He looked at the notched plate in Hsin’s dirty hand—the master specification key for the entire Mengxuan Vale agricultural array—and then up at Hsin’s face.
 
-“They’re the Vale’s now,” Hsin said plainly. “Yours and Mingxiao’s crew’s. Not mine. If you wind them in the spring, they’ll read whatever is cut on that plate.”
+“<font color=gold>They’re the Vale’s now,</font>” Hsin said plainly. “<font color=gold>Yours and Mingxiao’s crew’s. Not mine. If you wind them in the spring, they’ll read whatever is cut on that plate.</font>”
 
 Gu took the brass plate in both hands.
 
@@ -732,19 +732,19 @@ He slid the altered key back into the lead puppet’s collar-slot until the latc
 
 Mingxiao had come up the stone steps behind him with a bundle of pruned branches under her arm and a streak of red terrace clay across her cheek. She dropped the wood onto the pile, wiped her palms on her white robe—leaving two brown handprints across the front—and looked straight at Hsin.
 
-“And us, Sentinel?” Mingxiao asked, her voice blunt and level over the *clack-clack* of shears along the slope. “We’re out of the boundary stones with blisters on our thumbs, eating Peng Shulan’s fish on credit and arguing with seventy-year-old women about ginger. What are we now, under your terms?”
+“<font color=wheat>And us, Sentinel?</font>” Mingxiao asked, her voice blunt and level over the *clack-clack* of shears along the slope. “<font color=wheat>We’re out of the boundary stones with blisters on our thumbs, eating Peng Shulan’s fish on credit and arguing with seventy-year-old women about ginger. What are we now, under your terms?</font>”
 
 Along the second terrace, Old Chen paused with his mattock grounded in the dirt; five paces away, Ruoyun’s shears went still in the middle of a bush.
 
 Hsin didn’t put on her courtly smile, and she didn’t look away down the valley. She stood in the mud with sap dried black on her wrists and a stray tea-leaf caught in her seventh tail.
 
-“I don’t know yet,” Hsin said plainly. “What do you want to be?”
+“<font color=gold>I don’t know yet,</font>” Hsin said plainly. “<font color=gold>What do you want to be?</font>”
 
 Mingxiao opened her mouth. She looked down at the two brown mud-prints on her white Celestial robe, then back toward the grey roofs of the Hold smoking below the gatehouse, and then up at the crooked, unevenly pruned tea rows climbing the ridge.
 
-“I don’t know either,” Mingxiao said.
+“<font color=wheat>I don’t know either,</font>” Mingxiao said.
 
-“Then we’ll both find out,” Hsin said. “Have you got the oil-rag in your sash? My pivot-bolt’s sticking.”
+“<font color=gold>Then we’ll both find out,</font>” Hsin said. “<font color=gold>Have you got the oil-rag in your sash? My pivot-bolt’s sticking.</font>”
 
 Mingxiao let out a short, rough breath that was almost a laugh, pulled a greasy twist of wool out of her belt, and tossed it across the path.
 
@@ -768,7 +768,7 @@ Hsin stepped up to the threshold and laid her palm against the cold, rough fir o
 
 She pushed once with her arm; the wood groaned and stuck fast.
 
-Behind her right heel, Suoming’s voice came flat and quiet out of the dusk: “Lift, then shove.”
+Behind her right heel, Suoming’s voice came flat and quiet out of the dusk: “<font color=plum>Lift, then shove.</font>”
 
 Hsin shifted the two books under her left elbow, hooked both hands under the middle cross-bar, lifted with her knees until the rusted pintle screeched in its socket, and shoved her shoulder squarely against the planks.
 
@@ -792,15 +792,15 @@ Someone had written across it in thick, blunt carpenter’s charcoal that smudge
 
 Hsin stared at the blunt black scrawl in the fading light. Both of her golden ears came straight up, higher than they had stood all afternoon on the mountain, and a small, crooked smile tugged at the corner of her mouth.
 
-“No *Lady*,” Hsin told the twilight. “Not even *Sentinel*. Just the drain.”
+“<font color=gold>No *Lady*,</font>” Hsin told the twilight. “<font color=gold>Not even *Sentinel*. Just the drain.</font>”
 
-Suoming stepped over the threshold rail, her heavy boots crunching on the dry leaves, and looked down at the scrap in Hsin’s fingers. “The cooper’s son-in-law,” Suoming said, recognizing the charcoal fist at a glance. “He writes the same way he drives barrel-hoops.”
+Suoming stepped over the threshold rail, her heavy boots crunching on the dry leaves, and looked down at the scrap in Hsin’s fingers. “<font color=plum>The cooper’s son-in-law,</font>” Suoming said, recognizing the charcoal fist at a glance. “<font color=plum>He writes the same way he drives barrel-hoops.</font>”
 
 Hsin folded the complaint chit with great care along its middle crease and tucked it deep into her right cuff, where the Mengzhou dispatch had ridden two days ago. Only then did she untie the hemp string on the oiled paper, pinch out a single dark slice of dried plum, and hold the packet up toward Suoming.
 
-Suoming took one piece with her left hand and chewed it slowly. “Peng Shulan puts licorice root in the syrup,” she said. “You still owe her for the fish.”
+Suoming took one piece with her left hand and chewed it slowly. “<font color=plum>Peng Shulan puts licorice root in the syrup,</font>” she said. “<font color=plum>You still owe her for the fish.</font>”
 
-“I’ll go down on Tuesday,” Hsin said, eating her own slice in two bites and licking the sugar off her thumb. “When the tables aren’t full.”
+“<font color=gold>I’ll go down on Tuesday,</font>” Hsin said, eating her own slice in two bites and licking the sugar off her thumb. “<font color=gold>When the tables aren’t full.</font>”
 
 She pushed the broom and the chipped pot an inch back against the wall, brushed the dry pine needles off the middle of the threshold step with the sweep of her dark-tipped tail, and sat down on the cold stone.
 
@@ -821,11 +821,11 @@ Beside her on the step, Suoming stood with her weight resting lightly against th
 
 When she reached the bottom of the seventh column, Hsin stopped with the tip of her brush hovering half an inch above the rough hemp paper. She tilted her head back until her ears brushed the weathered timber of the gate-post and looked up at the small woman in the faded plum coat.
 
-“May I put you in this one?” Hsin asked.
+“<font color=gold>May I put you in this one?</font>” Hsin asked.
 
 Suoming’s right hand rested inside the front of her coat, her knuckles pressed flat against the black lacquer and vermillion of the Providence Lock over her ribs. She looked down at the white page on Hsin’s knees, where the living of Xuanfang Hold sat lined up with their buckets and their drains and their arguments.
 
-“I’m already in somebody else’s book,” Suoming said.
+“<font color=plum>I’m already in somebody else’s book,</font>” Suoming said.
 
 Hsin looked at her for a quiet beat, nodded once, and drew the brush back without touching the paper.
 
@@ -845,11 +845,11 @@ Above her head, Suoming snapped Nine Shadows open. The broad oiled-paper dome cu
 
 Hsin blew once across Qingzhi’s page, shut the red-ruled ledger, and stacked it neatly on top of the book of the living inside the dry threshold. Then she stood up on the step, brushing the stone-dust off her knees, and looked down at Suoming’s small left hand gripping the bamboo shaft of the umbrella.
 
-“May I hold it?” Hsin asked.
+“<font color=gold>May I hold it?</font>” Hsin asked.
 
 Suoming looked up at her—at the flour still caught in the crease of her left elbow from the morning’s dough, the sap stain on her thumb from the Vale shears, and the corner of the cooper’s drain complaint poking out of her loose right cuff.
 
-Suoming held the bamboo shaft out. “Mm. You asked.”
+Suoming held the bamboo shaft out. “<font color=plum>Mm. You asked.</font>”
 
 Hsin took the handle in both hands.
 
